@@ -29,9 +29,10 @@ NATIVE_RUNTIME = Path(os.environ.get('OSTA_NATIVE_RUNTIME') or
 def game_running():
     import subprocess
     try:
-        out = subprocess.run(['tasklist', '/FI', f'IMAGENAME eq {GAME_EXE}', '/NH'], capture_output=True, text=True,
-                             creationflags=getattr(subprocess, 'CREATE_NO_WINDOW', 0)).stdout
-        return GAME_EXE.lower() in out.lower()
+        # Bytes: tasklist responde en la codificación OEM del sistema (p. ej. «INFORMACIÓN» en cp850).
+        out = subprocess.run(['tasklist', '/FI', f'IMAGENAME eq {GAME_EXE}', '/NH'], capture_output=True,
+                             creationflags=getattr(subprocess, 'CREATE_NO_WINDOW', 0)).stdout or b''
+        return GAME_EXE.lower().encode() in out.lower()
     except OSError:
         return False
 
