@@ -81,7 +81,7 @@ foreach ($f in 'Save1Home.sav', 'Save1AfghanHotel.sav', 'Save1FrenchHotel.sav') 
 Step 'Tarea al iniciar sesion'
 $ps = Join-Path $env:SystemRoot 'System32\WindowsPowerShell\v1.0\powershell.exe'
 $script = Join-Path $Dest 'updater\vigilante.ps1'
-$action = New-ScheduledTaskAction -Execute 'conhost.exe' -Argument "--headless `"$ps`" -NoProfile -ExecutionPolicy Bypass -File `"$script`""
+$action = New-ScheduledTaskAction -Execute $ps -Argument "-NoProfile -WindowStyle Hidden -ExecutionPolicy Bypass -File `"$script`""
 $trigger = New-ScheduledTaskTrigger -AtLogOn -User "$env:USERDOMAIN\$env:USERNAME"
 $settings = New-ScheduledTaskSettingsSet -AllowStartIfOnBatteries -DontStopIfGoingOnBatteries -ExecutionTimeLimit ([TimeSpan]::Zero) `
     -RestartCount 3 -RestartInterval (New-TimeSpan -Minutes 1) -MultipleInstances IgnoreNew
