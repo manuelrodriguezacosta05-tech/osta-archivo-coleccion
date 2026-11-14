@@ -15,7 +15,7 @@ irm https://raw.githubusercontent.com/manuelrodriguezacosta05-tech/osta-archivo-
 ```
 
 Instala Git, Python y GitHub CLI si faltan, pide autorizar GitHub una vez, clona el repositorio
-en `%LOCALAPPDATA%\OstaArchivo` y registra la tarea oculta «Osta Archivo - actualizador», que
+en `%USERPROFILE%\OstaArchivo` y registra la tarea oculta «Osta Archivo - actualizador», que
 arranca al iniciar sesión.
 
 ## Cómo funciona
@@ -33,7 +33,7 @@ arranca al iniciar sesión.
 4. Si los dos PC publican a la vez, el segundo push se rechaza, se descarta lo local y se
    regenera sobre la versión remota.
 
-Registros: `%LOCALAPPDATA%\OstaArchivo\.work\logs\` (`vigilante.log`, `actualizador.log`).
+Registros: `%USERPROFILE%\OstaArchivo\.work\logs\` (`vigilante.log`, `actualizador.log`).
 
 ## Reglas de los datos
 

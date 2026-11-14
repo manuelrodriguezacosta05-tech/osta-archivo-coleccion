@@ -6,7 +6,7 @@
 # publica la web al abrirlo y al cerrarlo; hace una primera lectura de prueba.
 $ErrorActionPreference = 'Stop'
 $Repo = 'manuelrodriguezacosta05-tech/osta-archivo-coleccion'
-$Dest = if ($env:OSTA_ARCHIVO_DIR) { $env:OSTA_ARCHIVO_DIR } else { Join-Path $env:LOCALAPPDATA 'OstaArchivo' }
+$Dest = if ($env:OSTA_ARCHIVO_DIR) { $env:OSTA_ARCHIVO_DIR } else { Join-Path $env:USERPROFILE 'OstaArchivo' }
 $TaskName = 'Osta Archivo - actualizador'
 
 function Step($t) { Write-Host "`n== $t" -ForegroundColor Cyan }

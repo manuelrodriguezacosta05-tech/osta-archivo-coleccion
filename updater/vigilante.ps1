@@ -1,4 +1,4 @@
-﻿# Osta · Archivo de la colección — vigilante del juego.
+﻿﻿# Osta · Archivo de la colección — vigilante del juego.
 # Se ejecuta oculto al iniciar sesión (tarea programada). Cuando Osta se abre o se cierra,
 # lanza pipeline/update.py, que lee los guardados y publica en GitHub Pages si hay cambios.
 $ErrorActionPreference = 'Continue'
