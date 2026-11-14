@@ -1,0 +1,165 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-11-14T17:00:00Z",
+  "title": "Design System: Osta · Archivo de la colección",
+  "seededFrom": {
+    "world": "Museo del bosque báltico",
+    "seed": "261c46a2856990cd",
+    "contract": ".impeccable/surfaces/docs-index-html.md"
+  },
+  "extensions": {
+    "colorMeta": {
+      "spruce": { "role": "primary", "displayName": "Spruce", "canonical": "#1d3529", "cssVar": "--spruce", "dark": "#183024", "tonalRamp": ["#0c1711", "#14261c", "#1d3529", "#2f5140", "#4a6f5c", "#74927f", "#a9bdaf", "#dde6df"] },
+      "spruce-raised": { "role": "primary", "displayName": "Spruce Raised", "canonical": "#28473a", "cssVar": "--spruce-2", "dark": "#224031" },
+      "spruce-ink": { "role": "primary", "displayName": "Spruce Ink", "canonical": "#eef1e8", "note": "Literal in source (selection, .btn.primary, .chip.active, #toast); not a custom property." },
+      "rail-ink": { "role": "neutral", "displayName": "Rail Ink", "canonical": "#e4e7dc", "cssVar": "--rail-ink", "dark": "#dfe3d6" },
+      "rail-muted": { "role": "neutral", "displayName": "Rail Muted", "canonical": "#a9b8a6", "cssVar": "--rail-muted", "dark": "#9aab97" },
+      "birch-ground": { "role": "neutral", "displayName": "Birch Ground", "canonical": "#eceae2", "cssVar": "--ground", "dark": "#0e1210", "tonalRamp": ["#1e1d19", "#3a3832", "#5d5a51", "#87837a", "#b0aca0", "#d3d0c5", "#eceae2", "#fbfaf7"] },
+      "paper": { "role": "neutral", "displayName": "Paper", "canonical": "#f6f5f0", "cssVar": "--panel", "dark": "#161c18" },
+      "paper-bright": { "role": "neutral", "displayName": "Paper Bright", "canonical": "#fbfaf7", "cssVar": "--panel-2", "dark": "#1b221d" },
+      "peat-ink": { "role": "neutral", "displayName": "Peat Ink", "canonical": "#1b231d", "cssVar": "--ink", "dark": "#e6e8df" },
+      "moss-muted": { "role": "neutral", "displayName": "Moss Muted", "canonical": "#4f5a51", "cssVar": "--muted", "dark": "#b4bcb0" },
+      "lichen-faint": { "role": "neutral", "displayName": "Lichen Faint", "canonical": "#5a645b", "cssVar": "--faint", "dark": "#8f998d" },
+      "seam": { "role": "neutral", "displayName": "Seam", "canonical": "#cdcabd", "cssVar": "--seam", "dark": "#2f3a32" },
+      "seam-strong": { "role": "neutral", "displayName": "Seam Strong", "canonical": "#b3af9f", "cssVar": "--seam-strong", "dark": "#435045" },
+      "house-estonia": { "role": "secondary", "displayName": "Estonia Spruce", "canonical": "#1d3529", "cssVar": "--ee", "dark": "#7fb08e" },
+      "house-francia": { "role": "secondary", "displayName": "Northern-Dusk Blue", "canonical": "#2f4b66", "cssVar": "--fr", "dark": "#8fb2d6", "tonalRamp": ["#111c27", "#1f3346", "#2f4b66", "#4a6886", "#6f8ba6", "#9cb2c6", "#c8d5e1", "#eaf0f5"] },
+      "house-afganistan": { "role": "secondary", "displayName": "Resin Amber", "canonical": "#a8761f", "cssVar": "--af", "dark": "#d9a64a", "tonalRamp": ["#33230a", "#5a3f12", "#83601a", "#a8761f", "#c08a2c", "#d6ad62", "#ead19f", "#f8eedb"] },
+      "house-afganistan-fill": { "role": "secondary", "displayName": "Resin Fill", "canonical": "#c08a2c", "cssVar": "--af-fill", "dark": "#c08a2c" },
+      "stamp-rust": { "role": "tertiary", "displayName": "Stamp Rust", "canonical": "#a3432f", "cssVar": "--rust", "dark": "#e2917c", "tonalRamp": ["#341209", "#5e2216", "#833223", "#a3432f", "#c06650", "#d9937f", "#ecc2b5", "#f8e8e2"] },
+      "rust-wash": { "role": "tertiary", "displayName": "Rust Wash", "canonical": "#f1ddd5", "cssVar": "--rust-soft", "dark": "#3a221b" },
+      "dusk-wash": { "role": "secondary", "displayName": "Dusk Wash", "canonical": "#dfe6ec", "cssVar": "--blue-soft", "dark": "#1d2a36" },
+      "resin-text": { "role": "secondary", "displayName": "Resin Text", "canonical": "#8a6114", "cssVar": "--amber", "dark": "#e0bd73" },
+      "resin-wash": { "role": "secondary", "displayName": "Resin Wash", "canonical": "#f2e6c9", "cssVar": "--amber-soft", "dark": "#342915" },
+      "needle-wash": { "role": "secondary", "displayName": "Needle Wash", "canonical": "#dfe6d9", "cssVar": "--green-soft", "dark": "#22301f" }
+    },
+    "typographyMeta": {
+      "display": { "displayName": "Display", "purpose": "Vista general title only." },
+      "headline": { "displayName": "Headline", "purpose": "Page title on every other section." },
+      "figure": { "displayName": "Figure", "purpose": "The four-figure strip counts; denominators at 0.48em." },
+      "title": { "displayName": "Title", "purpose": "Section headings, wing names and wing counts." },
+      "row-title": { "displayName": "Row Title", "purpose": "Clickable object names in lists, ledgers and plates." },
+      "body": { "displayName": "Body", "purpose": "Running text, tabular figures throughout." },
+      "label": { "displayName": "Label", "purpose": "Uppercase tracked field labels, figure captions, dialog header." }
+    },
+    "shadows": [
+      { "name": "sheet-lift", "value": "0 30px 80px -20px rgba(10,20,14,.5)", "purpose": "Object-sheet dialog only, over a rgba(15,29,22,.55) backdrop." },
+      { "name": "focus-halo", "value": "0 0 0 3px color-mix(in srgb, var(--fr) 22%, transparent)", "purpose": "Inputs and selects on focus, with a dusk-blue border." }
+    ],
+    "focus": [
+      { "name": "focus-ring", "value": "outline: 2px solid var(--fr); outline-offset: 2px", "purpose": "Global :focus-visible ring in northern-dusk blue." }
+    ],
+    "motion": [
+      { "name": "ease-out-expo", "value": "cubic-bezier(.16,1,.3,1)", "purpose": "Room fill rise and label clip (0.9s); mobile rail drawer (0.25s)." },
+      { "name": "hover-border", "value": "border-color .15s", "purpose": "Room hover border." },
+      { "name": "reduced-motion", "value": "prefers-reduced-motion: reduce", "purpose": "Disables room animations, all transitions and smooth scrolling." }
+    ],
+    "breakpoints": [
+      { "name": "wide", "value": "1200px" },
+      { "name": "rail-drawer", "value": "900px" },
+      { "name": "phone", "value": "620px" }
+    ]
+  },
+  "components": [
+    {
+      "name": "Button",
+      "kind": "button",
+      "refersTo": "button",
+      "description": "Default action on paper with a strong seam.",
+      "html": "<button class=\"ds-btn\">Exportar CSV</button>",
+      "css": ".ds-btn { display:inline-flex; align-items:center; gap:7px; padding:9px 15px; border-radius:3px; border:1px solid var(--seam-strong,#b3af9f); background:var(--panel,#f6f5f0); color:var(--ink,#1b231d); font:400 14.5px/1.5 Barlow,'Segoe UI',system-ui,sans-serif; cursor:pointer; } .ds-btn:hover { border-color:var(--ink,#1b231d); background:var(--panel-2,#fbfaf7); } .ds-btn:focus-visible { outline:2px solid var(--fr,#2f4b66); outline-offset:2px; }"
+    },
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "The one spruce-filled action in a group.",
+      "html": "<button class=\"ds-btn-primary\">Abrir ficha</button>",
+      "css": ".ds-btn-primary { display:inline-flex; align-items:center; gap:7px; padding:9px 15px; border-radius:3px; border:1px solid var(--spruce,#1d3529); background:var(--spruce,#1d3529); color:#eef1e8; font:400 14.5px/1.5 Barlow,'Segoe UI',system-ui,sans-serif; cursor:pointer; } .ds-btn-primary:hover { background:var(--spruce-2,#28473a); } .ds-btn-primary:focus-visible { outline:2px solid var(--fr,#2f4b66); outline-offset:2px; }"
+    },
+    {
+      "name": "Chip",
+      "kind": "chip",
+      "refersTo": "chip",
+      "description": "Filter chip; the active chip fills spruce.",
+      "html": "<div class=\"ds-chips\"><button class=\"ds-chip ds-chip-active\">Todas</button><button class=\"ds-chip\">Estonia</button><button class=\"ds-chip\">Francia</button></div>",
+      "css": ".ds-chips { display:flex; gap:8px; flex-wrap:wrap; } .ds-chip { border:1px solid var(--seam-strong,#b3af9f); background:var(--panel,#f6f5f0); color:var(--ink,#1b231d); border-radius:2px; padding:7px 14px; cursor:pointer; font:600 14.5px 'Barlow Semi Condensed','Arial Narrow',sans-serif; letter-spacing:.02em; } .ds-chip-active { background:var(--spruce,#1d3529); border-color:var(--spruce,#1d3529); color:#eef1e8; } .ds-chip:focus-visible { outline:2px solid var(--fr,#2f4b66); outline-offset:2px; }"
+    },
+    {
+      "name": "Search Field",
+      "kind": "input",
+      "refersTo": "input",
+      "description": "Filter field with an uppercase signage label above.",
+      "html": "<label class=\"ds-field\">Buscar objeto, pieza o referencia<input type=\"search\" placeholder=\"M1 Carbine, SSh-36…\"></label>",
+      "css": ".ds-field { display:flex; flex-direction:column; gap:5px; font:600 12px 'Barlow Semi Condensed','Arial Narrow',sans-serif; letter-spacing:.12em; text-transform:uppercase; color:var(--faint,#5a645b); } .ds-field input { padding:8px 10px; border:1px solid var(--seam-strong,#b3af9f); border-radius:3px; background:var(--panel-2,#fbfaf7); color:var(--ink,#1b231d); font:400 15px Barlow,'Segoe UI',system-ui,sans-serif; letter-spacing:0; text-transform:none; } .ds-field input:focus { border-color:var(--fr,#2f4b66); outline:none; box-shadow:0 0 0 3px color-mix(in srgb,var(--fr,#2f4b66) 22%,transparent); }"
+    },
+    {
+      "name": "Rail Navigation",
+      "kind": "nav",
+      "refersTo": "nav-item",
+      "description": "Spruce rail items with counts and exact-length extent bars; active item inverts.",
+      "html": "<nav class=\"ds-rail\"><a class=\"ds-nav-item ds-active\" href=\"#\">Vista general</a><a class=\"ds-nav-item\" href=\"#\" style=\"--w:70%\">Mi colección<b>1031</b><span class=\"ds-ext\"><i></i></span></a><a class=\"ds-nav-item\" href=\"#\" style=\"--w:8%\">Puedes montar<b>56</b><span class=\"ds-ext\"><i></i></span></a></nav>",
+      "css": ".ds-rail { background:var(--spruce,#1d3529); padding:16px; display:flex; flex-direction:column; gap:2px; width:240px; } .ds-nav-item { display:grid; grid-template-columns:1fr auto; align-items:center; row-gap:6px; padding:9px 10px 8px; border-radius:3px; text-decoration:none; font:400 15px Barlow,'Segoe UI',sans-serif; color:var(--rail-ink,#e4e7dc); } .ds-nav-item b { font:600 12.5px 'Barlow Semi Condensed','Arial Narrow',sans-serif; color:var(--rail-muted,#a9b8a6); } .ds-ext { grid-column:1/-1; height:3px; border-radius:2px; background:rgba(228,231,220,.12); overflow:hidden; } .ds-ext i { display:block; height:100%; width:var(--w,0); background:var(--rail-muted,#a9b8a6); border-radius:2px; } .ds-nav-item:hover { background:rgba(255,255,255,.06); } .ds-nav-item.ds-active { background:var(--rail-ink,#e4e7dc); color:var(--spruce,#1d3529); } .ds-nav-item:focus-visible { outline:2px solid var(--fr,#8fb2d6); outline-offset:2px; }"
+    },
+    {
+      "name": "Tags and Stamps",
+      "kind": "chip",
+      "refersTo": "tag",
+      "description": "Soft-wash tags for attributes; tilted outlined stamps for states that need attention.",
+      "html": "<div class=\"ds-tagrow\"><span class=\"ds-tag\">Estonia</span><span class=\"ds-tag ds-tag-blue\">Francia</span><span class=\"ds-tag ds-tag-amber\">Segunda tanda</span><span class=\"ds-stamp\">1 duda abierta</span></div>",
+      "css": ".ds-tagrow { display:flex; gap:8px; align-items:center; flex-wrap:wrap; } .ds-tag { display:inline-flex; align-items:center; font:600 13px/1.4 'Barlow Semi Condensed','Arial Narrow',sans-serif; letter-spacing:.02em; padding:1px 8px; border-radius:2px; background:var(--green-soft,#dfe6d9); color:var(--ee,#1d3529); } .ds-tag-blue { background:var(--blue-soft,#dfe6ec); color:var(--blue,#2f4b66); } .ds-tag-amber { background:var(--amber-soft,#f2e6c9); color:var(--amber,#8a6114); } .ds-stamp { display:inline-block; border:1.5px solid currentColor; color:var(--rust,#a3432f); font:700 12px/1.3 'Barlow Semi Condensed','Arial Narrow',sans-serif; letter-spacing:.14em; text-transform:uppercase; padding:1px 7px; border-radius:2px; transform:rotate(-1.5deg); }"
+    },
+    {
+      "name": "Wing with Rooms",
+      "kind": "card",
+      "refersTo": "wing",
+      "description": "Floor-plan wing: house-colour top rule, rooms filled from the bottom to their exact share.",
+      "html": "<section class=\"ds-wing\" style=\"--hc:#2f4b66\"><header><h2>Francia</h2><b>86</b></header><div class=\"ds-rooms\"><button class=\"ds-room\" style=\"--f:100%\"><span><b>51</b> Alemania</span></button><button class=\"ds-room\" style=\"--f:35%\"><span><b>18</b> Aliados</span></button><button class=\"ds-room\" style=\"--f:12%\"><span><b>6</b> Reino Unido</span></button></div></section>",
+      "css": ".ds-wing { background:var(--panel,#f6f5f0); border:1px solid var(--seam,#cdcabd); border-top:6px solid var(--hc); padding:14px 16px 16px; display:flex; flex-direction:column; gap:10px; max-width:420px; } .ds-wing header { display:flex; justify-content:space-between; align-items:baseline; } .ds-wing h2, .ds-wing header b { margin:0; font:700 26px/1.05 'Barlow Semi Condensed','Arial Narrow',sans-serif; color:var(--ink,#1b231d); } .ds-wing header b { color:var(--hc); } .ds-rooms { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); grid-auto-rows:80px; gap:4px; } .ds-room { position:relative; overflow:hidden; isolation:isolate; border:1px solid var(--seam,#cdcabd); border-radius:2px; padding:8px 9px; text-align:left; background:var(--panel-2,#fbfaf7); color:var(--ink,#1b231d); cursor:pointer; font:400 13px/1.25 Barlow,sans-serif; transition:border-color .15s; } .ds-room::before { content:''; position:absolute; left:0; right:0; bottom:0; height:var(--f); background:var(--hc); z-index:-1; } .ds-room b { font:700 22px/1 'Barlow Semi Condensed','Arial Narrow',sans-serif; margin-right:6px; } .ds-room:hover { border-color:var(--ink,#1b231d); } .ds-room:focus-visible { outline:2px solid var(--fr,#2f4b66); outline-offset:2px; }"
+    },
+    {
+      "name": "Ledger Panel",
+      "kind": "card",
+      "refersTo": "panel",
+      "description": "Seamed paper panel with ruled rows and condensed counts at right.",
+      "html": "<div class=\"ds-panel\"><h2>Taller</h2><ul class=\"ds-ledger\"><li><span>Pendientes de reparar<small>Dañados, incluidos los que también necesitan piezas</small></span><b>75</b></li><li><span>Incompletos<small>Sin daño, con montaje pendiente</small></span><b>366</b></li></ul></div>",
+      "css": ".ds-panel { background:var(--panel,#f6f5f0); border:1px solid var(--seam,#cdcabd); padding:18px 20px; color:var(--ink,#1b231d); font:400 15.5px/1.5 Barlow,sans-serif; font-variant-numeric:tabular-nums; max-width:480px; } .ds-panel h2 { margin:0 0 12px; font:700 24px/1.05 'Barlow Semi Condensed','Arial Narrow',sans-serif; } .ds-ledger { list-style:none; margin:0; padding:0; } .ds-ledger li { display:grid; grid-template-columns:1fr auto; gap:12px; align-items:baseline; padding:10px 0; border-top:1px solid var(--seam,#cdcabd); } .ds-ledger li:first-child { border-top:0; } .ds-ledger span { font:600 17px/1.2 'Barlow Semi Condensed','Arial Narrow',sans-serif; } .ds-ledger small { display:block; font:400 13px Barlow,sans-serif; color:var(--faint,#5a645b); } .ds-ledger b { font:700 24px/1 'Barlow Semi Condensed','Arial Narrow',sans-serif; }"
+    }
+  ],
+  "narrative": {
+    "northStar": "Museo del bosque báltico",
+    "overview": "The collection is a museum standing in Osta's Estonian forest, and the interface is its signage. A dark spruce rail holds the building's directory; the ground is pale birch; every exhibit sits on a paper panel bounded by a 1px seam. Titles, counts and labels are set in a condensed sans that reads like gallery wayfinding, while running text stays in a calm, humanist reading face with tabular figures. Hierarchy comes from scale contrast and the weight of the condensed face, not from boxes, colour fields or shadows.\n\nThe system is dense and operational: it is built for working in long filterable lists beside the game, and it wears the same signage on every screen so the Vista general and the lists feel like rooms of one building. Colour is assigned by house, never decoratively. Estonia is spruce, Francia is northern-dusk blue, Afganistán is resin amber, and those three hues carry everything that belongs to a house: wing rules, room fills, swatches, tags. Rust is held back for stamps that flag repair or doubt. Every drawn length (the rail's extent bars, the room fills) is an exact proportion of a real count.\n\nExplicitly rejected: the generic white admin dashboard with a blue accent and stat tiles. Militarist emblems are never used as decoration, even though the collection is military material.",
+    "keyCharacteristics": [
+      "Spruce-green navigation rail beside a birch-white ground with paper panels.",
+      "Condensed gallery signage for titles, numbers and labels; Barlow for reading.",
+      "House colour as the only categorical colour; rust only for stamps.",
+      "1px seams and tonal steps instead of shadows; corners of 2-3px.",
+      "Every bar and fill is an exact count, drawn to proportion.",
+      "States are stamped visibly, never hidden."
+    ],
+    "rules": [
+      { "name": "The House Colour Rule", "body": "Estonia, Francia and Afganistán hues appear only on things that belong to that house (wing rules, room fills, swatches, tags, sheet heads). They are never decoration and never a generic accent.", "section": "colors" },
+      { "name": "The Rust Is A Stamp Rule", "body": "Rust appears only on stamps, red tags and the alert callout: repair, doubt, priority. If it is not a state that needs attention, it is not rust.", "section": "colors" },
+      { "name": "The Signage Rule", "body": "If the reader navigates by it (a title, a count, a reference code, a label), it is set in Barlow Semi Condensed. If the reader reads it, it is Barlow. Never set paragraphs in the condensed face.", "section": "typography" },
+      { "name": "The Exact Number Rule", "body": "Numbers are the signage. Counts are large condensed figures with tabular alignment; they are never replaced by icons, gauges or vague descriptors.", "section": "typography" },
+      { "name": "The Seam Not Shadow Rule", "body": "Panels, wings, plates, tables and callouts are separated by a 1px seam and a tonal step, never by a drop shadow. A shadow is reserved for the one thing that truly floats: the modal sheet.", "section": "elevation" }
+    ],
+    "dos": [
+      "Do colour anything that belongs to a house with that house's hue: spruce #1d3529, dusk #2f4b66, resin #a8761f (fill #c08a2c).",
+      "Do draw every bar and fill as the exact proportion of a real count, as the rail extent bars and floor-plan rooms do.",
+      "Do separate surfaces with a 1px seam (#cdcabd) and a tonal step from birch ground to paper to bright paper.",
+      "Do set titles, counts, references and labels in Barlow Semi Condensed, and reading text in Barlow with tabular figures.",
+      "Do show states as visible stamps or tags; doubts and alerts stay on screen.",
+      "Do keep corners at 2-3px, and mark a house container with a 6px top rule in its colour.",
+      "Do honour reduced motion and the dark-mode token set for every new surface."
+    ],
+    "donts": [
+      "Don't build the generic white admin dashboard with a blue accent and stat tiles.",
+      "Don't use rust (#a3432f) for anything except repair, doubt and priority stamps, red tags and alerts.",
+      "Don't add drop shadows to panels, cards or plates; the only shadow is the modal sheet's.",
+      "Don't use militarist emblems as decoration.",
+      "Don't use a house colour as a generic accent or on content that belongs to no house.",
+      "Don't set paragraphs in the condensed signage face."
+    ]
+  }
+}
