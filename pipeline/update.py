@@ -139,6 +139,17 @@ def main():
     ap.add_argument('--force', action='store_true')
     ap.add_argument('--accept-build', action='store_true')
     a = ap.parse_args()
+    if a.sync:
+        # Primero se alinea el clon y luego se relanza este script, para ejecutar siempre
+        # el código recién descargado (el ya importado podría ser el de la versión anterior).
+        try:
+            align_with_remote()
+        except Exception as e:
+            log('No se pudo sincronizar con GitHub: ' + str(e))
+            return 5
+        argv = [x for x in sys.argv[1:] if x != '--sync']
+        return subprocess.run([sys.executable, '-X', 'utf8', str(Path(__file__).resolve()), *argv],
+                              creationflags=getattr(subprocess, 'CREATE_NO_WINDOW', 0)).returncode
     with Lock(WORK / 'update.lock'):
         for attempt in (1, 2, 3):
             try:
