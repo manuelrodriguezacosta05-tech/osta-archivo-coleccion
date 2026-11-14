@@ -66,16 +66,16 @@ Book Parent;complete;Por confirmar;Biblioteca;Por asignar;EE-1134;
 7,62x39 Ammo Box;complete;Por confirmar;Cajas y vitrinas;Por asignar;EE-1103, EE-1104, EE-1105, AF-193;
 7.62x54mmR PS 7N1 Ammo Box;missing;Por confirmar;Cajas y vitrinas;Por asignar;;Base: 7.62x54mmR PS 7N1 Ammo Box
 9x18 Ammo Box;complete;Por confirmar;Cajas y vitrinas;Por asignar;EE-1106, EE-1107;
-Crate Prarent;complete;Por confirmar;Cajas y vitrinas;Por asignar;EE-1109, EE-1110, EE-1111, EE-1112, EE-1113, EE-1114, EE-1115, EE-1116, EE-1432, EE-1433;
+Crate Prarent;complete;Por confirmar;Cajas y vitrinas;Por asignar;EE-1109, EE-1110, EE-1111, EE-1112, EE-1113, EE-1114, EE-1115, EE-1116;
 Display Case;complete;Por confirmar;Cajas y vitrinas;Por asignar;EE-1088, EE-1089;
 Crate Prarent;complete;Por confirmar;Cajas y vitrinas;Por asignar;EE-1100, EE-1101, AF-190, AF-191, FR-52, FR-53, FR-54;
-Crate Prarent;complete;Por confirmar;Cajas y vitrinas;Por asignar;EE-1090, EE-1431;
-Crate Prarent;complete;Por confirmar;Cajas y vitrinas;Por asignar;EE-1091, EE-1092, EE-1093, EE-1094, EE-1421, EE-1420, EE-1422, AF-188, AF-189, FR-63, FR-64, FR-65;
+Crate Prarent;complete;Por confirmar;Cajas y vitrinas;Por asignar;EE-1090;
+Crate Prarent;complete;Por confirmar;Cajas y vitrinas;Por asignar;EE-1091, EE-1092, EE-1093, EE-1094, AF-188, AF-189, FR-63, FR-64, FR-65;
 Display Case;missing;Por confirmar;Cajas y vitrinas;Por asignar;;Base: Display Case
 Display Case;missing;Por confirmar;Cajas y vitrinas;Por asignar;;Base: Display Case
 PSH-77 Box;missing;URSS / Rusia;Cajas y vitrinas;Estonia;;Base: PSH-77 Box
 RGD-2 Grenade Box;missing;URSS / Rusia;Cajas y vitrinas;Estonia;;Base: RGD-2 Grenade Box
-Crate Prarent;complete;Por confirmar;Cajas y vitrinas;Por asignar;EE-1084, EE-1085, EE-1086, EE-1087, EE-1429, EE-1430, AF-187;
+Crate Prarent;complete;Por confirmar;Cajas y vitrinas;Por asignar;EE-1084, EE-1085, EE-1086, EE-1087, AF-187;
 Display Case;missing;Por confirmar;Cajas y vitrinas;Por asignar;;Base: Display Case
 Baguette;missing;Por confirmar;Alimentos;Por asignar;;Base: Baguette
 Big Water;missing;Por confirmar;Alimentos;Por asignar;;Base: Big Water
@@ -1117,7 +1117,7 @@ M1 Carbine · M1 Carbine Stock;complete;Estados Unidos;Armas y lanzadores;Franci
 M1 Carbine · M1A1 Carbine Stock;complete;Estados Unidos;Armas y lanzadores;Francia;EE-779;
 M1 Carbine · M1 Carbine Magazine [M1CarbineMagazine];complete;Estados Unidos;Armas y lanzadores;Francia;EE-779, EE-778;
 M1 Carbine · M1 Carbine Magazine [M2CarbineMagazine];missing;Estados Unidos;Armas y lanzadores;Francia;;Magazine: M1 Carbine Magazine
-M1D Garand · M1 Garand Stock;repair;Estados Unidos;Armas y lanzadores;Francia;;"Base: M1D Garand; Scope: M1D Scope; Stock: M1 Garand Stock"
+M1D Garand · M1 Garand Stock;missing;Estados Unidos;Armas y lanzadores;Francia;;"Base: M1D Garand; Scope: M1D Scope; Stock: M1 Garand Stock"
 M1D Garand · M1D Garand Flashhider;missing;Estados Unidos;Armas y lanzadores;Francia;;"Base: M1D Garand; Bayonet: M1D Garand Flashhider; Scope: M1D Scope; Stock: M1 Garand Stock"
 M1D Garand · M1905 Bayonet;missing;Estados Unidos;Armas y lanzadores;Francia;;"Base: M1D Garand; Bayonet: M1905 Bayonet; Scope: M1D Scope; Stock: M1 Garand Stock"
 M1D Garand · M1905E1 Chisel Point Bayonet;missing;Estados Unidos;Armas y lanzadores;Francia;;"Base: M1D Garand; Bayonet: M1905E1 Chisel Point Bayonet; Scope: M1D Scope; Stock: M1 Garand Stock"
@@ -1181,9 +1181,9 @@ MP-133 · MP-133/153 Polymer Stock;complete;URSS / Rusia;Armas y lanzadores;Esto
 MP-133 · MP-133/153 Wood Pistol Grip;complete;URSS / Rusia;Armas y lanzadores;Estonia;EE-837;
 MP-133 · MP-133/153 Polymer Pistol Grip;complete;URSS / Rusia;Armas y lanzadores;Estonia;EE-840;
 MP-153 · MP-153 wood handguard;buildable;URSS / Rusia;Armas y lanzadores;Estonia;;
-MP-153 · MP-153 polymer handguard;complete;URSS / Rusia;Armas y lanzadores;Estonia;EE-992, EE-1427;
+MP-153 · MP-153 polymer handguard;complete;URSS / Rusia;Armas y lanzadores;Estonia;EE-992;
 MP-153 · MP-133/153 Wood Stock;missing;URSS / Rusia;Armas y lanzadores;Estonia;;Stock: MP-133/153 Wood Stock
-MP-153 · MP-133/153 Polymer Stock;complete;URSS / Rusia;Armas y lanzadores;Estonia;EE-992, EE-1427;
+MP-153 · MP-133/153 Polymer Stock;complete;URSS / Rusia;Armas y lanzadores;Estonia;EE-992;
 MP-153 · MP-133/153 Wood Pistol Grip;missing;URSS / Rusia;Armas y lanzadores;Estonia;;Stock: MP-133/153 Wood Pistol Grip
 MP-153 · MP-133/153 Polymer Pistol Grip;incomplete;URSS / Rusia;Armas y lanzadores;Estonia;;Revisión de montaje: Hay un requisito adicional sin confirmar
 MP-3008 · MP40 Magazine;missing;Por confirmar;Armas y lanzadores;Por asignar;;"Base: MP-3008; Muzzle: Sten Barrel; Bolt: Sten Bolt; Stock: MP-3008 Stock"
@@ -1697,23 +1697,23 @@ Beyond Repair Tool Parent;missing;Por confirmar;Herramientas;Por asignar;;Base: 
 Box Tool;complete;Por confirmar;Herramientas;Por asignar;EE-381;
 Flashlight;complete;Por confirmar;Herramientas;Por asignar;EE-379;
 IMP-1;missing;Por confirmar;Herramientas;Por asignar;;Base: IMP-1
-Linseed Oil;complete;Por confirmar;Herramientas;Por asignar;EE-1256, EE-1257, EE-1438, EE-1439, AF-257, FR-66;
+Linseed Oil;complete;Por confirmar;Herramientas;Por asignar;EE-1256, EE-1257, AF-257, FR-66;
 Metal Detector Parent;missing;Por confirmar;Herramientas;Por asignar;;Base: Metal Detector Parent
 Metal Restore Tool Parent;complete;Por confirmar;Herramientas;Por asignar;EE-1254;
 Metal Detector Parent;missing;Por confirmar;Herramientas;Por asignar;;Base: Metal Detector Parent
 Penetrating Oil;complete;Por confirmar;Herramientas;Afganistán;AF-253;
-Metal Restore Tool Parent;complete;Por confirmar;Herramientas;Por asignar;EE-1252, EE-1436, EE-1437, EE-1253;
+Metal Restore Tool Parent;complete;Por confirmar;Herramientas;Por asignar;EE-1252, EE-1253;
 Metal Restore Tool Parent;missing;Por confirmar;Herramientas;Por asignar;;Base: Metal Restore Tool Parent
 Pocket Flashlight;missing;Por confirmar;Herramientas;Por asignar;;Base: Pocket Flashlight
 Rust Activator;missing;Por confirmar;Herramientas;Por asignar;;Base: Rust Activator
 Beyond Repair Tool Parent;missing;Por confirmar;Herramientas;Por asignar;;Base: Beyond Repair Tool Parent
 Disassembly Tool Parent;complete;Por confirmar;Herramientas;Por asignar;EE-1250, EE-1251, AF-252;
 Wood Aging Parent;complete;Por confirmar;Herramientas;Por asignar;EE-1255;
-Shovel;complete;Por confirmar;Herramientas;Estonia;EE-1434;
+Shovel;missing;Por confirmar;Herramientas;Por asignar;;Base: Shovel
 MPL-50;complete;Por confirmar;Herramientas;Por asignar;EE-1245;
 Shovel;missing;Por confirmar;Herramientas;Por asignar;;Base: Shovel
 Shovel;missing;Por confirmar;Herramientas;Por asignar;;Base: Shovel
-Shovel;complete;Por confirmar;Herramientas;Estonia;EE-1435;
+Shovel;missing;Por confirmar;Herramientas;Por asignar;;Base: Shovel
 Shovel;missing;Por confirmar;Herramientas;Por asignar;;Base: Shovel
 Shovel;missing;Por confirmar;Herramientas;Por asignar;;Base: Shovel
 WW1 German Shovel;missing;Alemania;Herramientas;Francia;;Base: WW1 German Shovel
@@ -1725,7 +1725,7 @@ WW2 German Shovel;complete;Alemania;Herramientas;Por asignar;EE-1249;
 Soviet 12 Gauge Box;missing;URSS / Rusia;Munición y accesorios;Estonia;;Base: Soviet 12 Gauge Box
 1kg German Satchel Charge;complete;Alemania;Munición y accesorios;Francia;EE-9;
 20rnd 7.62x39 Box;missing;Por confirmar;Munición y accesorios;Por asignar;;Base: 20rnd 7.62x39 Box
-20x99mmR ShVAK Cartridge;complete;URSS / Rusia;Munición y accesorios;Estonia;EE-315, EE-317;
+20x99mmR ShVAK Cartridge;complete;URSS / Rusia;Munición y accesorios;Estonia;EE-315;
 25x194mmR French Hotchkiss Cartridge;complete;Francia;Munición y accesorios;Francia;EE-1080;
 25x218 SR;missing;Por confirmar;Munición y accesorios;Por asignar;;Base: 25x218 SR
 .30-06 AP Box;missing;Por confirmar;Munición y accesorios;Por asignar;;Base: .30-06 AP Box
@@ -1828,10 +1828,10 @@ TMA-4;missing;Yugoslavia / Serbia;Munición y accesorios;Estonia;;Base: TMA-4
 VOG-17;complete;URSS / Rusia;Munición y accesorios;Estonia;EE-638;
 VOG-25;complete;URSS / Rusia;Munición y accesorios;Estonia;EE-642;
 Zarya-3;missing;Por confirmar;Munición y accesorios;Por asignar;;Base: Zarya-3
-Zeitzunder Grenade;complete;Alemania;Munición y accesorios;Estonia;EE-210;
+Zeitzunder Grenade;complete;Alemania;Munición y accesorios;Francia;EE-210;
 10.5cm Casing · 10.5cm Shell;complete;Por confirmar;Munición y accesorios;Por asignar;EE-402;
 10.5cm Casing · 10.5cm SKC 32M Shell;complete;Por confirmar;Munición y accesorios;Por asignar;EE-401;
-105mm Howitzer Casing · 105mm HE Howitzer Shell;repair;Por confirmar;Munición y accesorios;Por asignar;;Proyectil: 105mm HE Howitzer Shell
+105mm Howitzer Casing · 105mm HE Howitzer Shell;repair;Por confirmar;Munición y accesorios;Francia;;Proyectil: 105mm HE Howitzer Shell
 122mm Casing · 122mm Shell;complete;Por confirmar;Munición y accesorios;Estonia;EE-347, AF-60, AF-61, AF-62;
 152mm Casing · 152mm Shell;complete;Por confirmar;Munición y accesorios;Estonia;EE-324;
 50x289R Casing · 50x289R German Shell;complete;Por confirmar;Munición y accesorios;Por asignar;EE-457;

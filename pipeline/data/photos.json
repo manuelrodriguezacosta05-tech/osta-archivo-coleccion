@@ -231,7 +231,6 @@
       "EE-29",
       "EE-406",
       "EE-407",
-      "EE-408",
       "FR-1"
     ],
     "why": "Aquí la forma puede cambiar la atribución de modelo o país. Son las primeras municiones que conviene ver.",
@@ -251,11 +250,8 @@
     ],
     "refs": [
       "EE-409",
-      "EE-410",
       "EE-473",
-      "EE-474",
       "EE-476",
-      "EE-477",
       "EE-483",
       "EE-501"
     ],
@@ -271,8 +267,7 @@
       "M56 81mm"
     ],
     "refs": [
-      "EE-48",
-      "EE-49"
+      "EE-48"
     ],
     "why": "Confirmar la representación y variante. La fecha de un ejemplar no sale sólo de su designación. Ya revisado en esta tanda: M43 81mm, M49A2 60mm. Pendientes: M56 81mm.",
     "views": "Foto completa de un ejemplar de cada tipo y detalle de las marcas, si existen en la textura.",
@@ -306,34 +301,18 @@
       "50x420R Casing"
     ],
     "refs": [
-      "EE-42",
-      "EE-41",
-      "EE-40",
       "EE-258",
-      "EE-260",
       "EE-1368",
-      "EE-259",
-      "EE-1369",
       "EE-324",
-      "EE-325",
       "EE-347",
       "EE-348",
       "EE-401",
       "EE-402",
-      "EE-405",
-      "EE-404",
-      "EE-403",
-      "EE-1295",
       "EE-457",
       "EE-458",
-      "EE-1381",
-      "EE-460",
-      "EE-459",
       "EE-487",
       "EE-488",
-      "EE-491",
       "EE-490",
-      "EE-489",
       "EE-492",
       "EE-493",
       "AF-60",
@@ -360,8 +339,6 @@
     ],
     "refs": [
       "EE-315",
-      "EE-317",
-      "EE-316",
       "EE-323"
     ],
     "why": "El calibre/sistema ya figura en el guardado. La duda es el proyectil y acabado concretos, y si la textura aporta marcajes. Ya revisado en esta tanda: 30mm MK108, 37x149mmR French Cartridge, 37x94mmR French Cartridge, 25x194mmR French Hotchkiss Cartridge. Pendientes: 14.5x114mm API, 20x99mmR ShVAK Cartridge.",
