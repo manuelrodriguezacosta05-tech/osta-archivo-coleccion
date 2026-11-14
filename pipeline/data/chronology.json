@@ -1,0 +1,1506 @@
+{
+ "12.5kg PUW Bomb": {
+  "date": "ca. 1916",
+  "date_note": "",
+  "end": 1916,
+  "precision": "Orientativa",
+  "source": "",
+  "year": 1916
+ },
+ "132mm Katyusha": {
+  "date": "1941 · familia",
+  "date_note": "",
+  "end": 1941,
+  "precision": "Familia",
+  "source": "",
+  "year": 1941
+ },
+ "1938 German Gas Mask Canister": {
+  "date": "1938",
+  "date_note": "",
+  "end": 1938,
+  "precision": "Nominal",
+  "source": "",
+  "year": 1938
+ },
+ "4-cell AK74 Magazine Pouch": {
+  "date": "desde 1974 · familia",
+  "date_note": "Referencia del sistema AK-74; la cartuchera concreta puede ser posterior.",
+  "end": 1974,
+  "precision": "Familia",
+  "source": "",
+  "year": 1974
+ },
+ "5.45x39 Clip": {
+  "date": "desde 1974 · familia",
+  "date_note": "Referencia del cartucho/sistema AK-74; no fecha el clip concreto.",
+  "end": 1974,
+  "precision": "Familia",
+  "source": "",
+  "year": 1974
+ },
+ "AK-74": {
+  "date": "1974",
+  "date_note": "",
+  "end": 1974,
+  "precision": "Contrastada",
+  "source": "ak74",
+  "year": 1974
+ },
+ "AKM": {
+  "date": "1959",
+  "date_note": "",
+  "end": 1959,
+  "precision": "Contrastada",
+  "source": "akm",
+  "year": 1959
+ },
+ "AKMS": {
+  "date": "década de 1960",
+  "date_note": "Variante plegable del AKM; año exacto no fijado para el patrón representado.",
+  "end": 1969,
+  "precision": "Familia",
+  "source": "akms",
+  "year": 1960
+ },
+ "AKS-74": {
+  "date": "1974",
+  "date_note": "",
+  "end": 1974,
+  "precision": "Contrastada",
+  "source": "ak74",
+  "year": 1974
+ },
+ "AKS-74N": {
+  "date": "1974 · familia",
+  "date_note": "Variante con montaje lateral para óptica; el mobiliario de plástico puede ser posterior.",
+  "end": 1974,
+  "precision": "Modelo base",
+  "source": "aksn",
+  "year": 1974
+ },
+ "AMD-65": {
+  "date": "1965 / 1967",
+  "date_note": "Diseño/adopción nominal de 1965; producción y dotación desde 1967. Se expone en 1967.",
+  "end": 1967,
+  "precision": "Contrastada",
+  "source": "amd",
+  "year": 1967
+ },
+ "APB": {
+  "date": "1972",
+  "date_note": "",
+  "end": 1972,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1972
+ },
+ "AT-4": {
+  "date": "1985",
+  "date_note": "Familia AT4: adopción inicial; dotación estadounidense posterior.",
+  "end": 1985,
+  "precision": "Contrastada",
+  "source": "at4",
+  "year": 1985
+ },
+ "BAR": {
+  "date": "1918 · familia",
+  "date_note": "BAR genérico en el juego. Si se confirma M1918A2, recolocar en ca. 1938.",
+  "end": 1918,
+  "precision": "Familia",
+  "source": "bar",
+  "year": 1918
+ },
+ "Berdan No.2": {
+  "date": "1870-1871",
+  "date_note": "Familia Berdan II; año de referencia del sistema.",
+  "end": 1871,
+  "precision": "Modelo",
+  "source": "berdan",
+  "year": 1870
+ },
+ "Berdan No.2 Cavalry": {
+  "date": "1870-1871",
+  "date_note": "Familia Berdan II; año de referencia del sistema.",
+  "end": 1871,
+  "precision": "Modelo",
+  "source": "berdan",
+  "year": 1870
+ },
+ "Betonmine 43": {
+  "date": "1943",
+  "date_note": "",
+  "end": 1943,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1943
+ },
+ "Black ShM-66MU PMG-2/GP-5M Mask": {
+  "date": "década de 1970",
+  "date_note": "El nombre del juego combina designaciones; no se equipara ShM-66MU a un año exacto de fabricación.",
+  "end": 1979,
+  "precision": "Familia",
+  "source": "",
+  "year": 1970
+ },
+ "Brodie Mark I": {
+  "date": "1916",
+  "date_note": "Mark I aprobado en 1916; familia Brodie inicial de 1915.",
+  "end": 1916,
+  "precision": "Contrastada",
+  "source": "brodie",
+  "year": 1916
+ },
+ "Brodie Mark II": {
+  "date": "1938",
+  "date_note": "",
+  "end": 1938,
+  "precision": "Modelo",
+  "source": "brodie",
+  "year": 1938
+ },
+ "Brown Bess": {
+  "date": "ca. 1720-1730",
+  "date_note": "Patrón británico del siglo XVIII; el juego no concreta la variante.",
+  "end": 1730,
+  "precision": "Familia",
+  "source": "bess",
+  "year": 1720
+ },
+ "Bundled M24 Grenade": {
+  "date": "1924 · base",
+  "date_note": "Agrupación basada en el modelo M24; montaje posterior sin fecha propia.",
+  "end": 1924,
+  "precision": "Modelo base",
+  "source": "",
+  "year": 1924
+ },
+ "DP-27": {
+  "date": "1927",
+  "date_note": "",
+  "end": 1927,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1927
+ },
+ "DPM": {
+  "date": "1944",
+  "date_note": "",
+  "end": 1944,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1944
+ },
+ "Fedorov": {
+  "date": "1916",
+  "date_note": "",
+  "end": 1916,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1916
+ },
+ "French F1 Grenade": {
+  "date": "1915",
+  "date_note": "",
+  "end": 1915,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1915
+ },
+ "French M26 Adrian": {
+  "date": "1926",
+  "date_note": "",
+  "end": 1926,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1926
+ },
+ "Frolovka": {
+  "date": "ca. 1915-1930",
+  "date_note": "Conversión civil; la acción militar de origen puede ser anterior.",
+  "end": 1930,
+  "precision": "Aproximada",
+  "source": "",
+  "year": 1915
+ },
+ "G3A3": {
+  "date": "ca. 1964",
+  "date_note": "Variante A3 con mobiliario sintético; el G3 original es de 1959.",
+  "end": 1964,
+  "precision": "Aproximada",
+  "source": "g3",
+  "year": 1964
+ },
+ "Gewehr 98": {
+  "date": "1898",
+  "date_note": "",
+  "end": 1898,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1898
+ },
+ "Gewehr 98M": {
+  "date": "década de 1930",
+  "date_note": "",
+  "end": 1939,
+  "precision": "Familia",
+  "source": "",
+  "year": 1930
+ },
+ "Gilded M23 Adrian": {
+  "date": "1923 · patrón nominal",
+  "date_note": "",
+  "end": 1923,
+  "precision": "Nominal",
+  "source": "",
+  "year": 1923
+ },
+ "HK416": {
+  "date": "ca. 2004",
+  "date_note": "",
+  "end": 2004,
+  "precision": "Orientativa",
+  "source": "",
+  "year": 2004
+ },
+ "Heer M35": {
+  "date": "1935 · casco base",
+  "date_note": "Fecha del casco M35; pintura, emblema o uso específico pueden ser posteriores.",
+  "end": 1935,
+  "precision": "Modelo base",
+  "source": "",
+  "year": 1935
+ },
+ "Heer M35 Green": {
+  "date": "1935 · casco base",
+  "date_note": "Fecha del casco M35; pintura, emblema o uso específico pueden ser posteriores.",
+  "end": 1935,
+  "precision": "Modelo base",
+  "source": "",
+  "year": 1935
+ },
+ "Heer M42": {
+  "date": "1942 · casco base",
+  "date_note": "Fecha del casco M42; no certifica cuándo se aplicó el emblema.",
+  "end": 1942,
+  "precision": "Contrastada",
+  "source": "m42",
+  "year": 1942
+ },
+ "IZh-43": {
+  "date": "1986",
+  "date_note": "",
+  "end": 1986,
+  "precision": "Contrastada",
+  "source": "baikal",
+  "year": 1986
+ },
+ "JNA M59": {
+  "date": "1959-1961 · base",
+  "date_note": "Proyecto 1959, fabricación 1960, distribución 1961. Los emblemas serbios posteriores no quedan fechados.",
+  "end": 1961,
+  "precision": "Modelo base",
+  "source": "m59",
+  "year": 1959
+ },
+ "Jezail": {
+  "date": "siglos XVIII-XIX",
+  "date_note": "Familia artesanal, sin un único año de adopción.",
+  "end": 1899,
+  "precision": "Familia",
+  "source": "",
+  "year": 1700
+ },
+ "Kar98K Rifle Grenade": {
+  "date": "ca. 1942",
+  "date_note": "Modelo de granada concreto sin precisar.",
+  "end": 1942,
+  "precision": "Familia",
+  "source": "",
+  "year": 1942
+ },
+ "Karabiner 98 kurz": {
+  "date": "1935",
+  "date_note": "",
+  "end": 1935,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1935
+ },
+ "Koveshnikov Fuze F1": {
+  "date": "ca. 1928",
+  "date_note": "Configuración F1 con espoleta Koveshnikov.",
+  "end": 1928,
+  "precision": "Orientativa",
+  "source": "",
+  "year": 1928
+ },
+ "Kriegsmarine M35": {
+  "date": "1935 · casco base",
+  "date_note": "Fecha del casco M35; pintura, emblema o uso específico pueden ser posteriores.",
+  "end": 1935,
+  "precision": "Modelo base",
+  "source": "",
+  "year": 1935
+ },
+ "Kugelhandgranate": {
+  "date": "ca. 1913",
+  "date_note": "",
+  "end": 1913,
+  "precision": "Orientativa",
+  "source": "",
+  "year": 1913
+ },
+ "LP 08": {
+  "date": "1913",
+  "date_note": "Lange Pistole 08: variante larga/artillería.",
+  "end": 1913,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1913
+ },
+ "Lanchester MkI": {
+  "date": "1941",
+  "date_note": "",
+  "end": 1941,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1941
+ },
+ "Leningrad PPD40": {
+  "date": "ca. 1941-1942",
+  "date_note": "Variante del sitio de Leningrado; la familia PPD-40 es de 1940.",
+  "end": 1942,
+  "precision": "Aproximada",
+  "source": "",
+  "year": 1941
+ },
+ "Luftschutz M35": {
+  "date": "1935 · casco base",
+  "date_note": "Fecha del casco M35; pintura, emblema o uso específico pueden ser posteriores.",
+  "end": 1935,
+  "precision": "Modelo base",
+  "source": "",
+  "year": 1935
+ },
+ "Luftwaffe M35": {
+  "date": "1935 · casco base",
+  "date_note": "Fecha del casco M35; pintura, emblema o uso específico pueden ser posteriores.",
+  "end": 1935,
+  "precision": "Modelo base",
+  "source": "",
+  "year": 1935
+ },
+ "Luftwaffe M42": {
+  "date": "1942 · casco base",
+  "date_note": "Fecha del casco M42; no certifica cuándo se aplicó el emblema.",
+  "end": 1942,
+  "precision": "Contrastada",
+  "source": "m42",
+  "year": 1942
+ },
+ "M1 Carbine": {
+  "date": "1941",
+  "date_note": "Configuración estándar; la culata M1A1 se fecha aparte.",
+  "end": 1941,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1941
+ },
+ "M1 Garand": {
+  "date": "1936",
+  "date_note": "",
+  "end": 1936,
+  "precision": "Contrastada",
+  "source": "us",
+  "year": 1936
+ },
+ "M1 Helmet": {
+  "date": "1941",
+  "date_note": "",
+  "end": 1941,
+  "precision": "Contrastada",
+  "source": "m1helmet",
+  "year": 1941
+ },
+ "M16/M17": {
+  "date": "1916-1917",
+  "date_note": "Denominación combinada: no se fuerza un solo año.",
+  "end": 1917,
+  "precision": "Contrastada",
+  "source": "steel",
+  "year": 1916
+ },
+ "M16A2": {
+  "date": "1982 / 1983",
+  "date_note": "Aprobación USMC en septiembre de 1982; producción original desde junio de 1983.",
+  "end": 1983,
+  "precision": "Contrastada",
+  "source": "m16a2",
+  "year": 1982
+ },
+ "M16A4": {
+  "date": "1997",
+  "date_note": "",
+  "end": 1997,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1997
+ },
+ "M17 Eierhandgranate": {
+  "date": "1917",
+  "date_note": "",
+  "end": 1917,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1917
+ },
+ "M18": {
+  "date": "1918",
+  "date_note": "",
+  "end": 1918,
+  "precision": "Contrastada",
+  "source": "steel",
+  "year": 1918
+ },
+ "M18 Earcut": {
+  "date": "1918",
+  "date_note": "",
+  "end": 1918,
+  "precision": "Contrastada",
+  "source": "steel",
+  "year": 1918
+ },
+ "M1891": {
+  "date": "1891",
+  "date_note": "",
+  "end": 1891,
+  "precision": "Contrastada",
+  "source": "mosin",
+  "year": 1891
+ },
+ "M1891 Pickelhaube": {
+  "date": "1891 · patrón nominal",
+  "date_note": "Año de la denominación del juego; no es el origen de toda la familia Pickelhaube.",
+  "end": 1891,
+  "precision": "Nominal",
+  "source": "",
+  "year": 1891
+ },
+ "M1895": {
+  "date": "1895",
+  "date_note": "Revólver Nagant M1895.",
+  "end": 1895,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1895
+ },
+ "M1910": {
+  "date": "1910",
+  "date_note": "Pistola FN Browning; no es la ametralladora Maxim.",
+  "end": 1910,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1910
+ },
+ "M1910 Canteen": {
+  "date": "1910",
+  "date_note": "",
+  "end": 1910,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1910
+ },
+ "M1911A1": {
+  "date": "1926",
+  "date_note": "Variante A1; no se coloca con la M1911 de 1911.",
+  "end": 1926,
+  "precision": "Contrastada",
+  "source": "1911",
+  "year": 1926
+ },
+ "M1915 Pickelhaube": {
+  "date": "1915",
+  "date_note": "",
+  "end": 1915,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1915
+ },
+ "M1935": {
+  "date": "1935",
+  "date_note": "",
+  "end": 1935,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1935
+ },
+ "M1942 Canteen": {
+  "date": "1942",
+  "date_note": "",
+  "end": 1942,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1942
+ },
+ "M1A1 Thompson": {
+  "date": "1942",
+  "date_note": "",
+  "end": 1942,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1942
+ },
+ "M1D Garand": {
+  "date": "1944 · diseño",
+  "date_note": "Desarrollo del M1D; dotación generalizada posterior.",
+  "end": 1944,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1944
+ },
+ "M23 Adrian": {
+  "date": "1923 · patrón nominal",
+  "date_note": "",
+  "end": 1923,
+  "precision": "Nominal",
+  "source": "",
+  "year": 1923
+ },
+ "M24 SWS": {
+  "date": "1988",
+  "date_note": "",
+  "end": 1988,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1988
+ },
+ "M3": {
+  "date": "1942",
+  "date_note": "Adopción en diciembre de 1942; no confundir con fabricación posterior.",
+  "end": 1942,
+  "precision": "Contrastada",
+  "source": "us",
+  "year": 1942
+ },
+ "M38": {
+  "date": "1938",
+  "date_note": "",
+  "end": 1938,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1938
+ },
+ "M38 Luftwaffe": {
+  "date": "1938",
+  "date_note": "",
+  "end": 1938,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1938
+ },
+ "M39 Eihandgranate": {
+  "date": "1939",
+  "date_note": "",
+  "end": 1939,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1939
+ },
+ "M3A1": {
+  "date": "1944",
+  "date_note": "Variante introducida en diciembre de 1944.",
+  "end": 1944,
+  "precision": "Contrastada",
+  "source": "us",
+  "year": 1944
+ },
+ "M4 Carbine": {
+  "date": "1994",
+  "date_note": "",
+  "end": 1994,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1994
+ },
+ "M43 Grenade": {
+  "date": "1943 · nominal",
+  "date_note": "Denominación del juego; la identificación exacta del modelo está pendiente.",
+  "end": 1943,
+  "precision": "Nominal",
+  "source": "",
+  "year": 1943
+ },
+ "M44": {
+  "date": "1944",
+  "date_note": "",
+  "end": 1944,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1944
+ },
+ "M67": {
+  "date": "ca. 1968",
+  "date_note": "",
+  "end": 1968,
+  "precision": "Orientativa",
+  "source": "",
+  "year": 1968
+ },
+ "M6A1 Rocket": {
+  "date": "ca. 1942",
+  "date_note": "",
+  "end": 1942,
+  "precision": "Orientativa",
+  "source": "",
+  "year": 1942
+ },
+ "M700": {
+  "date": "1962",
+  "date_note": "",
+  "end": 1962,
+  "precision": "Contrastada",
+  "source": "rem700",
+  "year": 1962
+ },
+ "M70AB2": {
+  "date": "década de 1970",
+  "date_note": "Variantes B1/AB2: no se atribuye a ambas una adopción exacta en 1970.",
+  "end": 1979,
+  "precision": "Familia",
+  "source": "",
+  "year": 1970
+ },
+ "M70B1": {
+  "date": "década de 1970",
+  "date_note": "Variantes B1/AB2: no se atribuye a ambas una adopción exacta en 1970.",
+  "end": 1979,
+  "precision": "Familia",
+  "source": "",
+  "year": 1970
+ },
+ "M75": {
+  "date": "ca. 1975",
+  "date_note": "",
+  "end": 1975,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1975
+ },
+ "M76": {
+  "date": "ca. 1976",
+  "date_note": "",
+  "end": 1976,
+  "precision": "Orientativa",
+  "source": "",
+  "year": 1976
+ },
+ "M82A1M": {
+  "date": "década de 1990",
+  "date_note": "Variante A1M; no se fecha como el primer Barrett M82 de 1982.",
+  "end": 1999,
+  "precision": "Familia",
+  "source": "",
+  "year": 1990
+ },
+ "M91/30": {
+  "date": "1930",
+  "date_note": "",
+  "end": 1930,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1930
+ },
+ "M92": {
+  "date": "1992",
+  "date_note": "",
+  "end": 1992,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1992
+ },
+ "M9A1 Rifle Grenade": {
+  "date": "ca. 1942",
+  "date_note": "",
+  "end": 1942,
+  "precision": "Orientativa",
+  "source": "",
+  "year": 1942
+ },
+ "MG3": {
+  "date": "1968",
+  "date_note": "",
+  "end": 1968,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1968
+ },
+ "MG42": {
+  "date": "1942",
+  "date_note": "",
+  "end": 1942,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1942
+ },
+ "MK1 Grenade": {
+  "date": "ca. 1917",
+  "date_note": "Interpretada como la granada estadounidense Mk I; identificación pendiente.",
+  "end": 1917,
+  "precision": "Orientativa",
+  "source": "",
+  "year": 1917
+ },
+ "MK2 Grenade": {
+  "date": "1918",
+  "date_note": "",
+  "end": 1918,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1918
+ },
+ "MK3A1 Grenade": {
+  "date": "década de 1920",
+  "date_note": "Variante A1, no la Mk III inicial de 1918.",
+  "end": 1929,
+  "precision": "Aproximada",
+  "source": "",
+  "year": 1920
+ },
+ "MK3A2 Grenade": {
+  "date": "ca. 1943",
+  "date_note": "",
+  "end": 1943,
+  "precision": "Orientativa",
+  "source": "",
+  "year": 1943
+ },
+ "MP-133": {
+  "date": "ca. 2000",
+  "date_note": "",
+  "end": 2000,
+  "precision": "Aproximada",
+  "source": "mp133",
+  "year": 2000
+ },
+ "MP-153": {
+  "date": "ca. 2000",
+  "date_note": "",
+  "end": 2000,
+  "precision": "Aproximada",
+  "source": "mp133",
+  "year": 2000
+ },
+ "MP38": {
+  "date": "1938",
+  "date_note": "",
+  "end": 1938,
+  "precision": "Contrastada",
+  "source": "mp",
+  "year": 1938
+ },
+ "MP40": {
+  "date": "1940",
+  "date_note": "",
+  "end": 1940,
+  "precision": "Contrastada",
+  "source": "mp",
+  "year": 1940
+ },
+ "MP41": {
+  "date": "1941",
+  "date_note": "",
+  "end": 1941,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1941
+ },
+ "MP41R": {
+  "date": "ca. 1944",
+  "date_note": "Conversión alemana del PPSh; no comparte fecha con el MP41.",
+  "end": 1944,
+  "precision": "Aproximada",
+  "source": "",
+  "year": 1944
+ },
+ "Mauser Standardmodell": {
+  "date": "1924",
+  "date_note": "",
+  "end": 1924,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1924
+ },
+ "Milled Type-56": {
+  "date": "1956 · familia",
+  "date_note": "Receptor mecanizado; fecha de la variante específica sin confirmar.",
+  "end": 1956,
+  "precision": "Modelo base",
+  "source": "",
+  "year": 1956
+ },
+ "Milled Type-56-1": {
+  "date": "1956 · familia",
+  "date_note": "Receptor mecanizado; fecha de la variante específica sin confirmar.",
+  "end": 1956,
+  "precision": "Modelo base",
+  "source": "",
+  "year": 1956
+ },
+ "Nahkampfmesser": {
+  "date": "1914-1918 · tipo",
+  "date_note": "Familia de equipo de trinchera; ejemplar y patrón sin año exacto.",
+  "end": 1918,
+  "precision": "Periodo",
+  "source": "",
+  "year": 1914
+ },
+ "No.68 Anti-Tank Rifle Grenade": {
+  "date": "1940",
+  "date_note": "",
+  "end": 1940,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1940
+ },
+ "No.69 Grenade": {
+  "date": "1940",
+  "date_note": "",
+  "end": 1940,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1940
+ },
+ "Obr.88 Khaki Cap": {
+  "date": "1988 · nominal",
+  "date_note": "",
+  "end": 1988,
+  "precision": "Nominal",
+  "source": "",
+  "year": 1988
+ },
+ "P08": {
+  "date": "1908",
+  "date_note": "",
+  "end": 1908,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1908
+ },
+ "P38": {
+  "date": "1938",
+  "date_note": "",
+  "end": 1938,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1938
+ },
+ "P53 Enfield": {
+  "date": "1853",
+  "date_note": "",
+  "end": 1853,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1853
+ },
+ "PASGT": {
+  "date": "1982 / 1983",
+  "date_note": "Introducción del sistema en 1982; primer uso en combate en 1983.",
+  "end": 1983,
+  "precision": "Contrastada",
+  "source": "us",
+  "year": 1982
+ },
+ "PE Sniper": {
+  "date": "ca. 1932",
+  "date_note": "Configuración con visor PE; no se ordena por la acción de 1891.",
+  "end": 1932,
+  "precision": "Aproximada",
+  "source": "pe",
+  "year": 1932
+ },
+ "PEM Sniper": {
+  "date": "ca. 1937",
+  "date_note": "Configuración PEM; posterior a la PE.",
+  "end": 1937,
+  "precision": "Aproximada",
+  "source": "pe",
+  "year": 1937
+ },
+ "PKM": {
+  "date": "1969",
+  "date_note": "",
+  "end": 1969,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1969
+ },
+ "PM": {
+  "date": "1951",
+  "date_note": "Pistola Makarov PM.",
+  "end": 1951,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1951
+ },
+ "PM md. 65": {
+  "date": "1965",
+  "date_note": "",
+  "end": 1965,
+  "precision": "Modelo",
+  "source": "md65",
+  "year": 1965
+ },
+ "PMA-2": {
+  "date": "Guerra Fría · sin año",
+  "date_note": "No se ha confirmado la introducción de esta variante.",
+  "end": 1989,
+  "precision": "Periodo",
+  "source": "",
+  "year": 1960
+ },
+ "PNV-57E": {
+  "date": "década de 1970",
+  "date_note": "",
+  "end": 1979,
+  "precision": "Aproximada",
+  "source": "",
+  "year": 1970
+ },
+ "POMZ-2": {
+  "date": "ca. 1941",
+  "date_note": "",
+  "end": 1941,
+  "precision": "Orientativa",
+  "source": "",
+  "year": 1941
+ },
+ "PPS-43": {
+  "date": "1943",
+  "date_note": "",
+  "end": 1943,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1943
+ },
+ "PPSh-41": {
+  "date": "1941",
+  "date_note": "",
+  "end": 1941,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1941
+ },
+ "PROM-1": {
+  "date": "Guerra Fría · sin año",
+  "date_note": "No se ha confirmado la introducción de esta variante.",
+  "end": 1989,
+  "precision": "Periodo",
+  "source": "",
+  "year": 1960
+ },
+ "PSL": {
+  "date": "ca. 1974",
+  "date_note": "",
+  "end": 1974,
+  "precision": "Orientativa",
+  "source": "",
+  "year": 1974
+ },
+ "Panzerfaust 30": {
+  "date": "1943",
+  "date_note": "",
+  "end": 1943,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1943
+ },
+ "Panzerfaust 30 Klein": {
+  "date": "1943",
+  "date_note": "",
+  "end": 1943,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1943
+ },
+ "Pilotka": {
+  "date": "ca. 1935 · patrón soviético",
+  "date_note": "No fecha las gorras de otras fuerzas ni los antecedentes de aviación.",
+  "end": 1935,
+  "precision": "Aproximada",
+  "source": "",
+  "year": 1935
+ },
+ "Polizei M42": {
+  "date": "1942 · casco base",
+  "date_note": "Fecha del casco M42; no certifica cuándo se aplicó el emblema.",
+  "end": 1942,
+  "precision": "Contrastada",
+  "source": "m42",
+  "year": 1942
+ },
+ "RDG-2": {
+  "date": "posguerra · ca. 1950-1970",
+  "date_note": "",
+  "end": 1970,
+  "precision": "Aproximada",
+  "source": "",
+  "year": 1950
+ },
+ "RG-42": {
+  "date": "1942",
+  "date_note": "",
+  "end": 1942,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1942
+ },
+ "RGD-33": {
+  "date": "1933",
+  "date_note": "",
+  "end": 1933,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1933
+ },
+ "RGN": {
+  "date": "ca. 1981",
+  "date_note": "",
+  "end": 1981,
+  "precision": "Orientativa",
+  "source": "",
+  "year": 1981
+ },
+ "RPG-40": {
+  "date": "1940",
+  "date_note": "",
+  "end": 1940,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1940
+ },
+ "RPG-43": {
+  "date": "1943",
+  "date_note": "",
+  "end": 1943,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1943
+ },
+ "RPG-7D": {
+  "date": "ca. 1963",
+  "date_note": "",
+  "end": 1963,
+  "precision": "Orientativa",
+  "source": "",
+  "year": 1963
+ },
+ "RPG-7V": {
+  "date": "1961",
+  "date_note": "",
+  "end": 1961,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1961
+ },
+ "RPK": {
+  "date": "1961",
+  "date_note": "",
+  "end": 1961,
+  "precision": "Modelo",
+  "source": "rpk",
+  "year": 1961
+ },
+ "RPK-74": {
+  "date": "1974 · familia",
+  "date_note": "Configuración concreta de mobiliario y accesorios no fechada individualmente.",
+  "end": 1974,
+  "precision": "Modelo base",
+  "source": "rpk",
+  "year": 1974
+ },
+ "RPKS-74": {
+  "date": "1974 · familia",
+  "date_note": "Configuración concreta de mobiliario y accesorios no fechada individualmente.",
+  "end": 1974,
+  "precision": "Modelo base",
+  "source": "rpk",
+  "year": 1974
+ },
+ "Russian Imperial Adrian": {
+  "date": "ca. 1916",
+  "date_note": "Variante rusa del Adrian francés de 1915.",
+  "end": 1916,
+  "precision": "Aproximada",
+  "source": "adrian",
+  "year": 1916
+ },
+ "Russian M1914 Grenade": {
+  "date": "1914",
+  "date_note": "",
+  "end": 1914,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1914
+ },
+ "S-Mine": {
+  "date": "ca. 1935",
+  "date_note": "",
+  "end": 1935,
+  "precision": "Orientativa",
+  "source": "",
+  "year": 1935
+ },
+ "SKS": {
+  "date": "1945",
+  "date_note": "",
+  "end": 1945,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1945
+ },
+ "SMLE Mk III": {
+  "date": "1907",
+  "date_note": "",
+  "end": 1907,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1907
+ },
+ "SSSh-94": {
+  "date": "ca. 1994",
+  "date_note": "La variante negra no implica una fecha de adopción distinta.",
+  "end": 1994,
+  "precision": "Nominal",
+  "source": "modern",
+  "year": 1994
+ },
+ "SSSh-94 Black": {
+  "date": "ca. 1994",
+  "date_note": "La variante negra no implica una fecha de adopción distinta.",
+  "end": 1994,
+  "precision": "Nominal",
+  "source": "modern",
+  "year": 1994
+ },
+ "SSh-36": {
+  "date": "1936",
+  "date_note": "",
+  "end": 1936,
+  "precision": "Contrastada",
+  "source": "ssh36",
+  "year": 1936
+ },
+ "SSh-36 Obr.38": {
+  "date": "ca. 1938",
+  "date_note": "Variante indicada por el juego; base SSh-36 de 1936.",
+  "end": 1938,
+  "precision": "Nominal",
+  "source": "ssh36",
+  "year": 1938
+ },
+ "SSh-39": {
+  "date": "1939 · casco base",
+  "date_note": "En Obr.38, la denominación del juego no demuestra una adopción en 1938. Se mantiene la base SSh-39.",
+  "end": 1939,
+  "precision": "Modelo base",
+  "source": "ssh",
+  "year": 1939
+ },
+ "SSh-39 Obr.38": {
+  "date": "1939 · casco base",
+  "date_note": "En Obr.38, la denominación del juego no demuestra una adopción en 1938. Se mantiene la base SSh-39.",
+  "end": 1939,
+  "precision": "Modelo base",
+  "source": "ssh",
+  "year": 1939
+ },
+ "SSh-40": {
+  "date": "1940",
+  "date_note": "",
+  "end": 1940,
+  "precision": "Contrastada",
+  "source": "ssh40",
+  "year": 1940
+ },
+ "SSh-60": {
+  "date": "1960",
+  "date_note": "",
+  "end": 1960,
+  "precision": "Modelo",
+  "source": "ssh",
+  "year": 1960
+ },
+ "SSh-68": {
+  "date": "1968 · casco base",
+  "date_note": "El camuflaje y el interior instalado no se fechan como el casco.",
+  "end": 1968,
+  "precision": "Modelo base",
+  "source": "ssh",
+  "year": 1968
+ },
+ "SSh-68 Camo Painted": {
+  "date": "1968 · casco base",
+  "date_note": "El camuflaje y el interior instalado no se fechan como el casco.",
+  "end": 1968,
+  "precision": "Modelo base",
+  "source": "ssh",
+  "year": 1968
+ },
+ "SVD": {
+  "date": "1963",
+  "date_note": "",
+  "end": 1963,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1963
+ },
+ "SVT-38": {
+  "date": "1938",
+  "date_note": "",
+  "end": 1938,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1938
+ },
+ "SVT-40": {
+  "date": "1940",
+  "date_note": "",
+  "end": 1940,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1940
+ },
+ "Serbian Army M59": {
+  "date": "1959-1961 · base",
+  "date_note": "Proyecto 1959, fabricación 1960, distribución 1961. Los emblemas serbios posteriores no quedan fechados.",
+  "end": 1961,
+  "precision": "Modelo base",
+  "source": "m59",
+  "year": 1959
+ },
+ "Serbian Navy M59": {
+  "date": "1959-1961 · base",
+  "date_note": "Proyecto 1959, fabricación 1960, distribución 1961. Los emblemas serbios posteriores no quedan fechados.",
+  "end": 1961,
+  "precision": "Modelo base",
+  "source": "m59",
+  "year": 1959
+ },
+ "Serbian Police M59": {
+  "date": "1959-1961 · base",
+  "date_note": "Proyecto 1959, fabricación 1960, distribución 1961. Los emblemas serbios posteriores no quedan fechados.",
+  "end": 1961,
+  "precision": "Modelo base",
+  "source": "m59",
+  "year": 1959
+ },
+ "Shotgun Conversion Berdan No.2": {
+  "date": "finales XIX / inicios XX",
+  "date_note": "La conversión no tiene la misma fecha que el Berdan II militar.",
+  "end": 1930,
+  "precision": "Aproximada",
+  "source": "",
+  "year": 1880
+ },
+ "Snow Camo French M15 Adrian": {
+  "date": "1915 · casco base",
+  "date_note": "Acabado de nieve sin fechar.",
+  "end": 1915,
+  "precision": "Modelo base",
+  "source": "adrian",
+  "year": 1915
+ },
+ "Soviet Adrian": {
+  "date": "décadas 1920-1930",
+  "date_note": "Adaptación soviética de un diseño francés anterior.",
+  "end": 1939,
+  "precision": "Aproximada",
+  "source": "",
+  "year": 1920
+ },
+ "Soviet Esmarch": {
+  "date": "siglo XX · sin año",
+  "date_note": "La invención del torniquete no fecha esta variante soviética.",
+  "end": 1999,
+  "precision": "Periodo",
+  "source": "",
+  "year": 1900
+ },
+ "Soviet F1": {
+  "date": "ca. 1939",
+  "date_note": "Patrón soviético; no la F1 francesa de 1915.",
+  "end": 1939,
+  "precision": "Orientativa",
+  "source": "",
+  "year": 1939
+ },
+ "Soviet TIG PSH-77": {
+  "date": "1977 · familia",
+  "date_note": "Origen del modelo PSH-77; la copia soviética y el visor instalado pueden ser posteriores.",
+  "end": 1977,
+  "precision": "Familia",
+  "source": "modern",
+  "year": 1977
+ },
+ "StG44": {
+  "date": "1944",
+  "date_note": "Designación StG44 de 1944; sus precursores MP43/MP44 son anteriores.",
+  "end": 1944,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1944
+ },
+ "Star M59": {
+  "date": "1959-1961 · base",
+  "date_note": "Proyecto 1959, fabricación 1960, distribución 1961. Los emblemas serbios posteriores no quedan fechados.",
+  "end": 1961,
+  "precision": "Modelo base",
+  "source": "m59",
+  "year": 1959
+ },
+ "Sten MKII": {
+  "date": "1941",
+  "date_note": "",
+  "end": 1941,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1941
+ },
+ "TM-62": {
+  "date": "1962",
+  "date_note": "",
+  "end": 1962,
+  "precision": "Nominal",
+  "source": "",
+  "year": 1962
+ },
+ "TMA-3": {
+  "date": "Guerra Fría · sin año",
+  "date_note": "No se ha confirmado la introducción de esta variante.",
+  "end": 1989,
+  "precision": "Periodo",
+  "source": "",
+  "year": 1960
+ },
+ "TOZ-123": {
+  "date": "ca. 1995-1996",
+  "date_note": "Variante civil; no se fecha como el KS-23 militar.",
+  "end": 1996,
+  "precision": "Aproximada",
+  "source": "toz123",
+  "year": 1995
+ },
+ "TOZ-34": {
+  "date": "1964 / 1969",
+  "date_note": "Presentación/desarrollo desde 1964; producción en serie desde 1969.",
+  "end": 1964,
+  "precision": "Modelo",
+  "source": "toz",
+  "year": 1964
+ },
+ "TT": {
+  "date": "1933 · TT-33",
+  "date_note": "Familia TT adoptada en 1930; patrón TT-33 de 1933. Corredera temprana/tardía sin fechar individualmente.",
+  "end": 1933,
+  "precision": "Modelo base",
+  "source": "",
+  "year": 1933
+ },
+ "Trench Club": {
+  "date": "1914-1918 · tipo",
+  "date_note": "Familia de equipo de trinchera; ejemplar y patrón sin año exacto.",
+  "end": 1918,
+  "precision": "Periodo",
+  "source": "",
+  "year": 1914
+ },
+ "Type 69": {
+  "date": "1969",
+  "date_note": "",
+  "end": 1969,
+  "precision": "Nominal",
+  "source": "",
+  "year": 1969
+ },
+ "Type-56-2": {
+  "date": "década de 1980",
+  "date_note": "",
+  "end": 1989,
+  "precision": "Familia",
+  "source": "",
+  "year": 1980
+ },
+ "VOG-17": {
+  "date": "ca. 1967",
+  "date_note": "",
+  "end": 1967,
+  "precision": "Orientativa",
+  "source": "",
+  "year": 1967
+ },
+ "VOG-25": {
+  "date": "ca. 1978",
+  "date_note": "",
+  "end": 1978,
+  "precision": "Orientativa",
+  "source": "",
+  "year": 1978
+ },
+ "VZ-58": {
+  "date": "1958",
+  "date_note": "",
+  "end": 1958,
+  "precision": "Modelo",
+  "source": "vz",
+  "year": 1958
+ },
+ "WW1 Iron Cross": {
+  "date": "1914",
+  "date_note": "Reinstauración de 1914; no la creación original de la condecoración en 1813.",
+  "end": 1914,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1914
+ },
+ "WW2 Iron Cross": {
+  "date": "1939",
+  "date_note": "",
+  "end": 1939,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1939
+ },
+ "Walther PP": {
+  "date": "1929",
+  "date_note": "",
+  "end": 1929,
+  "precision": "Contrastada",
+  "source": "walther",
+  "year": 1929
+ },
+ "War Merit Cross 1st Class": {
+  "date": "1939",
+  "date_note": "",
+  "end": 1939,
+  "precision": "Modelo",
+  "source": "",
+  "year": 1939
+ },
+ "Zastava M84": {
+  "date": "1984",
+  "date_note": "Ametralladora; no es el subfusil M84 del mismo nombre.",
+  "end": 1984,
+  "precision": "Modelo",
+  "source": "m84",
+  "year": 1984
+ },
+ "Zeitzunder Grenade": {
+  "date": "ca. 1915",
+  "date_note": "",
+  "end": 1915,
+  "precision": "Orientativa",
+  "source": "",
+  "year": 1915
+ }
+}

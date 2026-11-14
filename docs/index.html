@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="Archivo de la colección de Osta: tres casas, variantes, montajes, piezas que faltan y dudas de identificación.">
+<meta name="robots" content="noindex">
+<title>Osta · Archivo de la colección</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%23394a2f'/%3E%3Ctext x='16' y='23' font-family='Georgia,serif' font-size='20' text-anchor='middle' fill='%23f3efe4'%3EO%3C/text%3E%3C/svg%3E">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<a class="skip" href="#main">Saltar al contenido</a>
+<aside class="sidebar" id="sidebar">
+  <a class="brand" href="#overview"><span class="brand-mark">O</span><span>OSTA<small>ARCHIVO DE LA COLECCIÓN</small></span></a>
+  <div class="nav-label">TU ARCHIVO</div>
+  <nav id="nav" aria-label="Secciones">
+    <a href="#overview" data-view="overview"><span class="ico">◈</span><span>Vista general</span></a>
+    <a href="#collection" data-view="collection"><span class="ico">▤</span><span>Mi colección</span><b id="nav-good">—</b></a>
+    <a href="#buildable" data-view="buildable"><span class="ico">✓</span><span>Puedes montar</span><b id="nav-buildable">—</b></a>
+    <a href="#missing" data-view="missing"><span class="ico">＋</span><span>Me falta</span></a>
+    <a href="#catalogue" data-view="catalogue"><span class="ico">▦</span><span>Catálogo del juego</span></a>
+    <a href="#workshop" data-view="workshop"><span class="ico">⚒</span><span>Pendientes</span><b id="nav-workshop">—</b></a>
+    <a href="#photos" data-view="photos"><span class="ico">▧</span><span>Fotos y dudas</span><b id="nav-doubts">—</b></a>
+    <a href="#updates" data-view="updates"><span class="ico">↻</span><span>Datos y actualizaciones</span></a>
+  </nav>
+  <div class="sidebar-bottom">
+    <span class="live-dot"></span> Se actualiza al abrir y cerrar el juego
+    <p id="sidebar-revision">Cargando revisión…</p>
+    <small>Estonia · Francia · Afganistán</small>
+  </div>
+</aside>
+<div class="scrim" id="scrim"></div>
+<div class="workspace">
+  <header class="topbar">
+    <button class="icon-button menu-button" id="menu" aria-label="Abrir menú" aria-controls="sidebar" aria-expanded="false">☰</button>
+    <span id="breadcrumb">Archivo / Vista general</span>
+    <div class="topbar-actions"><span class="save-indicator" id="save-indicator">● Datos de guardados</span><button id="refresh" class="icon-button" title="Cargar la última revisión publicada">↻ <span>Actualizar</span></button></div>
+  </header>
+  <div id="alerts"></div>
+  <main id="main" tabindex="-1"><div class="loading">Abriendo el archivo de la colección…</div></main>
+  <footer>Osta · Colección personal <span>Las variantes se comprueban por piezas; las dudas se conservan.</span></footer>
+</div>
+<dialog id="detail-dialog" aria-labelledby="detail-title">
+  <div class="dialog-top"><span class="eyebrow">FICHA DE LA COLECCIÓN</span><button class="icon-button" id="close-dialog" aria-label="Cerrar ficha">✕</button></div>
+  <div id="detail-content"></div>
+</dialog>
+<div id="toast" role="status" aria-live="polite"></div>
+<script src="app.js"></script>
+</body>
+</html>

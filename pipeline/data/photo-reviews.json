@@ -1,0 +1,674 @@
+{
+  "EE-1030": {
+    "identification": "Pickelhaube de apariencia prusiana, con herrajes amarillos; M1891 según el juego",
+    "family": "Pickelhaube · Imperio alemán / Prusia",
+    "date": "1897 o posterior · configuración visible",
+    "year": 1897,
+    "end": null,
+    "precision": "Inferencia visual; no fecha de fabricación",
+    "date_note": "La foto lateral muestra una escarapela imperial roja, blanca y negra, introducida en 1897. M1891 es el nombre del juego, no una fecha de fabricación demostrada. La placa parece representar el águila prusiana; el modelado simplificado no permite atribuir regimiento ni rango. No se renombra automáticamente como M1895.",
+    "classification_basis": "Clase del juego + tres capturas aportadas por el usuario; comparación con Deutschlandmuseum",
+    "source_title": "Deutschlandmuseum · elementos de datación del Pickelhaube",
+    "source_url": "https://www.deutschlandmuseum.de/en/collection/pickelhaube/",
+    "photo_review": "Revisado con fotos: exterior, lateral e interior. Casco negro, pincho y placa amarillos, barboquejo de cuero y escarapela tricolor. Identificación general suficiente; no hacen falta más fotos para esta clasificación.",
+    "photo_numbers": [
+      1,
+      2,
+      3
+    ]
+  },
+  "EE-1029": {
+    "identification": "Pickelhaube M1915 de apariencia prusiana, con herrajes grises",
+    "family": "Pickelhaube · Imperio alemán / Prusia",
+    "date": "1915 · patrón representado",
+    "year": 1915,
+    "precision": "Patrón compatible con la representación visual",
+    "date_note": "El acabado gris de placa, pincho y guarniciones concuerda con el patrón simplificado M1915. El material real de las piezas y el sistema desmontable del pincho no pueden demostrarse con una textura o estas capturas. No se identifica regimiento ni fecha de fabricación del ejemplar.",
+    "classification_basis": "Clase del juego + tres capturas aportadas por el usuario; comparación con Australian War Memorial",
+    "source_title": "Australian War Memorial · Pickelhaube prusiano modelo 1915",
+    "source_url": "https://www.awm.gov.au/collection/C159252",
+    "photo_review": "Revisado con fotos: frontal, lateral e interior. La representación distingue los herrajes grises de los amarillos del M1891 del juego. Identificación general suficiente.",
+    "photo_numbers": [
+      4,
+      5,
+      6
+    ]
+  },
+  "EE-466": {
+    "identification": "Bote metálico alemán de transporte para máscara antigás · 1938 según el juego",
+    "family": "Equipo de protección antigás alemán",
+    "piece_type": "Equipo de campaña / protección antigás",
+    "date": "1938 · denominación del juego",
+    "year": 1938,
+    "precision": "Identidad visual general; año nominal del juego",
+    "date_note": "La captura muestra un portamáscara cilíndrico acanalado con cierre exterior. No hay marcajes de fabricante o fecha legibles ni una medida de longitud que permita confirmar por separado la variante exacta del bote. 1938 procede de la etiqueta del juego. No demuestra que lleve una máscara GM38 dentro.",
+    "classification_basis": "Clase y etiqueta del juego + captura del usuario; descripción del portamáscara en TM-E 30-451 (1945)",
+    "source_title": "TM-E 30-451 · equipo de protección antigás alemán (1945)",
+    "source_url": "https://www.lonesentry.com/manuals/tme30/ch8sec6sub2.html",
+    "photo_review": "Revisado con foto: bote acanalado con cierre, para llevar con el equipo de campaña alemán. No hace falta otra foto para asignarle categoría; los marcajes sólo serían útiles si el juego los reproduce de forma legible.",
+    "photo_numbers": [
+      7
+    ]
+  },
+  "EE-9": {
+    "identification": "Carga de demolición alemana de 1 kg; compatible visualmente con una Sprengbüchse 24",
+    "family": "Ingenieros alemanes · carga de demolición de 1 kg",
+    "piece_type": "Carga de demolición",
+    "date": "Siglo XX · modelo exacto por confirmar",
+    "year": null,
+    "end": null,
+    "precision": "Atribución probable, no identificación de marcajes",
+    "date_note": "Las fotos muestran un bloque rectangular con detalles laterales. El nombre de 1 kg y la forma concuerdan de manera general con la Sprengbüchse 24 descrita en TM-E 30-451. No se leen inscripciones que confirmen el modelo o año. No es una mina ni una granada de mano.",
+    "classification_basis": "Clase y piezas montadas del guardado + segunda tanda de capturas del usuario; comparación histórica indicada en la ficha",
+    "source_title": "TM-E 30-451 (1945) · German Demolition Equipment",
+    "source_url": "https://lonesentry.com/manuals/tme30/ch8sec5sub2.html",
+    "photo_review": "Revisión de la segunda tanda. Fotos 1, 2. La etiqueta completo/original es una evaluación del juego; se conserva por separado del estado y montaje del guardado.",
+    "photo_numbers": [
+      1,
+      2
+    ],
+    "photo_batch": "Munición · segunda tanda",
+    "display_house": "Francia",
+    "national_family": "Alemania"
+  },
+  "EE-22": {
+    "identification": "Cartucho de 30 mm para el cañón de aviación alemán MK 108",
+    "family": "Luftwaffe · munición de aviación MK 108",
+    "piece_type": "Cartucho de cañón de aviación",
+    "date": "Segunda Guerra Mundial · año del ejemplar sin confirmar",
+    "year": null,
+    "end": null,
+    "precision": "Familia confirmada por la etiqueta; carga concreta sin confirmar",
+    "date_note": "La foto y la clase nativa identifican la familia MK 108. El MK 108 alemán está documentado por el Smithsonian con un ejemplar de hacia 1944. Ese año corresponde al cañón del museo: no fecha este cartucho. No se atribuye carga perforante, explosiva o trazadora sólo por sus colores.",
+    "classification_basis": "Clase y piezas montadas del guardado + segunda tanda de capturas del usuario; comparación histórica indicada en la ficha",
+    "source_title": "Smithsonian · Cannon, 30 mm, MK 108",
+    "source_url": "https://www.si.edu/es/object/cannon-30-mm-mk-108%3Anasm_A19840637000",
+    "photo_review": "Revisión de la segunda tanda. Fotos 3. La etiqueta completo/original es una evaluación del juego; se conserva por separado del estado y montaje del guardado.",
+    "photo_numbers": [
+      3
+    ],
+    "photo_batch": "Munición · segunda tanda",
+    "display_house": "Francia",
+    "national_family": "Alemania"
+  },
+  "EE-23": {
+    "identification": "Bomba aérea alemana SD 70",
+    "family": "Luftwaffe · bombas aéreas",
+    "piece_type": "Bomba aérea",
+    "date": "Segunda Guerra Mundial · año del ejemplar sin confirmar",
+    "year": null,
+    "end": null,
+    "precision": "Familia nativa y apariencia general coincidentes",
+    "date_note": "La captura muestra un cuerpo de bomba con cola de aletas y el juego lo identifica como SD70. Se clasifica como bomba aérea alemana. La comparación con el manual OP 1666 permite situar la familia; no se afirma una espoleta, subtipo de cola o fecha de fabricación concretos.",
+    "classification_basis": "Clase y piezas montadas del guardado + segunda tanda de capturas del usuario; comparación histórica indicada en la ficha",
+    "source_title": "U.S. Navy · OP 1666, German Explosive Ordnance, volumen 1",
+    "source_url": "https://stephentaylorhistorian.com/wp-content/uploads/2020/09/op-1666-german-explosive-ordnance-volume-1.pdf",
+    "photo_review": "Revisión de la segunda tanda. Fotos 7. La etiqueta completo/original es una evaluación del juego; se conserva por separado del estado y montaje del guardado.",
+    "photo_numbers": [
+      7
+    ],
+    "photo_batch": "Munición · segunda tanda",
+    "display_house": "Francia",
+    "national_family": "Alemania"
+  },
+  "EE-178": {
+    "identification": "Cartucho alemán de artillería de 88 mm con proyectil German 88mm Shell montado",
+    "family": "Artillería alemana · 88 mm",
+    "piece_type": "Cartucho de artillería · conjunto montado",
+    "date": "Sin fecha precisa · sistema exacto sin confirmar",
+    "year": null,
+    "end": null,
+    "precision": "Conjunto confirmado en el juego; modelo histórico pendiente",
+    "date_note": "Aunque la base se llama German 88mm Casing, la imagen y el guardado muestran también un German 88mm Shell montado. No es una vaina vacía. No se puede distinguir con seguridad el sistema concreto ni la longitud de la vaina sin escala o marcajes. No se asigna automáticamente a Flak 18/36/37, Flak 41, PaK 43 o un carro. EE-178 es el único conjunto de 88 mm completo sin daño marcado en el guardado revisado; la foto no muestra su identificador individual.",
+    "classification_basis": "Clase y piezas montadas del guardado + segunda tanda de capturas del usuario; comparación histórica indicada en la ficha",
+    "source_title": "",
+    "source_url": "",
+    "photo_review": "Revisión de la segunda tanda. Fotos 4. La etiqueta completo/original es una evaluación del juego; se conserva por separado del estado y montaje del guardado.",
+    "photo_numbers": [
+      4
+    ],
+    "photo_batch": "Munición · segunda tanda",
+    "display_house": "Francia",
+    "national_family": "Alemania"
+  },
+  "EE-384": {
+    "identification": "Conjunto alemán de 7,7 cm con proyectil de metralla patrón 1896",
+    "family": "Artillería alemana · 7,7 cm · metralla 1896",
+    "piece_type": "Cartucho de artillería · conjunto montado",
+    "date": "1896 · patrón del proyectil; uso en la Primera Guerra Mundial",
+    "year": 1896,
+    "end": null,
+    "precision": "Designación del juego contrastada con documentación histórica",
+    "date_note": "La foto 6 muestra el proyectil oscuro con banda clara. El guardado registra 7,7cm 1896 Shrapnel Shell montado en German 77mm Casing. Notes on German Shells (1916) documenta ese patrón de metralla. 1896 es el patrón, no la fabricación del ejemplar. Se registra aparte del proyectil llamado Mustard Gas Shell.",
+    "classification_basis": "Clase y piezas montadas del guardado + segunda tanda de capturas del usuario; comparación histórica indicada en la ficha",
+    "source_title": "War Office · Notes on German Shells (1916), patrón 1896 de 7,7 cm",
+    "source_url": "https://www.bulletpicker.com/pdf/Notes-on-German-Shells-1916.pdf",
+    "photo_review": "Revisión de la segunda tanda. Fotos 6. La etiqueta completo/original es una evaluación del juego; se conserva por separado del estado y montaje del guardado.",
+    "photo_numbers": [
+      6
+    ],
+    "photo_batch": "Munición · segunda tanda",
+    "display_house": "Francia",
+    "national_family": "Alemania"
+  },
+  "EE-385": {
+    "identification": "Conjunto alemán de 7,7 cm con 7,7cm Mustard Gas Shell según el juego",
+    "family": "Artillería alemana · 7,7 cm · variante química del juego",
+    "piece_type": "Cartucho de artillería · conjunto montado",
+    "date": "Primera Guerra Mundial · variante histórica exacta sin confirmar",
+    "year": null,
+    "end": null,
+    "precision": "Nombre nativo confirmado; atribución química histórica no demostrada",
+    "date_note": "La foto 5 muestra el proyectil claro con banda amarilla y cruz. El nombre nativo es 7,7cm Mustard Gas Shell, pero su archivo se llama 77mmBlueCross. Esa discrepancia impide equiparar automáticamente el nombre, el color y la categoría histórica. La foto no demuestra por sí sola la carga química exacta. Se conserva el nombre del juego y se distingue del proyectil de metralla 1896.",
+    "classification_basis": "Clase y piezas montadas del guardado + segunda tanda de capturas del usuario; comparación histórica indicada en la ficha",
+    "source_title": "",
+    "source_url": "",
+    "photo_review": "Revisión de la segunda tanda. Fotos 5. La etiqueta completo/original es una evaluación del juego; se conserva por separado del estado y montaje del guardado.",
+    "photo_numbers": [
+      5
+    ],
+    "photo_batch": "Munición · segunda tanda",
+    "display_house": "Francia",
+    "national_family": "Alemania"
+  },
+  "EE-395": {
+    "year": 1938,
+    "identification": "Cartucho francés de 37×149R · familia del cañón de carro SA modèle 1938",
+    "family": "Francia · carros · SA38 de 37 mm",
+    "piece_type": "Cartucho de cañón de carro",
+    "date": "1938 · referencia del sistema SA38",
+    "date_basis": "Año del sistema/modelo asociado al calibre; no fecha de fabricación",
+    "historical_status": "Familia atribuida por calibre; variante exacta del proyectil pendiente",
+    "confirmed_details": "El juego identifica un 37×149R francés; se aprecia vaina con reborde y proyectil montado. La tabla de investigación de cartuchos asocia 37×149R a Mle 1938 de carros. El Musée des Blindés documenta el SA38 en carros franceses.",
+    "uncertain_details": "No hay marcajes legibles que permitan fijar fabricante, lote, fecha del cartucho ni una carga AP/HE concreta. El aspecto negro del proyectil y sus bandas no bastan para atribuir una variante exacta.",
+    "date_note": "1938 sirve para ordenar la familia SA38 en la exposición. No se fecha la fabricación del cartucho en 1938 ni se identifica un carro concreto. La fotografía ayuda a comprobar la representación; la asociación de calibre y sistema procede de documentación.",
+    "historical_sources": [
+      {
+        "title": "Tony Williams · tabla de identificación de cartuchos, datos dimensionales aportados por investigadores",
+        "url": "https://quarryhs.co.uk/ammunition-data-table/"
+      },
+      {
+        "title": "Musée des Blindés · Renault R39 y cañón SA38",
+        "url": "https://museedesblindes.fr/les_chars/renault-r39/"
+      }
+    ],
+    "end": null,
+    "precision": "Familia atribuida por calibre; variante exacta del proyectil pendiente",
+    "historical_origin": "Francia · diseño/familia; fabricante y país de fabricación del ejemplar sin confirmar",
+    "national_family": "Francia",
+    "display_house": "Francia",
+    "section": "Francia y Bélgica",
+    "photo_representative_ref": "EE-395",
+    "photo_batch": "Munición francesa · tercera tanda",
+    "photo_numbers": [
+      1
+    ],
+    "classification_basis": "Calibre/clase y montaje del guardado + comparación de la tercera tanda fotográfica con fuentes históricas y fichas de museo",
+    "photo_review": "Foto 1 de la tercera tanda: comparación histórica del modelo. Se utiliza como referencia de familia para los duplicados; la foto no identifica por sí sola cada referencia individual.",
+    "source_title": "Tony Williams · tabla de identificación de cartuchos, datos dimensionales aportados por investigadores",
+    "source_url": "https://quarryhs.co.uk/ammunition-data-table/"
+  },
+  "EE-396": {
+    "year": 1938,
+    "identification": "Cartucho francés de 37×149R · familia del cañón de carro SA modèle 1938",
+    "family": "Francia · carros · SA38 de 37 mm",
+    "piece_type": "Cartucho de cañón de carro",
+    "date": "1938 · referencia del sistema SA38",
+    "date_basis": "Año del sistema/modelo asociado al calibre; no fecha de fabricación",
+    "historical_status": "Familia atribuida por calibre; variante exacta del proyectil pendiente",
+    "confirmed_details": "El juego identifica un 37×149R francés; se aprecia vaina con reborde y proyectil montado. La tabla de investigación de cartuchos asocia 37×149R a Mle 1938 de carros. El Musée des Blindés documenta el SA38 en carros franceses.",
+    "uncertain_details": "No hay marcajes legibles que permitan fijar fabricante, lote, fecha del cartucho ni una carga AP/HE concreta. El aspecto negro del proyectil y sus bandas no bastan para atribuir una variante exacta.",
+    "date_note": "1938 sirve para ordenar la familia SA38 en la exposición. No se fecha la fabricación del cartucho en 1938 ni se identifica un carro concreto. La fotografía ayuda a comprobar la representación; la asociación de calibre y sistema procede de documentación.",
+    "historical_sources": [
+      {
+        "title": "Tony Williams · tabla de identificación de cartuchos, datos dimensionales aportados por investigadores",
+        "url": "https://quarryhs.co.uk/ammunition-data-table/"
+      },
+      {
+        "title": "Musée des Blindés · Renault R39 y cañón SA38",
+        "url": "https://museedesblindes.fr/les_chars/renault-r39/"
+      }
+    ],
+    "end": null,
+    "precision": "Familia atribuida por calibre; variante exacta del proyectil pendiente",
+    "historical_origin": "Francia · diseño/familia; fabricante y país de fabricación del ejemplar sin confirmar",
+    "national_family": "Francia",
+    "display_house": "Francia",
+    "section": "Francia y Bélgica",
+    "photo_representative_ref": "EE-395",
+    "photo_batch": "Munición francesa · tercera tanda",
+    "photo_numbers": [
+      1
+    ],
+    "classification_basis": "Calibre/clase y montaje del guardado + comparación de la tercera tanda fotográfica con fuentes históricas y fichas de museo",
+    "photo_review": "Foto 1 de la tercera tanda: comparación histórica del modelo. Se utiliza como referencia de familia para los duplicados; la foto no identifica por sí sola cada referencia individual.",
+    "source_title": "Tony Williams · tabla de identificación de cartuchos, datos dimensionales aportados por investigadores",
+    "source_url": "https://quarryhs.co.uk/ammunition-data-table/"
+  },
+  "EE-397": {
+    "year": 1885,
+    "identification": "Cartucho francés corto de 37×94R · familia Hotchkiss / 37 mm Mle 1885",
+    "family": "Francia · familia antigua de 37 mm Hotchkiss / Puteaux",
+    "piece_type": "Cartucho de cañón de 37 mm",
+    "date": "1885 · referencia francesa de familia; variante exacta pendiente",
+    "date_basis": "Referencia de una familia francesa documentada; no introducción universal del calibre ni fecha del ejemplar",
+    "historical_status": "Familia y origen de diseño coherentes; patrón exacto no confirmado",
+    "confirmed_details": "La etiqueta del juego distingue 37×94R del 37×149R. La vaina corta, el reborde y el proyectil son visibles. La familia francesa Mle 1885 está documentada por el Musée du Temps; el calibre también tuvo usos fuera de Francia.",
+    "uncertain_details": "No se puede asegurar que este proyectil concreto sea Mle 1885, 1892 o 1916, ni que proceda de un cañón concreto. No hay marca legible de fábrica, lote o fecha. Hotchkiss, Puteaux y Maxim son contextos de familia, no una atribución individual demostrada.",
+    "date_note": "1885 es una referencia francesa documentada para ordenar la familia antigua, con uso posterior en 1914–1918. No significa que se inventara el calibre en 1885, ni que el ejemplar del juego se fabricara ese año. Se mantiene separado de la munición del SA38.",
+    "historical_sources": [
+      {
+        "title": "Musée du Temps / Ministère de la Culture · cartucho francés de 37 mm Mle 1885",
+        "url": "https://pop.culture.gouv.fr/notice/joconde/M0333019449"
+      },
+      {
+        "title": "Tony Williams · tabla de identificación de cartuchos, datos dimensionales aportados por investigadores",
+        "url": "https://quarryhs.co.uk/ammunition-data-table/"
+      }
+    ],
+    "end": null,
+    "precision": "Familia y origen de diseño coherentes; patrón exacto no confirmado",
+    "historical_origin": "Francia · diseño/familia; fabricante y país de fabricación del ejemplar sin confirmar",
+    "national_family": "Francia",
+    "display_house": "Francia",
+    "section": "Francia y Bélgica",
+    "photo_representative_ref": "EE-397",
+    "photo_batch": "Munición francesa · tercera tanda",
+    "photo_numbers": [
+      2
+    ],
+    "classification_basis": "Calibre/clase y montaje del guardado + comparación de la tercera tanda fotográfica con fuentes históricas y fichas de museo",
+    "photo_review": "Foto 2 de la tercera tanda: comparación histórica del modelo. Se utiliza como referencia de familia para los duplicados; la foto no identifica por sí sola cada referencia individual.",
+    "source_title": "Musée du Temps / Ministère de la Culture · cartucho francés de 37 mm Mle 1885",
+    "source_url": "https://pop.culture.gouv.fr/notice/joconde/M0333019449"
+  },
+  "EE-398": {
+    "year": 1885,
+    "identification": "Cartucho francés corto de 37×94R · familia Hotchkiss / 37 mm Mle 1885",
+    "family": "Francia · familia antigua de 37 mm Hotchkiss / Puteaux",
+    "piece_type": "Cartucho de cañón de 37 mm",
+    "date": "1885 · referencia francesa de familia; variante exacta pendiente",
+    "date_basis": "Referencia de una familia francesa documentada; no introducción universal del calibre ni fecha del ejemplar",
+    "historical_status": "Familia y origen de diseño coherentes; patrón exacto no confirmado",
+    "confirmed_details": "La etiqueta del juego distingue 37×94R del 37×149R. La vaina corta, el reborde y el proyectil son visibles. La familia francesa Mle 1885 está documentada por el Musée du Temps; el calibre también tuvo usos fuera de Francia.",
+    "uncertain_details": "No se puede asegurar que este proyectil concreto sea Mle 1885, 1892 o 1916, ni que proceda de un cañón concreto. No hay marca legible de fábrica, lote o fecha. Hotchkiss, Puteaux y Maxim son contextos de familia, no una atribución individual demostrada.",
+    "date_note": "1885 es una referencia francesa documentada para ordenar la familia antigua, con uso posterior en 1914–1918. No significa que se inventara el calibre en 1885, ni que el ejemplar del juego se fabricara ese año. Se mantiene separado de la munición del SA38.",
+    "historical_sources": [
+      {
+        "title": "Musée du Temps / Ministère de la Culture · cartucho francés de 37 mm Mle 1885",
+        "url": "https://pop.culture.gouv.fr/notice/joconde/M0333019449"
+      },
+      {
+        "title": "Tony Williams · tabla de identificación de cartuchos, datos dimensionales aportados por investigadores",
+        "url": "https://quarryhs.co.uk/ammunition-data-table/"
+      }
+    ],
+    "end": null,
+    "precision": "Familia y origen de diseño coherentes; patrón exacto no confirmado",
+    "historical_origin": "Francia · diseño/familia; fabricante y país de fabricación del ejemplar sin confirmar",
+    "national_family": "Francia",
+    "display_house": "Francia",
+    "section": "Francia y Bélgica",
+    "photo_representative_ref": "EE-397",
+    "photo_batch": "Munición francesa · tercera tanda",
+    "photo_numbers": [
+      2
+    ],
+    "classification_basis": "Calibre/clase y montaje del guardado + comparación de la tercera tanda fotográfica con fuentes históricas y fichas de museo",
+    "photo_review": "Foto 2 de la tercera tanda: comparación histórica del modelo. Se utiliza como referencia de familia para los duplicados; la foto no identifica por sí sola cada referencia individual.",
+    "source_title": "Musée du Temps / Ministère de la Culture · cartucho francés de 37 mm Mle 1885",
+    "source_url": "https://pop.culture.gouv.fr/notice/joconde/M0333019449"
+  },
+  "EE-54": {
+    "year": 1897,
+    "identification": "Cartucho francés de 75 mm · probable proyectil de metralla de la familia Mle 1897",
+    "family": "Francia · artillería de campaña de 75 mm · familia 1897",
+    "piece_type": "Cartucho de artillería · conjunto montado",
+    "date": "1897 · familia probable del conjunto representado",
+    "date_basis": "Patrón/familia probable por comparación visual; no fabricación del ejemplar",
+    "historical_status": "Origen francés y montaje confirmados en el juego; patrón visual probable",
+    "confirmed_details": "El guardado registra French 75mm Shell montado en French 75mm Casing. La foto muestra cuerpo oscuro y una espoleta alta de aspecto latonado y escalonado. El Musée de la Grande Guerre documenta el obus à balles Mle 1897 con espoleta de doble efecto 22/31 Mle 1897.",
+    "uncertain_details": "La similitud es compatible con esa familia, pero la simplificación gráfica no permite distinguir Mle 1897 de modificaciones posteriores con seguridad. No se lee fecha, fabricante o lote. La etiqueta genérica French 75mm Shell no confirma por sí sola un modelo exacto.",
+    "date_note": "1897 es la referencia de familia para la exposición y se marca como probable. La forma de la espoleta permite afinar más que el nombre genérico Casing. No es una vaina vacía cuando lleva French 75mm Shell, y no se certifica una fabricación de 1897.",
+    "historical_sources": [
+      {
+        "title": "Musée de la Grande Guerre · obus à balles de 75 mm Mle 1897",
+        "url": "https://www.museedelagrandeguerre.com/collections/obus-a-balles-de-75-mm-modele-1897/"
+      },
+      {
+        "title": "Musée de l’Armée · familia del canon de 75 Mle 1897",
+        "url": "https://www.musee-armee.fr/fileadmin/user_upload/Documents/Support-Visite-Fiches-Objets/Fiches-1914-1918/MA_fiche-objet-canon-75.pdf"
+      }
+    ],
+    "end": null,
+    "precision": "Origen francés y montaje confirmados en el juego; patrón visual probable",
+    "historical_origin": "Francia · diseño/familia; fabricante y país de fabricación del ejemplar sin confirmar",
+    "national_family": "Francia",
+    "display_house": "Francia",
+    "section": "Francia y Bélgica",
+    "photo_representative_ref": "EE-54",
+    "photo_batch": "Munición francesa · tercera tanda",
+    "photo_numbers": [
+      3
+    ],
+    "classification_basis": "Calibre/clase y montaje del guardado + comparación de la tercera tanda fotográfica con fuentes históricas y fichas de museo",
+    "photo_review": "Foto 3 de la tercera tanda: comparación histórica del modelo. Se utiliza como referencia de familia para los duplicados; la foto no identifica por sí sola cada referencia individual.",
+    "source_title": "Musée de la Grande Guerre · obus à balles de 75 mm Mle 1897",
+    "source_url": "https://www.museedelagrandeguerre.com/collections/obus-a-balles-de-75-mm-modele-1897/"
+  },
+  "EE-55": {
+    "year": 1897,
+    "identification": "Vaina francesa de 75 mm · probable familia del sistema Mle 1897",
+    "family": "Francia · artillería de campaña de 75 mm · familia 1897",
+    "piece_type": "Vaina",
+    "date": "1897 · familia probable del conjunto representado",
+    "date_basis": "Patrón/familia probable por comparación visual; no fabricación del ejemplar",
+    "historical_status": "Origen francés y montaje confirmados en el juego; patrón visual probable",
+    "confirmed_details": "El guardado registra esta vaina sin proyectil montado. La comparación histórica usa el conjunto completo fotografiado EE-54 como referencia de familia, no como prueba de que esta referencia esté completa.",
+    "uncertain_details": "La similitud es compatible con esa familia, pero la simplificación gráfica no permite distinguir Mle 1897 de modificaciones posteriores con seguridad. No se lee fecha, fabricante o lote. La etiqueta genérica French 75mm Shell no confirma por sí sola un modelo exacto.",
+    "date_note": "1897 es la referencia de familia para la exposición y se marca como probable. La forma de la espoleta permite afinar más que el nombre genérico Casing. No es una vaina vacía cuando lleva French 75mm Shell, y no se certifica una fabricación de 1897.",
+    "historical_sources": [
+      {
+        "title": "Musée de la Grande Guerre · obus à balles de 75 mm Mle 1897",
+        "url": "https://www.museedelagrandeguerre.com/collections/obus-a-balles-de-75-mm-modele-1897/"
+      },
+      {
+        "title": "Musée de l’Armée · familia del canon de 75 Mle 1897",
+        "url": "https://www.musee-armee.fr/fileadmin/user_upload/Documents/Support-Visite-Fiches-Objets/Fiches-1914-1918/MA_fiche-objet-canon-75.pdf"
+      }
+    ],
+    "end": null,
+    "precision": "Origen francés y montaje confirmados en el juego; patrón visual probable",
+    "historical_origin": "Francia · diseño/familia; fabricante y país de fabricación del ejemplar sin confirmar",
+    "national_family": "Francia",
+    "display_house": "Francia",
+    "section": "Francia y Bélgica",
+    "photo_representative_ref": "EE-54",
+    "photo_batch": "Munición francesa · tercera tanda",
+    "photo_numbers": [
+      3
+    ],
+    "classification_basis": "Calibre/clase y montaje del guardado + comparación de la tercera tanda fotográfica con fuentes históricas y fichas de museo",
+    "photo_review": "Foto 3 de la tercera tanda: comparación histórica del modelo. Se utiliza como referencia de familia para los duplicados; la foto no identifica por sí sola cada referencia individual.",
+    "source_title": "Musée de la Grande Guerre · obus à balles de 75 mm Mle 1897",
+    "source_url": "https://www.museedelagrandeguerre.com/collections/obus-a-balles-de-75-mm-modele-1897/"
+  },
+  "EE-56": {
+    "year": 1897,
+    "identification": "Vaina francesa de 75 mm · probable familia del sistema Mle 1897",
+    "family": "Francia · artillería de campaña de 75 mm · familia 1897",
+    "piece_type": "Vaina",
+    "date": "1897 · familia probable del conjunto representado",
+    "date_basis": "Patrón/familia probable por comparación visual; no fabricación del ejemplar",
+    "historical_status": "Origen francés y montaje confirmados en el juego; patrón visual probable",
+    "confirmed_details": "El guardado registra esta vaina sin proyectil montado. La comparación histórica usa el conjunto completo fotografiado EE-54 como referencia de familia, no como prueba de que esta referencia esté completa.",
+    "uncertain_details": "La similitud es compatible con esa familia, pero la simplificación gráfica no permite distinguir Mle 1897 de modificaciones posteriores con seguridad. No se lee fecha, fabricante o lote. La etiqueta genérica French 75mm Shell no confirma por sí sola un modelo exacto.",
+    "date_note": "1897 es la referencia de familia para la exposición y se marca como probable. La forma de la espoleta permite afinar más que el nombre genérico Casing. No es una vaina vacía cuando lleva French 75mm Shell, y no se certifica una fabricación de 1897.",
+    "historical_sources": [
+      {
+        "title": "Musée de la Grande Guerre · obus à balles de 75 mm Mle 1897",
+        "url": "https://www.museedelagrandeguerre.com/collections/obus-a-balles-de-75-mm-modele-1897/"
+      },
+      {
+        "title": "Musée de l’Armée · familia del canon de 75 Mle 1897",
+        "url": "https://www.musee-armee.fr/fileadmin/user_upload/Documents/Support-Visite-Fiches-Objets/Fiches-1914-1918/MA_fiche-objet-canon-75.pdf"
+      }
+    ],
+    "end": null,
+    "precision": "Origen francés y montaje confirmados en el juego; patrón visual probable",
+    "historical_origin": "Francia · diseño/familia; fabricante y país de fabricación del ejemplar sin confirmar",
+    "national_family": "Francia",
+    "display_house": "Francia",
+    "section": "Francia y Bélgica",
+    "photo_representative_ref": "EE-54",
+    "photo_batch": "Munición francesa · tercera tanda",
+    "photo_numbers": [
+      3
+    ],
+    "classification_basis": "Calibre/clase y montaje del guardado + comparación de la tercera tanda fotográfica con fuentes históricas y fichas de museo",
+    "photo_review": "Foto 3 de la tercera tanda: comparación histórica del modelo. Se utiliza como referencia de familia para los duplicados; la foto no identifica por sí sola cada referencia individual.",
+    "source_title": "Musée de la Grande Guerre · obus à balles de 75 mm Mle 1897",
+    "source_url": "https://www.museedelagrandeguerre.com/collections/obus-a-balles-de-75-mm-modele-1897/"
+  },
+  "EE-57": {
+    "year": 1897,
+    "identification": "Cartucho francés de 75 mm · probable proyectil de metralla de la familia Mle 1897",
+    "family": "Francia · artillería de campaña de 75 mm · familia 1897",
+    "piece_type": "Cartucho de artillería · conjunto montado",
+    "date": "1897 · familia probable del conjunto representado",
+    "date_basis": "Patrón/familia probable por comparación visual; no fabricación del ejemplar",
+    "historical_status": "Origen francés y montaje confirmados en el juego; patrón visual probable",
+    "confirmed_details": "El guardado registra French 75mm Shell montado en French 75mm Casing. La foto muestra cuerpo oscuro y una espoleta alta de aspecto latonado y escalonado. El Musée de la Grande Guerre documenta el obus à balles Mle 1897 con espoleta de doble efecto 22/31 Mle 1897.",
+    "uncertain_details": "La similitud es compatible con esa familia, pero la simplificación gráfica no permite distinguir Mle 1897 de modificaciones posteriores con seguridad. No se lee fecha, fabricante o lote. La etiqueta genérica French 75mm Shell no confirma por sí sola un modelo exacto.",
+    "date_note": "1897 es la referencia de familia para la exposición y se marca como probable. La forma de la espoleta permite afinar más que el nombre genérico Casing. No es una vaina vacía cuando lleva French 75mm Shell, y no se certifica una fabricación de 1897.",
+    "historical_sources": [
+      {
+        "title": "Musée de la Grande Guerre · obus à balles de 75 mm Mle 1897",
+        "url": "https://www.museedelagrandeguerre.com/collections/obus-a-balles-de-75-mm-modele-1897/"
+      },
+      {
+        "title": "Musée de l’Armée · familia del canon de 75 Mle 1897",
+        "url": "https://www.musee-armee.fr/fileadmin/user_upload/Documents/Support-Visite-Fiches-Objets/Fiches-1914-1918/MA_fiche-objet-canon-75.pdf"
+      }
+    ],
+    "end": null,
+    "precision": "Origen francés y montaje confirmados en el juego; patrón visual probable",
+    "historical_origin": "Francia · diseño/familia; fabricante y país de fabricación del ejemplar sin confirmar",
+    "national_family": "Francia",
+    "display_house": "Francia",
+    "section": "Francia y Bélgica",
+    "photo_representative_ref": "EE-54",
+    "photo_batch": "Munición francesa · tercera tanda",
+    "photo_numbers": [
+      3
+    ],
+    "classification_basis": "Calibre/clase y montaje del guardado + comparación de la tercera tanda fotográfica con fuentes históricas y fichas de museo",
+    "photo_review": "Foto 3 de la tercera tanda: comparación histórica del modelo. Se utiliza como referencia de familia para los duplicados; la foto no identifica por sí sola cada referencia individual.",
+    "source_title": "Musée de la Grande Guerre · obus à balles de 75 mm Mle 1897",
+    "source_url": "https://www.museedelagrandeguerre.com/collections/obus-a-balles-de-75-mm-modele-1897/"
+  },
+  "EE-1080": {
+    "year": 1934,
+    "identification": "Cartucho francés de 25×194R · sistema anticarro Hotchkiss Mle 1934",
+    "family": "Francia · munición anticarro Hotchkiss de 25 mm",
+    "piece_type": "Cartucho de cañón anticarro",
+    "date": "1934 · referencia del sistema anticarro Hotchkiss",
+    "date_basis": "Año del sistema de arma asociado; no fabricación ni primera fecha del cartucho",
+    "historical_status": "Familia y función confirmadas por calibre; carga concreta pendiente",
+    "confirmed_details": "La denominación nativa 25×194R corresponde a la familia anticarro Hotchkiss Mle 1934. La fotografía muestra vaina con reborde, cuello estrechado y proyectil puntiagudo. QuestMasters conserva un cañón del modelo y documenta cartuchos fechados en los años treinta.",
+    "uncertain_details": "No se identifica un modelo exacto de proyectil, trazador, lote o fabricante por el color amarillo de la representación. No se atribuye servicio británico, finlandés o alemán a este ejemplar sin marcas específicas.",
+    "date_note": "1934 es la referencia del sistema anticarro, no la fecha demostrada de fabricación o desarrollo de este cartucho. El 25×194R con reborde se distingue del 25×163 de la familia automática antiaérea Hotchkiss.",
+    "historical_sources": [
+      {
+        "title": "Tony Williams · tabla de identificación de cartuchos, datos dimensionales aportados por investigadores",
+        "url": "https://quarryhs.co.uk/ammunition-data-table/"
+      },
+      {
+        "title": "QuestMasters Museum · cañón Hotchkiss de 25 mm Mle 1934 y munición de su colección",
+        "url": "https://www.questmasters.us/25mm_French_Hotchkiss.html"
+      }
+    ],
+    "end": null,
+    "precision": "Familia y función confirmadas por calibre; carga concreta pendiente",
+    "historical_origin": "Francia · diseño/familia; fabricante y país de fabricación del ejemplar sin confirmar",
+    "national_family": "Francia",
+    "display_house": "Francia",
+    "section": "Francia y Bélgica",
+    "photo_representative_ref": "EE-1080",
+    "photo_batch": "Munición francesa · tercera tanda",
+    "photo_numbers": [
+      4
+    ],
+    "classification_basis": "Calibre/clase y montaje del guardado + comparación de la tercera tanda fotográfica con fuentes históricas y fichas de museo",
+    "photo_review": "Foto 4 de la tercera tanda: comparación histórica del modelo. Se utiliza como referencia de familia para los duplicados; la foto no identifica por sí sola cada referencia individual.",
+    "source_title": "Tony Williams · tabla de identificación de cartuchos, datos dimensionales aportados por investigadores",
+    "source_url": "https://quarryhs.co.uk/ammunition-data-table/"
+  },
+  "EE-1081": {
+    "year": 1934,
+    "identification": "Cartucho francés de 25×194R · sistema anticarro Hotchkiss Mle 1934",
+    "family": "Francia · munición anticarro Hotchkiss de 25 mm",
+    "piece_type": "Cartucho de cañón anticarro",
+    "date": "1934 · referencia del sistema anticarro Hotchkiss",
+    "date_basis": "Año del sistema de arma asociado; no fabricación ni primera fecha del cartucho",
+    "historical_status": "Familia y función confirmadas por calibre; carga concreta pendiente",
+    "confirmed_details": "La denominación nativa 25×194R corresponde a la familia anticarro Hotchkiss Mle 1934. La fotografía muestra vaina con reborde, cuello estrechado y proyectil puntiagudo. QuestMasters conserva un cañón del modelo y documenta cartuchos fechados en los años treinta.",
+    "uncertain_details": "No se identifica un modelo exacto de proyectil, trazador, lote o fabricante por el color amarillo de la representación. No se atribuye servicio británico, finlandés o alemán a este ejemplar sin marcas específicas.",
+    "date_note": "1934 es la referencia del sistema anticarro, no la fecha demostrada de fabricación o desarrollo de este cartucho. El 25×194R con reborde se distingue del 25×163 de la familia automática antiaérea Hotchkiss.",
+    "historical_sources": [
+      {
+        "title": "Tony Williams · tabla de identificación de cartuchos, datos dimensionales aportados por investigadores",
+        "url": "https://quarryhs.co.uk/ammunition-data-table/"
+      },
+      {
+        "title": "QuestMasters Museum · cañón Hotchkiss de 25 mm Mle 1934 y munición de su colección",
+        "url": "https://www.questmasters.us/25mm_French_Hotchkiss.html"
+      }
+    ],
+    "end": null,
+    "precision": "Familia y función confirmadas por calibre; carga concreta pendiente",
+    "historical_origin": "Francia · diseño/familia; fabricante y país de fabricación del ejemplar sin confirmar",
+    "national_family": "Francia",
+    "display_house": "Francia",
+    "section": "Francia y Bélgica",
+    "photo_representative_ref": "EE-1080",
+    "photo_batch": "Munición francesa · tercera tanda",
+    "photo_numbers": [
+      4
+    ],
+    "classification_basis": "Calibre/clase y montaje del guardado + comparación de la tercera tanda fotográfica con fuentes históricas y fichas de museo",
+    "photo_review": "Foto 4 de la tercera tanda: comparación histórica del modelo. Se utiliza como referencia de familia para los duplicados; la foto no identifica por sí sola cada referencia individual.",
+    "source_title": "Tony Williams · tabla de identificación de cartuchos, datos dimensionales aportados por investigadores",
+    "source_url": "https://quarryhs.co.uk/ammunition-data-table/"
+  },
+  "EE-34": {
+    "year": 1944,
+    "identification": "Granada estadounidense de mortero M49A2 de 60 mm · Segunda Guerra Mundial",
+    "family": "Estados Unidos · munición de mortero de 60 mm · M49A2",
+    "date": "1944 o anterior · M49A2 documentado en octubre de 1944",
+    "confirmed_details": "La etiqueta del juego identifica M49A2 de 60 mm. Se ven cuerpo abombado con ranuras, cola de aletas y conjunto de espoleta en la punta. El Smithsonian conserva un M49A2 de 60 mm; QuestMasters documenta embalajes estadounidenses originales M49A2 de octubre de 1944.",
+    "uncertain_details": "La captura no permite atribuir fabricante, lote, fecha de fabricación ni modelo exacto de espoleta. El origen estadounidense corresponde al diseño y familia, no a una fábrica identificada en este ejemplar virtual.",
+    "historical_sources": [
+      {
+        "title": "Smithsonian · Shell, high explosive, M49A2, 60mm mortar",
+        "url": "https://americanhistory.si.edu/collections/object/nmah_407758"
+      },
+      {
+        "title": "QuestMasters Museum · embalajes M49A2 de octubre de 1944",
+        "url": "https://www.questmasters.us/Crates_Page_2.html"
+      }
+    ],
+    "end": null,
+    "precision": "Época confirmada; año documental, adopción exacta pendiente",
+    "piece_type": "Granada de mortero",
+    "date_basis": "Fecha de evidencia histórica consultada; límite documental, no año de adopción ni fabricación",
+    "date_note": "El año sirve para situar el modelo documentado durante la Segunda Guerra Mundial. No determina su primera adopción, el año de fabricación del ejemplar ni que todos los modelos con nombre parecido sean iguales.",
+    "historical_origin": "Estados Unidos · origen de diseño/familia; fabricación del ejemplar sin confirmar",
+    "historical_status": "Familia y época contrastadas; detalles del ejemplar sin confirmar",
+    "national_family": "Estados Unidos",
+    "display_house": "Francia",
+    "section": "Aliados · Estados Unidos",
+    "photo_representative_ref": "EE-34",
+    "photo_batch": "Morteros estadounidenses · cuarta tanda",
+    "photo_numbers": [
+      1
+    ],
+    "classification_basis": "Nombre nativo y estado del guardado + fotografía del usuario + evidencia histórica del modelo",
+    "photo_review": "Fotografía 1 de la cuarta tanda. Referencia visual de familia; los duplicados conservan su propio estado de conservación.",
+    "source_title": "Smithsonian · Shell, high explosive, M49A2, 60mm mortar",
+    "source_url": "https://americanhistory.si.edu/collections/object/nmah_407758"
+  },
+  "EE-45": {
+    "year": 1943,
+    "identification": "Granada estadounidense de mortero de 81 mm · familia M43",
+    "family": "Estados Unidos · munición de mortero de 81 mm · familia M43",
+    "date": "1943 o anterior · M43 documentado el 22 de abril de 1943",
+    "confirmed_details": "El juego la llama M43 de 81 mm. La captura muestra cuerpo alargado, ranuras cerca del hombro, espoleta en la punta y cola de aletas. El manual estadounidense FM 23-90 del 22 de abril de 1943 documenta el M43 y distingue el M43A1 como otra designación.",
+    "uncertain_details": "La forma simplificada y la ausencia de marcajes no permiten verificar una subvariante exacta M43/M43A1 ni el modelo de espoleta. Se conserva M43 como nombre nativo. Fabricante, lote y año del ejemplar sin confirmar.",
+    "historical_sources": [
+      {
+        "title": "War Department · FM 23-90, 81-mm Mortar M1, 22 de abril de 1943 · figura 7 y relación de modelos",
+        "url": "https://djvu.online/file/1mFrsmCP5zQ6A"
+      }
+    ],
+    "end": null,
+    "precision": "Época confirmada; año documental, adopción exacta pendiente",
+    "piece_type": "Granada de mortero",
+    "date_basis": "Fecha de evidencia histórica consultada; límite documental, no año de adopción ni fabricación",
+    "date_note": "El año sirve para situar el modelo documentado durante la Segunda Guerra Mundial. No determina su primera adopción, el año de fabricación del ejemplar ni que todos los modelos con nombre parecido sean iguales.",
+    "historical_origin": "Estados Unidos · origen de diseño/familia; fabricación del ejemplar sin confirmar",
+    "historical_status": "Familia y época contrastadas; detalles del ejemplar sin confirmar",
+    "national_family": "Estados Unidos",
+    "display_house": "Francia",
+    "section": "Aliados · Estados Unidos",
+    "photo_representative_ref": "EE-45",
+    "photo_batch": "Morteros estadounidenses · cuarta tanda",
+    "photo_numbers": [
+      2
+    ],
+    "classification_basis": "Nombre nativo y estado del guardado + fotografía del usuario + evidencia histórica del modelo",
+    "photo_review": "Fotografía 2 de la cuarta tanda. Referencia visual de familia; los duplicados conservan su propio estado de conservación.",
+    "source_title": "War Department · FM 23-90, 81-mm Mortar M1, 22 de abril de 1943 · figura 7 y relación de modelos",
+    "source_url": "https://djvu.online/file/1mFrsmCP5zQ6A"
+  },
+  "EE-46": {
+    "year": 1943,
+    "identification": "Granada estadounidense de mortero de 81 mm · familia M43",
+    "family": "Estados Unidos · munición de mortero de 81 mm · familia M43",
+    "date": "1943 o anterior · M43 documentado el 22 de abril de 1943",
+    "confirmed_details": "El juego la llama M43 de 81 mm. La captura muestra cuerpo alargado, ranuras cerca del hombro, espoleta en la punta y cola de aletas. El manual estadounidense FM 23-90 del 22 de abril de 1943 documenta el M43 y distingue el M43A1 como otra designación.",
+    "uncertain_details": "La forma simplificada y la ausencia de marcajes no permiten verificar una subvariante exacta M43/M43A1 ni el modelo de espoleta. Se conserva M43 como nombre nativo. Fabricante, lote y año del ejemplar sin confirmar.",
+    "historical_sources": [
+      {
+        "title": "War Department · FM 23-90, 81-mm Mortar M1, 22 de abril de 1943 · figura 7 y relación de modelos",
+        "url": "https://djvu.online/file/1mFrsmCP5zQ6A"
+      }
+    ],
+    "end": null,
+    "precision": "Época confirmada; año documental, adopción exacta pendiente",
+    "piece_type": "Granada de mortero",
+    "date_basis": "Fecha de evidencia histórica consultada; límite documental, no año de adopción ni fabricación",
+    "date_note": "El año sirve para situar el modelo documentado durante la Segunda Guerra Mundial. No determina su primera adopción, el año de fabricación del ejemplar ni que todos los modelos con nombre parecido sean iguales.",
+    "historical_origin": "Estados Unidos · origen de diseño/familia; fabricación del ejemplar sin confirmar",
+    "historical_status": "Familia y época contrastadas; detalles del ejemplar sin confirmar",
+    "national_family": "Estados Unidos",
+    "display_house": "Francia",
+    "section": "Aliados · Estados Unidos",
+    "photo_representative_ref": "EE-45",
+    "photo_batch": "Morteros estadounidenses · cuarta tanda",
+    "photo_numbers": [
+      2
+    ],
+    "classification_basis": "Nombre nativo y estado del guardado + fotografía del usuario + evidencia histórica del modelo",
+    "photo_review": "Fotografía 2 de la cuarta tanda. Referencia visual de familia; los duplicados conservan su propio estado de conservación.",
+    "source_title": "War Department · FM 23-90, 81-mm Mortar M1, 22 de abril de 1943 · figura 7 y relación de modelos",
+    "source_url": "https://djvu.online/file/1mFrsmCP5zQ6A"
+  },
+  "EE-413": {
+    "national_family": "Alemania",
+    "display_house": "Francia",
+    "section": "Alemania · 1914-1945 y antecedentes",
+    "family": "Stielhandgranate 24 · agrupación de granadas",
+    "piece_type": "Granada · conjunto agrupado",
+    "identification": "Bundled M24 Grenade · agrupación alemana de granadas M24",
+    "year": 1924,
+    "end": null,
+    "date": "1924 · modelo base M24; conjunto de época sin fecha propia",
+    "precision": "Año del modelo base; fecha del conjunto sin confirmar",
+    "date_basis": "1924 identifica el modelo base Stielhandgranate 24; no fecha la agrupación ni su fabricación",
+    "date_note": "Agrupación alemana de la familia Stielhandgranate 24, asociada a la Segunda Guerra Mundial. Se conserva 1924 sólo como referencia del modelo base para ordenar la colección.",
+    "historical_origin": "Alemania · origen de diseño/familia; fabricante y año del ejemplar sin confirmar",
+    "historical_status": "Atribución alemana corregida por modelo; sin revisión fotográfica individual",
+    "confirmed_details": "La clase nativa UXO/M24Bundle y el nombre Bundled M24 Grenade identifican una agrupación de granadas M24. El Australian War Memorial documenta el modelo 1924 como granada alemana utilizada durante la Segunda Guerra Mundial.",
+    "uncertain_details": "La corrección de país no identifica fabricante, lote, fecha de fabricación ni detalles visuales del conjunto concreto.",
+    "classification_basis": "Clase UXO/M24Bundle + corrección del usuario + documentación museística del modelo base",
+    "historical_sources": [
+      {
+        "title": "Australian War Memorial · Model 1924 Stick Hand Grenade",
+        "url": "https://www.awm.gov.au/collection/C302032"
+      }
+    ],
+    "source_title": "Australian War Memorial · Model 1924 Stick Hand Grenade",
+    "source_url": "https://www.awm.gov.au/collection/C302032"
+  }
+}

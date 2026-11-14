@@ -1,0 +1,1473 @@
+{
+ "BlueprintGeneratedClass /Game/Items/Helmets/Stirnpanzer.Stirnpanzer_C": [
+  "M16/M17",
+  "M18"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Misc/GP5Filter.GP5Filter_C": [
+  "Black ShM-66MU PMG-2/GP-5M Mask"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Misc/SferaBerezkaCover.SferaBerezkaCover_C": [
+  "SSSh-94",
+  "SSSh-94 Black"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Misc/SferaTanCover.SferaTanCover_C": [
+  "SSSh-94",
+  "SSSh-94 Black"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Misc/SferaVSR93Cover.SferaVSR93Cover_C": [
+  "SSSh-94",
+  "SSSh-94 Black"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/10RoundM82Magazine.10RoundM82Magazine_C": [
+  "M82A1M"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/1P29.1P29_C": [
+  "VPO-101M"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/1P63.1P63_C": [
+  "VPO-101M"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/6h4Bayonet.6h4Bayonet_C": [
+  "AK-74",
+  "AKM",
+  "AKMS",
+  "AKS-74",
+  "AKS-74N",
+  "SVD"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/6h4BorderGuardBayonet.6h4BorderGuardBayonet_C": [
+  "AK-74"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/6h5Bayonet.6h5Bayonet_C": [
+  "AK-74",
+  "AKS-74",
+  "AKS-74N"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/6h5BorderGuardBayonet.6h5BorderGuardBayonet_C": [
+  "AK-74"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/A2PistolGrip.A2PistolGrip_C": [
+  "M16A2",
+  "M16A4",
+  "M4 Carbine",
+  "M82A1M"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/AK100Stock.AK100Stock_C": [
+  "AKS-74N"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/AK308Magazine.AK308Magazine_C": [
+  "VPO-101M"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/AK74BorderGuardGreenStock.AK74BorderGuardGreenStock_C": [
+  "AK-74"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/AK74PlumStock.AK74PlumStock_C": [
+  "AK-74"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/AK74Stock.AK74Stock_C": [
+  "AK-74"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/AKBakelitePistolGrip.AKBakelitePistolGrip_C": [
+  "AK-74",
+  "AKM",
+  "AKMS",
+  "AKS-74",
+  "AKS-74N",
+  "PM md. 65",
+  "RPK",
+  "RPK-74",
+  "RPKS-74"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/AKBlackPistolGrip.AKBlackPistolGrip_C": [
+  "AK-74",
+  "AKS-74",
+  "AKS-74N",
+  "RPK-74",
+  "RPKS-74"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/AKBorderGuardPistolGrip.AKBorderGuardPistolGrip_C": [
+  "AK-74"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/AKBorderGuardlHandguard.AKBorderGuardlHandguard_C": [
+  "AK-74"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/AKDrumMagazine.AKDrumMagazine_C": [
+  "RPK"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/AKFlatHandguard.AKFlatHandguard_C": [
+  "Milled Type-56",
+  "Milled Type-56-1"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/AKMSStock.AKMSStock_C": [
+  "AKMS",
+  "PM md. 65"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/AKMStock.AKMStock_C": [
+  "AKM"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/AKPlumHandguard.AKPlumHandguard_C": [
+  "AK-74",
+  "AKS-74",
+  "AKS-74N"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/AKPlumPistolGrip.AKPlumPistolGrip_C": [
+  "AK-74",
+  "AKS-74",
+  "AKS-74N"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/AKPolymerHandguard.AKPolymerHandguard_C": [
+  "AK-74",
+  "AKS-74",
+  "AKS-74N"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/AKRibbedDustCover.AKRibbedDustCover_C": [
+  "AK-74",
+  "AKM",
+  "AKMS",
+  "AKS-74",
+  "AKS-74N",
+  "AMD-65",
+  "PM md. 65"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/AKS74Stock.AKS74Stock_C": [
+  "AKS-74",
+  "AKS-74N"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/AKS74UStock.AKS74UStock_C": [
+  "AKS-74",
+  "AKS-74N"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/AKSmoothDustCover.AKSmoothDustCover_C": [
+  "Milled Type-56",
+  "Milled Type-56-1",
+  "RPK",
+  "RPK-74",
+  "RPKS-74",
+  "Type-56-2"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/AKWoodHandguard.AKWoodHandguard_C": [
+  "AK-74",
+  "AKM",
+  "AKMS",
+  "AKS-74",
+  "AKS-74N"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/AKWoodPistolGrip.AKWoodPistolGrip_C": [
+  "AKM",
+  "AKMS",
+  "Milled Type-56",
+  "Milled Type-56-1",
+  "RPK",
+  "RPK-74"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/AMD63Handguard.AMD63Handguard_C": [
+  "AMD-65"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/AMD63PistolGrip.AMD63PistolGrip_C": [
+  "AMD-65"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/AMD65Handguard.AMD65Handguard_C": [
+  "AMD-65"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/AMD65PistolGrip.AMD65PistolGrip_C": [
+  "AMD-65"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/AMD65Stock.AMD65Stock_C": [
+  "AMD-65"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/APBStock.APBStock_C": [
+  "APB"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/APBSuppressor.APBSuppressor_C": [
+  "APB"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/APSGrips.APSGrips_C": [
+  "APB"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/APSMagazine.APSMagazine_C": [
+  "APB"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/APSSlide.APSSlide_C": [
+  "APB"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/AR15Bolt.AR15Bolt_C": [
+  "M16A2",
+  "M16A4",
+  "M4 Carbine"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/AR15ChargingHandle.AR15ChargingHandle_C": [
+  "HK416",
+  "M16A2",
+  "M16A4",
+  "M4 Carbine"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/ARDetachableCarryhandle.ARDetachableCarryhandle_C": [
+  "M16A4",
+  "M4 Carbine"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/AdrianLiner.AdrianLiner_C": [
+  "French M26 Adrian",
+  "Gilded M23 Adrian",
+  "M23 Adrian",
+  "Russian Imperial Adrian",
+  "Snow Camo French M15 Adrian",
+  "Soviet Adrian"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/BARBipod.BARBipod_C": [
+  "BAR"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/BARCarryhandle.BARCarryhandle_C": [
+  "BAR"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/BARMagazine.BARMagazine_C": [
+  "BAR"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/BARStock.BARStock_C": [
+  "BAR"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/BakeliteMG42Stock.BakeliteMG42Stock_C": [
+  "MG3",
+  "MG42"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/BakeliteSVDMagazine.BakeliteSVDMagazine_C": [
+  "SVD"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/BelgianNagantGrips.BelgianNagantGrips_C": [
+  "M1895"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/Berdan2Bayonet.Berdan2Bayonet_C": [
+  "Berdan No.2",
+  "Berdan No.2 Cavalry"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/Berdan2Bolt.Berdan2Bolt_C": [
+  "Berdan No.2",
+  "Berdan No.2 Cavalry",
+  "Shotgun Conversion Berdan No.2"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/Berdan2CavalryStock.Berdan2CavalryStock_C": [
+  "Berdan No.2 Cavalry"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/Berdan2SporterizedStock.Berdan2SporterizedStock_C": [
+  "Shotgun Conversion Berdan No.2"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/Berdan2Stock.Berdan2Stock_C": [
+  "Berdan No.2"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/BlokadnikK98Bayonet.BlokadnikK98Bayonet_C": [
+  "M91/30",
+  "PE Sniper",
+  "PEM Sniper"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/BorderGuardAKMMagazine.BorderGuardAKMMagazine_C": [
+  "AKM"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/BorderguardAK74Magazine.BorderguardAK74Magazine_C": [
+  "AK-74"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/BorderguardPaintedAK74Magazine.BorderguardPaintedAK74Magazine_C": [
+  "AK-74"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/BosnianSingleRibAKMagazine.BosnianSingleRibAKMagazine_C": [
+  "M70AB2",
+  "M70B1",
+  "M92"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/BramitDevice.BramitDevice_C": [
+  "M91/30",
+  "PE Sniper",
+  "PEM Sniper"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/BrodieWW1Liner.BrodieWW1Liner_C": [
+  "Brodie Mark I",
+  "Brodie Mark II"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/BrodieWW2Liner.BrodieWW2Liner_C": [
+  "Brodie Mark I",
+  "Brodie Mark II"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/CAR15Stock.CAR15Stock_C": [
+  "M4 Carbine"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/ChineseAKMagazine.ChineseAKMagazine_C": [
+  "Milled Type-56",
+  "Milled Type-56-1",
+  "Type-56-2"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/ChinesePGO7.ChinesePGO7_C": [
+  "Type 69"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/CompM2.CompM2_C": [
+  "M16A4",
+  "M4 Carbine"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/CompM4.CompM4_C": [
+  "HK416",
+  "M16A4",
+  "M4 Carbine"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/DP27Bipod.DP27Bipod_C": [
+  "DP-27",
+  "DPM"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/DP27Bolt.DP27Bolt_C": [
+  "DP-27",
+  "DPM"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/DP27Magazine.DP27Magazine_C": [
+  "DP-27",
+  "DPM"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/DP27Stock.DP27Stock_C": [
+  "DP-27"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/DarkTulaAKMagazine.DarkTulaAKMagazine_C": [
+  "AKM",
+  "AKMS"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/DoubleRibAKMagazine.DoubleRibAKMagazine_C": [
+  "M70AB2",
+  "M70B1",
+  "M92"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/DoubleRibLilyAKMagazine.DoubleRibLilyAKMagazine_C": [
+  "M70AB2",
+  "M70B1",
+  "M92"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/EarlyAKDustCover.EarlyAKDustCover_C": [
+  "Milled Type-56",
+  "Milled Type-56-1",
+  "RPK",
+  "RPK-74",
+  "RPKS-74",
+  "Type-56-2"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/EarlyAKSStock.EarlyAKSStock_C": [
+  "Milled Type-56-1"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/EarlyBoderGuardAKStock.EarlyBoderGuardAKStock_C": [
+  "AK-74",
+  "AKM"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/EarlyBorderGuardAKHandguard.EarlyBorderGuardAKHandguard_C": [
+  "AK-74",
+  "AKM"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/EarlyBorderGuardAKPistolGrip.EarlyBorderGuardAKPistolGrip_C": [
+  "AK-74",
+  "AKM"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/EarlyPPSh41StickMagazine.EarlyPPSh41StickMagazine_C": [
+  "PPSh-41"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/EarlyRibbedPPSh41StickMagazine.EarlyRibbedPPSh41StickMagazine_C": [
+  "PPSh-41"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/EastGermanPSO1.EastGermanPSO1_C": [
+  "VPO-101M"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/ErsatzBayonet.ErsatzBayonet_C": [
+  "Gewehr 98",
+  "Gewehr 98M"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/FNStanagMagazine.FNStanagMagazine_C": [
+  "M16A2",
+  "M16A4",
+  "M4 Carbine"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/FedorovBolt.FedorovBolt_C": [
+  "Fedorov"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/FedorovMagazine.FedorovMagazine_C": [
+  "Fedorov"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/FedorovShroud.FedorovShroud_C": [
+  "Fedorov"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/FedorovStock.FedorovStock_C": [
+  "Fedorov"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/FrolovkaBolt.FrolovkaBolt_C": [
+  "Frolovka",
+  "Sako Hunting Mosin"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/FrolovkaMagazine.FrolovkaMagazine_C": [
+  "Frolovka"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/FrolovkaStock.FrolovkaStock_C": [
+  "Frolovka"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/G3Bayonet.G3Bayonet_C": [
+  "G3A3"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/G3Bolt.G3Bolt_C": [
+  "G3A3"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/G3FCG.G3FCG_C": [
+  "G3A3"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/G3Handguard.G3Handguard_C": [
+  "G3A3"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/G3Magazine.G3Magazine_C": [
+  "G3A3"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/G3Stock.G3Stock_C": [
+  "G3A3"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/G98Bayonet.G98Bayonet_C": [
+  "Gewehr 98",
+  "Gewehr 98M",
+  "Karabiner 98 kurz",
+  "Mauser Standardmodell"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/GP25.GP25_C": [
+  "AK-74",
+  "AKM",
+  "AKMS",
+  "AKS-74",
+  "AKS-74N"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/Gewehr98Bolt.Gewehr98Bolt_C": [
+  "Gewehr 98",
+  "Gewehr 98M",
+  "Mauser Standardmodell"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/Gewehr98MStock.Gewehr98MStock_C": [
+  "Gewehr 98M"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/Gewehr98Magazine.Gewehr98Magazine_C": [
+  "Gewehr 98",
+  "Gewehr 98M",
+  "Karabiner 98 kurz",
+  "Mauser Standardmodell"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/Gewehr98Stock.Gewehr98Stock_C": [
+  "Gewehr 98",
+  "Gewehr 98M"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/HK416Handguard.HK416Handguard_C": [
+  "HK416"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/HK416Magazine.HK416Magazine_C": [
+  "HK416"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/HK416PistolGrip.HK416PistolGrip_C": [
+  "HK416"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/HK416Stock.HK416Stock_C": [
+  "HK416"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/Hungarian20RoundAKMagazine.Hungarian20RoundAKMagazine_C": [
+  "AMD-65"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/IzhSidestampAKMagazine.IzhSidestampAKMagazine_C": [
+  "AKM",
+  "AKMS"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/IzhmashAKMagazine.IzhmashAKMagazine_C": [
+  "AKM",
+  "AKMS",
+  "RPK"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/IzhmashBakeliteAK74Magazine.IzhmashBakeliteAK74Magazine_C": [
+  "AK-74",
+  "AKS-74",
+  "AKS-74N",
+  "RPK-74",
+  "RPKS-74"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/IzhmashDarkAKMagazine.IzhmashDarkAKMagazine_C": [
+  "AKM",
+  "AKMS"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/Kar98BStock.Kar98BStock_C": [
+  "Gewehr 98M"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/Kar98KBayonet.Kar98KBayonet_C": [
+  "Gewehr 98M",
+  "Karabiner 98 kurz",
+  "Mauser Standardmodell"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/Kar98KBolt.Kar98KBolt_C": [
+  "Gewehr 98M",
+  "Karabiner 98 kurz",
+  "Mauser Standardmodell"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/Kar98KMagazine.Kar98KMagazine_C": [
+  "Gewehr 98",
+  "Gewehr 98M",
+  "Karabiner 98 kurz",
+  "Mauser Standardmodell"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/Kar98KParadeBayonet.Kar98KParadeBayonet_C": [
+  "Karabiner 98 kurz"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/Kar98KStock.Kar98KStock_C": [
+  "Karabiner 98 kurz",
+  "Mauser Standardmodell"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/LPS2.LPS2_C": [
+  "PSL"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/LanchesterMagazine.LanchesterMagazine_C": [
+  "Lanchester MkI"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/LanchesterStock.LanchesterStock_C": [
+  "Lanchester MkI"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/LaterRibbedPPSh41StickMagazine.LaterRibbedPPSh41StickMagazine_C": [
+  "PPSh-41"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/LeatherSSh68Liner.LeatherSSh68Liner_C": [
+  "SSh-60",
+  "SSh-68",
+  "SSh-68 Camo Painted"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M16A2Handguard.M16A2Handguard_C": [
+  "M16A2"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M16A2Stock.M16A2Stock_C": [
+  "M16A2",
+  "M16A4"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M16A4Handguard.M16A4Handguard_C": [
+  "M16A4"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M16A4M203Handguard.M16A4M203Handguard_C": [
+  "M16A4"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M16Liner.M16Liner_C": [
+  "M16/M17"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M17Liner.M17Liner_C": [
+  "M16/M17",
+  "M18",
+  "M18 Earcut"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M1895Drum.M1895Drum_C": [
+  "M1895"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M1895Grips.M1895Grips_C": [
+  "M1895"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M1905Bayonet.M1905Bayonet_C": [
+  "M1 Garand",
+  "M1D Garand"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M1905E1ChiselPointBayonet.M1905E1ChiselPointBayonet_C": [
+  "M1 Garand",
+  "M1D Garand"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M1905E1SpearPointBayonet.M1905E1SpearPointBayonet_C": [
+  "M1 Garand",
+  "M1D Garand"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M1905ParadeBayonet.M1905ParadeBayonet_C": [
+  "M1 Garand",
+  "M1D Garand"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M1910Grips.M1910Grips_C": [
+  "M1910"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M1910Magazine.M1910Magazine_C": [
+  "M1910"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M1910Slide.M1910Slide_C": [
+  "M1910"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M1911Barrel.M1911Barrel_C": [
+  "M1911A1"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M1911Grips.M1911Grips_C": [
+  "M1911A1"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M1911Magazine.M1911Magazine_C": [
+  "M1911A1"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M1911Slide.M1911Slide_C": [
+  "M1911A1"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M1935Stock.M1935Stock_C": [
+  "M1935"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M1A1Thompson20RoundMagazine.M1A1Thompson20RoundMagazine_C": [
+  "M1A1 Thompson"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M1A1Thompson30RoundMagazine.M1A1Thompson30RoundMagazine_C": [
+  "M1A1 Thompson"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M1A1ThompsonBolt.M1A1ThompsonBolt_C": [
+  "M1A1 Thompson"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M1A1ThompsonHandguard.M1A1ThompsonHandguard_C": [
+  "M1A1 Thompson"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M1A1ThompsonPistolGrip.M1A1ThompsonPistolGrip_C": [
+  "M1A1 Thompson"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M1A1ThompsonStock.M1A1ThompsonStock_C": [
+  "M1A1 Thompson"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M1CarbineBolt.M1CarbineBolt_C": [
+  "M1 Carbine"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M1CarbineMagazine.M1CarbineMagazine_C": [
+  "M1 Carbine"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M1CarbineParatrooperStock.M1CarbineParatrooperStock_C": [
+  "M1 Carbine"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M1CarbineStock.M1CarbineStock_C": [
+  "M1 Carbine"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M1DFlashHider.M1DFlashHider_C": [
+  "M1D Garand"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M1DScope.M1DScope_C": [
+  "M1D Garand"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M1GarandBolt.M1GarandBolt_C": [
+  "M1 Garand",
+  "M1D Garand"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M1GarandHandguard.M1GarandHandguard_C": [
+  "M1 Garand"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M1GarandStock.M1GarandStock_C": [
+  "M1 Garand",
+  "M1D Garand"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M1Liner.M1Liner_C": [
+  "M1 Helmet"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M1PlasticGripsBayonet.M1PlasticGripsBayonet_C": [
+  "M1 Garand",
+  "M1D Garand"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M1WoodGripsBayonet.M1WoodGripsBayonet_C": [
+  "M1 Garand",
+  "M1D Garand"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M24Stock.M24Stock_C": [
+  "M24 SWS"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M2CarbineMagazine.M2CarbineMagazine_C": [
+  "M1 Carbine"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M35Liner.M35Liner_C": [
+  "Erel Vulkanfiber Helmet",
+  "Heer M35",
+  "Heer M35 Green",
+  "Heer M42",
+  "Kriegsmarine M35",
+  "Luftschutz M35",
+  "Luftwaffe M35",
+  "Luftwaffe M42",
+  "Polizei M42"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M38Liner.M38Liner_C": [
+  "M38 Luftwaffe"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M38Stock.M38Stock_C": [
+  "M38",
+  "M44"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M3A1GreasegunBolt.M3A1GreasegunBolt_C": [
+  "M3A1"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M3AScope.M3AScope_C": [
+  "M24 SWS"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M3GreasegunBolt.M3GreasegunBolt_C": [
+  "M3"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M3GreasegunMagazine.M3GreasegunMagazine_C": [
+  "M3",
+  "M3A1"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M40HelmetLiner.M40HelmetLiner_C": [
+  "Estonian M40"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M44Bayonet.M44Bayonet_C": [
+  "M44"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M44Stock.M44Stock_C": [
+  "M38",
+  "M44"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M4M203Handguard.M4M203Handguard_C": [
+  "M4 Carbine"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M4PlumQuadRailHandguard.M4PlumQuadRailHandguard_C": [
+  "M4 Carbine"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M4PolymerHandguard.M4PolymerHandguard_C": [
+  "M4 Carbine"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M4QuadRailHandguard.M4QuadRailHandguard_C": [
+  "M4 Carbine"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M4Stock.M4Stock_C": [
+  "M4 Carbine"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M700Bolt.M700Bolt_C": [
+  "M24 SWS",
+  "M700"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M700Magazinie.M700Magazinie_C": [
+  "M24 SWS",
+  "M700"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M700Stock.M700Stock_C": [
+  "M700"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M76Handguard.M76Handguard_C": [
+  "M76"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M76Magazine.M76Magazine_C": [
+  "M76"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M76PistolGrip.M76PistolGrip_C": [
+  "M76"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M76Scope.M76Scope_C": [
+  "M76"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M76Stock.M76Stock_C": [
+  "M76"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M7Bayonet.M7Bayonet_C": [
+  "M16A2",
+  "M16A4",
+  "M4 Carbine"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M82A1Barrel.M82A1Barrel_C": [
+  "M82A1M"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M82A1Bolt.M82A1Bolt_C": [
+  "M82A1M"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M82A1CQBarrel.M82A1CQBarrel_C": [
+  "M82A1M"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M82Bipod.M82Bipod_C": [
+  "M82A1M"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M82PistolGrip.M82PistolGrip_C": [
+  "M82A1M"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M9130Bayonet.M9130Bayonet_C": [
+  "M91/30",
+  "PE Sniper",
+  "PEM Sniper"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M9130Bolt.M9130Bolt_C": [
+  "Frolovka",
+  "M1891",
+  "M1935",
+  "M38",
+  "M44",
+  "M91/30"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M9130Stock.M9130Stock_C": [
+  "M91/30",
+  "PE Sniper"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M91Bayonet.M91Bayonet_C": [
+  "M1891"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M91Bolt.M91Bolt_C": [
+  "Frolovka",
+  "M1891",
+  "M1935",
+  "M38",
+  "M44",
+  "M91/30"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M91Stock.M91Stock_C": [
+  "M1891"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M91StockFingerRest.M91StockFingerRest_C": [
+  "M1891"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M91StockWithoutUpper.M91StockWithoutUpper_C": [
+  "M1891"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M9Bayonet.M9Bayonet_C": [
+  "M16A2",
+  "M16A4",
+  "M4 Carbine"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/M9BayonetGreen.M9BayonetGreen_C": [
+  "M16A2",
+  "M16A4",
+  "M4 Carbine"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/MG42Barrel.MG42Barrel_C": [
+  "MG3",
+  "MG42"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/MG42Bipod.MG42Bipod_C": [
+  "MG3",
+  "MG42"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/MG42ChargingHandle.MG42ChargingHandle_C": [
+  "MG3",
+  "MG42"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/MG42PistolGrip.MG42PistolGrip_C": [
+  "MG3",
+  "MG42"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/MG42Stock.MG42Stock_C": [
+  "MG3",
+  "MG42"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/MP133PolymerHandguard.MP133PolymerHandguard_C": [
+  "MP-133"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/MP133PolymerPistolGrip.MP133PolymerPistolGrip_C": [
+  "MP-133",
+  "MP-153"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/MP133PolymerStock.MP133PolymerStock_C": [
+  "MP-133",
+  "MP-153"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/MP133WoodHandguard.MP133WoodHandguard_C": [
+  "MP-133"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/MP133WoodPistolGrip.MP133WoodPistolGrip_C": [
+  "MP-133",
+  "MP-153"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/MP133WoodStock.MP133WoodStock_C": [
+  "MP-133",
+  "MP-153"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/MP153PolymerHandguard.MP153PolymerHandguard_C": [
+  "MP-153"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/MP153WoodHandguard.MP153WoodHandguard_C": [
+  "MP-153"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/MP38Bolt.MP38Bolt_C": [
+  "MP38"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/MP40Bolt.MP40Bolt_C": [
+  "MP40",
+  "MP41"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/MP40Lower.MP40Lower_C": [
+  "MP38",
+  "MP40"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/MP40Magazine.MP40Magazine_C": [
+  "MP38",
+  "MP40",
+  "MP41",
+  "MP41R"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/MP40Suppressor.MP40Suppressor_C": [
+  "MP38",
+  "MP40",
+  "MP41"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/MP41Lower.MP41Lower_C": [
+  "MP41"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/MP43Barrel.MP43Barrel_C": [
+  "IZh-43"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/MP43ShortBarrel.MP43ShortBarrel_C": [
+  "IZh-43"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/MP43Stock.MP43Stock_C": [
+  "IZh-43"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/MakarovGrips.MakarovGrips_C": [
+  "PM"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/MakarovMagazine.MakarovMagazine_C": [
+  "PM"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/MakarovSlide.MakarovSlide_C": [
+  "PM"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/MauserStandardmodellStock.MauserStandardmodellStock_C": [
+  "Mauser Standardmodell"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/MilledType56Stock.MilledType56Stock_C": [
+  "Milled Type-56"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/Mk4Scope.Mk4Scope_C": [
+  "M82A1M"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/MolotBlackRPK74Magazine.MolotBlackRPK74Magazine_C": [
+  "RPK-74",
+  "RPKS-74"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/MolotRPK74Magazine.MolotRPK74Magazine_C": [
+  "AK-74",
+  "AKS-74",
+  "AKS-74N",
+  "RPK-74",
+  "RPKS-74"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/MosinHuntingBolt.MosinHuntingBolt_C": [
+  "Sako Hunting Mosin"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/MosinHuntingBoltPlasticKnob.MosinHuntingBoltPlasticKnob_C": [
+  "Sako Hunting Mosin"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/MosinMagazine.MosinMagazine_C": [
+  "M1891",
+  "M1935",
+  "M38",
+  "M44",
+  "M91/30",
+  "PE Sniper",
+  "PEM Sniper",
+  "Sako Hunting Mosin"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/MosinSlingSwivelMagazine.MosinSlingSwivelMagazine_C": [
+  "M1891"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/MosinSniperBolt.MosinSniperBolt_C": [
+  "PE Sniper",
+  "PEM Sniper"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/NVA6h4Bayonet.NVA6h4Bayonet_C": [
+  "M76"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/NagantSuppressor.NagantSuppressor_C": [
+  "M1895"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/OKP7.OKP7_C": [
+  "VPO-101M"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/P1903SMLEBayonet.P1903SMLEBayonet_C": [
+  "SMLE Mk III"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/P1907HookedSMLEBayonet.P1907HookedSMLEBayonet_C": [
+  "SMLE Mk III"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/P1907Mk2SMLEBayonet.P1907Mk2SMLEBayonet_C": [
+  "SMLE Mk III"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/P1907SMLEBayonet.P1907SMLEBayonet_C": [
+  "SMLE Mk III"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/P38Barrel.P38Barrel_C": [
+  "P38"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/P38Grips.P38Grips_C": [
+  "P38"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/P38Magazine.P38Magazine_C": [
+  "P38"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/P38Slide.P38Slide_C": [
+  "P38"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/PEMScope.PEMScope_C": [
+  "PEM Sniper"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/PEMSniperStock.PEMSniperStock_C": [
+  "PEM Sniper"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/PEScope.PEScope_C": [
+  "PE Sniper"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/PGO7.PGO7_C": [
+  "AKS-74N",
+  "RPG-7D",
+  "RPG-7V"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/PKBarrel.PKBarrel_C": [
+  "PKM"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/PKBipod.PKBipod_C": [
+  "PKM",
+  "Zastava M84"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/PKBolt.PKBolt_C": [
+  "PKM",
+  "Zastava M84"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/PKBox.PKBox_C": [
+  "PKM",
+  "Zastava M84"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/PKDustCover.PKDustCover_C": [
+  "PKM",
+  "Zastava M84"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/PKMBarrel.PKMBarrel_C": [
+  "PKM"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/PKMDustCover.PKMDustCover_C": [
+  "PKM",
+  "Zastava M84"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/PKMStock.PKMStock_C": [
+  "PKM"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/PPD40Bolt.PPD40Bolt_C": [
+  "Leningrad PPD40"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/PPD40DrumMagazine.PPD40DrumMagazine_C": [
+  "Leningrad PPD40"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/PPD40Handguard.PPD40Handguard_C": [
+  "Leningrad PPD40"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/PPD40Stock.PPD40Stock_C": [
+  "Leningrad PPD40"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/PPGrips.PPGrips_C": [
+  "Walther PP"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/PPMagazine.PPMagazine_C": [
+  "Walther PP"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/PPS43Grips.PPS43Grips_C": [
+  "PPS-43"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/PPS43Magazine.PPS43Magazine_C": [
+  "PPS-43"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/PPS43Stock.PPS43Stock_C": [
+  "PPS-43"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/PPSh41Bolt.PPSh41Bolt_C": [
+  "MP41R",
+  "PPSh-41"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/PPSh41DrumMagazine.PPSh41DrumMagazine_C": [
+  "PPSh-41"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/PPSh41EarlyUpper.PPSh41EarlyUpper_C": [
+  "MP41R",
+  "PPSh-41"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/PPSh41StickMagazine.PPSh41StickMagazine_C": [
+  "PPSh-41"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/PPSh41Stock.PPSh41Stock_C": [
+  "MP41R",
+  "PPSh-41"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/PPSh41Upper.PPSh41Upper_C": [
+  "MP41R",
+  "PPSh-41"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/PPSlide.PPSlide_C": [
+  "Walther PP"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/PSH77LongNoseVisor.PSH77LongNoseVisor_C": [
+  "Soviet TIG PSH-77"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/PSLHandguard.PSLHandguard_C": [
+  "PSL"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/PSLMagazine.PSLMagazine_C": [
+  "PSL"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/PSLStock.PSLStock_C": [
+  "PSL"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/PSLUpperHandguard.PSLUpperHandguard_C": [
+  "PSL"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/PSO1.PSO1_C": [
+  "AKS-74N",
+  "SVD",
+  "VPO-101M"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/RPG7DRear.RPG7DRear_C": [
+  "RPG-7D"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/RPG7HeatShield.RPG7HeatShield_C": [
+  "RPG-7V"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/RPKBipod.RPKBipod_C": [
+  "RPK",
+  "RPK-74",
+  "RPKS-74"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/RPKMagazine.RPKMagazine_C": [
+  "AKM",
+  "AKMS",
+  "RPK"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/RPKSStock.RPKSStock_C": [
+  "RPKS-74"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/RPKStock.RPKStock_C": [
+  "RPK",
+  "RPK-74"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/RPKWoodHandguard.RPKWoodHandguard_C": [
+  "RPK",
+  "RPK-74",
+  "RPKS-74"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/RomanianReverseDongHandguard.RomanianReverseDongHandguard_C": [
+  "PM md. 65"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/S9805Bayonet.S9805Bayonet_C": [
+  "Gewehr 98",
+  "Gewehr 98M"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/S98Bayonet.S98Bayonet_C": [
+  "Gewehr 98",
+  "Gewehr 98M"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/S98DressBayonet.S98DressBayonet_C": [
+  "Gewehr 98",
+  "Gewehr 98M"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/SKSBayonet.SKSBayonet_C": [
+  "SKS"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/SKSBolt.SKSBolt_C": [
+  "SKS"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/SKSDustCover.SKSDustCover_C": [
+  "SKS"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/SKSGasTube.SKSGasTube_C": [
+  "SKS"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/SKSMagazine.SKSMagazine_C": [
+  "SKS"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/SKSStock.SKSStock_C": [
+  "SKS"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/SMLEBolt.SMLEBolt_C": [
+  "SMLE Mk III"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/SMLEMagazine.SMLEMagazine_C": [
+  "SMLE Mk III"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/SMLEStock.SMLEStock_C": [
+  "SMLE Mk III"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/SMLEStockFront.SMLEStockFront_C": [
+  "SMLE Mk III"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/SSh36Liner.SSh36Liner_C": [
+  "SSh-36",
+  "SSh-36 Obr.38"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/SSh39Liner.SSh39Liner_C": [
+  "SSh-39",
+  "SSh-39 Obr.38"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/SSh39Type1Liner.SSh39Type1Liner_C": [
+  "SSh-39"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/SSh40Liner.SSh40Liner_C": [
+  "SSh-40"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/SSh60Liner.SSh60Liner_C": [
+  "SSh-60",
+  "SSh-68",
+  "SSh-68 Camo Painted"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/SSh68Liner.SSh68Liner_C": [
+  "SSh-68",
+  "SSh-68 Camo Painted"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/SVDHandguard.SVDHandguard_C": [
+  "SVD"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/SVDMagazine.SVDMagazine_C": [
+  "SVD"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/SVDPolymerHandguard.SVDPolymerHandguard_C": [
+  "SVD"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/SVDPolymerStock.SVDPolymerStock_C": [
+  "SVD"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/SVDStock.SVDStock_C": [
+  "SVD"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/SVT38Bayonet.SVT38Bayonet_C": [
+  "SVT-38"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/SVT38Stock.SVT38Stock_C": [
+  "SVT-38"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/SVT40Bayonet.SVT40Bayonet_C": [
+  "SVT-40"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/SVT40Magazine.SVT40Magazine_C": [
+  "SVT-38",
+  "SVT-40"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/SVT40Stock.SVT40Stock_C": [
+  "SVT-40"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/SVTSuppressor.SVTSuppressor_C": [
+  "SVT-38",
+  "SVT-40"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/SakoHuntingMosinStock.SakoHuntingMosinStock_C": [
+  "Sako Hunting Mosin"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/SovietPSH77NarrowVisor.SovietPSH77NarrowVisor_C": [
+  "Soviet TIG PSH-77"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/SovietPSH77WideVisor.SovietPSH77WideVisor_C": [
+  "Soviet TIG PSH-77"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/StG44Handguard.StG44Handguard_C": [
+  "StG44"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/StG44Magazine.StG44Magazine_C": [
+  "StG44"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/StG44PistolGrip.StG44PistolGrip_C": [
+  "StG44"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/StG44Stock.StG44Stock_C": [
+  "StG44"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/StanagMagazine.StanagMagazine_C": [
+  "M16A2",
+  "M16A4",
+  "M4 Carbine"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/SteelAKMagazine.SteelAKMagazine_C": [
+  "AKM",
+  "AKMS",
+  "AMD-65",
+  "PM md. 65",
+  "RPK"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/StenBarrel.StenBarrel_C": [
+  "Sten MKII"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/StenBolt.StenBolt_C": [
+  "Sten MKII"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/StenMagazine.StenMagazine_C": [
+  "Sten MKII"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/StenStock.StenStock_C": [
+  "Sten MKII"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/StenUpdatedStock.StenUpdatedStock_C": [
+  "Sten MKII"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/TA31Acog.TA31Acog_C": [
+  "M16A4",
+  "M4 Carbine"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/TOZ123Handguard.TOZ123Handguard_C": [
+  "TOZ-123"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/TOZ123Stock.TOZ123Stock_C": [
+  "TOZ-123"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/TOZ34Barrel.TOZ34Barrel_C": [
+  "TOZ-34"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/TOZ34Stock.TOZ34Stock_C": [
+  "TOZ-34"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/TTEarlySlide.TTEarlySlide_C": [
+  "TT"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/TTGrips.TTGrips_C": [
+  "TT"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/TTLateSlide.TTLateSlide_C": [
+  "TT"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/TTMagazine.TTMagazine_C": [
+  "TT"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/TulaAK74Magazine.TulaAK74Magazine_C": [
+  "AK-74",
+  "AKS-74",
+  "AKS-74N",
+  "RPK-74",
+  "RPKS-74"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/TulaPlumAK74Magazine.TulaPlumAK74Magazine_C": [
+  "AK-74",
+  "AKS-74",
+  "AKS-74N",
+  "RPK-74",
+  "RPKS-74"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/Type562Handguard.Type562Handguard_C": [
+  "Type-56-2"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/Type562PistolGrip.Type562PistolGrip_C": [
+  "Type-56-2"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/Type56Bayonet.Type56Bayonet_C": [
+  "Milled Type-56"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/Type69HeatShield.Type69HeatShield_C": [
+  "Type 69"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/VPO10110roundMagazine.VPO10110roundMagazine_C": [
+  "VPO-101M"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/VPO1015roundMagazine.VPO1015roundMagazine_C": [
+  "VPO-101M"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/VPO101DustCover.VPO101DustCover_C": [
+  "VPO-101M"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/VPO101Stock.VPO101Stock_C": [
+  "VPO-101M"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/VZ58Bayonet.VZ58Bayonet_C": [
+  "VZ-58"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/VZ58Bolt.VZ58Bolt_C": [
+  "VZ-58"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/VZ58DustCover.VZ58DustCover_C": [
+  "VZ-58"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/VZ58Handguard.VZ58Handguard_C": [
+  "VZ-58"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/VZ58Magazine.VZ58Magazine_C": [
+  "VZ-58"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/VZ58PistolGrip.VZ58PistolGrip_C": [
+  "VZ-58"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/VZ58Stock.VZ58Stock_C": [
+  "VZ-58"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/VZ58UpperHandguard.VZ58UpperHandguard_C": [
+  "VZ-58"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/Vcog.Vcog_C": [
+  "HK416"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/VladivostokPPD40Handguard.VladivostokPPD40Handguard_C": [
+  "Leningrad PPD40"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/WaffleAKMagazine.WaffleAKMagazine_C": [
+  "AKM",
+  "AKMS",
+  "RPK"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/WhiteSSh60Liner.WhiteSSh60Liner_C": [
+  "SSh-60"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/ZF39Scope.ZF39Scope_C": [
+  "Karabiner 98 kurz"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/ZF41Scope.ZF41Scope_C": [
+  "Karabiner 98 kurz"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/ZastavaAKMagazine.ZastavaAKMagazine_C": [
+  "M70AB2",
+  "M70B1",
+  "M92"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/ZastavaFoldingAKStock.ZastavaFoldingAKStock_C": [
+  "M70AB2",
+  "M92"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/ZastavaM70Handguard.ZastavaM70Handguard_C": [
+  "M70AB2",
+  "M70B1"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/ZastavaM70PistolGrip.ZastavaM70PistolGrip_C": [
+  "M70AB2",
+  "M70B1",
+  "M92"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/ZastavaM70Stock.ZastavaM70Stock_C": [
+  "M70B1"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/ZastavaM84Barrel.ZastavaM84Barrel_C": [
+  "Zastava M84"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/ZastavaM84Stock.ZastavaM84Stock_C": [
+  "Zastava M84"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/ZastavaM92Handguard.ZastavaM92Handguard_C": [
+  "M92"
+ ],
+ "BlueprintGeneratedClass /Game/Items/Parts/ZastavaM92PistolGrip.ZastavaM92PistolGrip_C": [
+  "M70AB2",
+  "M70B1",
+  "M92"
+ ],
+ "BlueprintGeneratedClass /Game/Items/UXO/105cm.105cm_C": [
+  "10.5cm Casing"
+ ],
+ "BlueprintGeneratedClass /Game/Items/UXO/105cmSKC32M.105cmSKC32M_C": [
+  "10.5cm Casing"
+ ],
+ "BlueprintGeneratedClass /Game/Items/UXO/105mm.105mm_C": [
+  "105mm Howitzer Casing"
+ ],
+ "BlueprintGeneratedClass /Game/Items/UXO/122mm.122mm_C": [
+  "122mm Casing"
+ ],
+ "BlueprintGeneratedClass /Game/Items/UXO/152mm.152mm_C": [
+  "152mm Casing"
+ ],
+ "BlueprintGeneratedClass /Game/Items/UXO/50x289RShell.50x289RShell_C": [
+  "50x289R Casing"
+ ],
+ "BlueprintGeneratedClass /Game/Items/UXO/50x420RShell.50x420RShell_C": [
+  "50x420R Casing"
+ ],
+ "BlueprintGeneratedClass /Game/Items/UXO/75mm.75mm_C": [
+  "French 75mm Casing"
+ ],
+ "BlueprintGeneratedClass /Game/Items/UXO/76mm.76mm_C": [
+  "Russian 76mm Casing"
+ ],
+ "BlueprintGeneratedClass /Game/Items/UXO/77mmBlueCross.77mmBlueCross_C": [
+  "German 77mm Casing"
+ ],
+ "BlueprintGeneratedClass /Game/Items/UXO/77mmShrapnel.77mmShrapnel_C": [
+  "German 77mm Casing"
+ ],
+ "BlueprintGeneratedClass /Game/Items/UXO/88mm.88mm_C": [
+  "German 88mm Casing"
+ ],
+ "BlueprintGeneratedClass /Game/Items/UXO/PG7RRocket.PG7RRocket_C": [
+  "RPG-7D",
+  "RPG-7V"
+ ],
+ "BlueprintGeneratedClass /Game/Items/UXO/PG7Rocket.PG7Rocket_C": [
+  "RPG-7D",
+  "RPG-7V",
+  "Type 69"
+ ],
+ "BlueprintGeneratedClass /Game/Items/UXO/PG7VLRocket.PG7VLRocket_C": [
+  "RPG-7D",
+  "RPG-7V",
+  "Type 69"
+ ],
+ "BlueprintGeneratedClass /Game/Items/UXO/PanzerfaustGrenade.PanzerfaustGrenade_C": [
+  "Panzerfaust 30"
+ ],
+ "BlueprintGeneratedClass /Game/Items/UXO/PanzerfaustKleinGrenade.PanzerfaustKleinGrenade_C": [
+  "Panzerfaust 30 Klein"
+ ],
+ "BlueprintGeneratedClass /Game/Items/UXO/TBG7Rocket.TBG7Rocket_C": [
+  "RPG-7D",
+  "RPG-7V"
+ ]
+}

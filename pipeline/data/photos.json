@@ -1,0 +1,451 @@
+[
+  {
+    "id": "F01",
+    "title": "BAR",
+    "names": [
+      "BAR"
+    ],
+    "refs": [
+      "EE-1071"
+    ],
+    "why": "Confirmar si el modelo visual representa un M1918A2 u otra configuración. Esto cambia su posición respecto a la fecha genérica de 1918.",
+    "views": "Vista lateral completa, más un acercamiento de culata, bípode y asa.",
+    "priority": 1,
+    "reviewed": false
+  },
+  {
+    "id": "F02",
+    "title": "Brown Bess",
+    "names": [
+      "Brown Bess"
+    ],
+    "refs": [
+      "EE-138"
+    ],
+    "why": "El juego no concreta si corresponde a un patrón Long Land, Short Land, India Pattern u otra representación.",
+    "views": "Arma entera de perfil; acercamiento de la llave y extremo del cañón.",
+    "priority": 1,
+    "reviewed": false
+  },
+  {
+    "id": "F03",
+    "title": "M1935 de la familia Mosin",
+    "names": [
+      "M1935"
+    ],
+    "refs": [
+      "EE-250"
+    ],
+    "why": "La carpeta y las piezas confirman la familia Mosin, pero la etiqueta M1935 no basta para atribuir país y modificación exactos.",
+    "views": "Perfil completo con las piezas que tenga, alza, receptor y detalles de la culata.",
+    "priority": 1,
+    "reviewed": false
+  },
+  {
+    "id": "F04",
+    "title": "Estonian M40",
+    "names": [
+      "Estonian M40"
+    ],
+    "refs": [
+      "EE-377"
+    ],
+    "why": "Precisar qué casco y acabado representa el nombre del juego; no asignar origen o fecha sólo por M40.",
+    "views": "Frente, lateral y parte trasera; interior si el juego permite verlo.",
+    "priority": 1,
+    "reviewed": false
+  },
+  {
+    "id": "F05",
+    "title": "Casco de fibra Erel",
+    "names": [
+      "Erel Vulkanfiber Helmet"
+    ],
+    "refs": [
+      "EE-1002"
+    ],
+    "why": "Afinar tipo de casco de fibra, emblema y uso representado.",
+    "views": "Vista frontal, perfil y detalle del emblema.",
+    "priority": 1,
+    "reviewed": false
+  },
+  {
+    "id": "F06",
+    "title": "Pickelhaube M1891",
+    "names": [
+      "M1891 Pickelhaube"
+    ],
+    "refs": [
+      "EE-1030"
+    ],
+    "why": "Revisado: Pickelhaube de apariencia prusiana con herrajes amarillos. La escarapela imperial tricolor permite situar la configuración visible en 1897 o después; M1891 se conserva como nombre del juego.",
+    "views": "Exterior, lateral e interior recibidos. No hacen falta más fotos para esta clasificación; no se atribuyen regimiento ni fecha de fabricación.",
+    "priority": 1,
+    "reviewed": true
+  },
+  {
+    "id": "F07",
+    "title": "SSh con denominaciones Obr.38",
+    "names": [
+      "SSh-36 Obr.38",
+      "SSh-39 Obr.38"
+    ],
+    "refs": [
+      "EE-647",
+      "EE-648",
+      "EE-664"
+    ],
+    "why": "El segundo nombre no demuestra una adopción histórica en 1938. Hay que comparar casco, remaches, estrella e interior.",
+    "views": "Una foto exterior de cada casco y, si es visible, el interior.",
+    "priority": 1,
+    "reviewed": false
+  },
+  {
+    "id": "F08",
+    "title": "Jezail",
+    "names": [
+      "Jezail"
+    ],
+    "refs": [
+      "EE-213"
+    ],
+    "why": "Precisar configuración y tradición regional representada. Una imagen puede afinar la descripción, pero no garantiza fechar un arma artesanal.",
+    "views": "Perfil completo y acercamiento de llave, culata y decoración.",
+    "priority": 1,
+    "reviewed": false
+  },
+  {
+    "id": "F09",
+    "title": "Variantes de casco M59",
+    "names": [
+      "JNA M59",
+      "Star M59",
+      "Serbian Army M59",
+      "Serbian Navy M59",
+      "Serbian Police M59"
+    ],
+    "refs": [
+      "EE-59",
+      "EE-68",
+      "EE-70",
+      "EE-71",
+      "EE-72"
+    ],
+    "why": "Distinguir los emblemas y acabados yugoslavos/serbios posteriores del origen del casco base.",
+    "views": "Una frontal de cada variante, con el emblema visible. Puedes ponerlas juntas y señalar el orden.",
+    "priority": 2,
+    "reviewed": false
+  },
+  {
+    "id": "F10",
+    "title": "TIG PSH-77 y visor",
+    "names": [
+      "Soviet TIG PSH-77"
+    ],
+    "refs": [
+      "EE-639",
+      "EE-640"
+    ],
+    "why": "Afinar representación del casco y distinguirla del visor Altyn que sabemos que lleva montado.",
+    "views": "Frente y lateral; una con visor levantado si puedes hacerlo en el juego.",
+    "priority": 2,
+    "reviewed": false
+  },
+  {
+    "id": "F11",
+    "title": "Máscara negra PMG-2 / GP-5M",
+    "names": [
+      "Black ShM-66MU PMG-2/GP-5M Mask"
+    ],
+    "refs": [
+      "EE-244"
+    ],
+    "why": "El nombre mezcla kit militar/civil y pieza facial. La forma ayuda a describir qué representa. El filtro EO-16 ya está identificado en el guardado.",
+    "views": "Frontal, lateral y detalle de la zona central de la cara.",
+    "priority": 2,
+    "reviewed": false
+  },
+  {
+    "id": "F12",
+    "title": "Sako Hunting Mosin y conversión Berdan",
+    "names": [
+      "Sako Hunting Mosin",
+      "Shotgun Conversion Berdan No.2"
+    ],
+    "refs": [
+      "EE-1",
+      "EE-1354",
+      "EE-173",
+      "EE-174",
+      "EE-175"
+    ],
+    "why": "Afinar la transformación civil y su configuración, sin fecharla automáticamente como el fusil militar original.",
+    "views": "Perfil completo de cada una y detalles del receptor y culata.",
+    "priority": 2,
+    "reviewed": false
+  },
+  {
+    "id": "F13",
+    "title": "Frolovka",
+    "names": [
+      "Frolovka"
+    ],
+    "refs": [
+      "EE-669",
+      "EE-670",
+      "EE-671",
+      "EE-674",
+      "EE-675",
+      "EE-676",
+      "EE-1267"
+    ],
+    "why": "Describir la conversión concreta en vez de dar un único año a todas las Frolovka.",
+    "views": "Perfil, receptor y boca/longitud del cañón en la vista completa.",
+    "priority": 2,
+    "reviewed": false
+  },
+  {
+    "id": "F14",
+    "title": "M82A1M",
+    "names": [
+      "M82A1M"
+    ],
+    "refs": [
+      "AF-3"
+    ],
+    "why": "Comprobar la representación visual de la variante A1M cuando esté montada; el cuerpo incompleto puede no mostrar los rasgos necesarios.",
+    "views": "Vista completa si ya lo completas; por ahora basta una del receptor. No generes piezas sólo para la foto.",
+    "priority": 2,
+    "reviewed": false
+  },
+  {
+    "id": "F15",
+    "title": "Munición con nombres ambiguos",
+    "names": [
+      "MKIII Bomb",
+      "MK1 Grenade",
+      "M43 Grenade"
+    ],
+    "refs": [
+      "EE-24",
+      "EE-29",
+      "EE-406",
+      "EE-407",
+      "EE-408",
+      "FR-1"
+    ],
+    "why": "Aquí la forma puede cambiar la atribución de modelo o país. Son las primeras municiones que conviene ver.",
+    "views": "Una vista completa de cada objeto del juego, con punta, espoleta y base visibles en las capturas.",
+    "priority": 2,
+    "reviewed": false
+  },
+  {
+    "id": "F16",
+    "title": "Morteros grandes y genéricos",
+    "names": [
+      "5cm Mortar Shell",
+      "8cm Mortar Shell",
+      "10cm Mortar Shell",
+      "12cm Mortar Shell",
+      "82mm Mortar Shell"
+    ],
+    "refs": [
+      "EE-409",
+      "EE-410",
+      "EE-473",
+      "EE-474",
+      "EE-476",
+      "EE-477",
+      "EE-483",
+      "EE-501"
+    ],
+    "why": "No atribuir modelo y país únicamente por el calibre que muestra el juego.",
+    "views": "Un ejemplar de cada nombre, de perfil y con aletas y punta visibles. No hace falta fotografiar todos los duplicados.",
+    "priority": 2,
+    "reviewed": false
+  },
+  {
+    "id": "F17",
+    "title": "M56 de 81 mm · pendiente",
+    "names": [
+      "M56 81mm"
+    ],
+    "refs": [
+      "EE-48",
+      "EE-49"
+    ],
+    "why": "Confirmar la representación y variante. La fecha de un ejemplar no sale sólo de su designación. Ya revisado en esta tanda: M43 81mm, M49A2 60mm. Pendientes: M56 81mm.",
+    "views": "Foto completa de un ejemplar de cada tipo y detalle de las marcas, si existen en la textura.",
+    "priority": 2,
+    "reviewed": false
+  },
+  {
+    "id": "F18",
+    "title": "SD15 · modelo pendiente",
+    "names": [
+      "SD15 Bomb"
+    ],
+    "refs": [
+      "EE-20"
+    ],
+    "why": "La familia está indicada por el juego; la foto serviría para afinar variante y presentación, no para garantizar fabricación exacta. Ya revisado en esta tanda: SD70, 1kg German Satchel Charge. Pendientes: SD15 Bomb.",
+    "views": "Una imagen completa por nombre y cualquier inscripción visible.",
+    "priority": 3,
+    "reviewed": false
+  },
+  {
+    "id": "F19",
+    "title": "Vainas y cartuchos restantes",
+    "names": [
+      "10.5cm Casing",
+      "105mm Howitzer Casing",
+      "122mm Casing",
+      "152mm Casing",
+      "Russian 76mm Casing",
+      "50x289R Casing",
+      "50x420R Casing"
+    ],
+    "refs": [
+      "EE-42",
+      "EE-41",
+      "EE-40",
+      "EE-258",
+      "EE-260",
+      "EE-1368",
+      "EE-259",
+      "EE-1369",
+      "EE-324",
+      "EE-325",
+      "EE-347",
+      "EE-348",
+      "EE-401",
+      "EE-402",
+      "EE-405",
+      "EE-404",
+      "EE-403",
+      "EE-1295",
+      "EE-457",
+      "EE-458",
+      "EE-1381",
+      "EE-460",
+      "EE-459",
+      "EE-487",
+      "EE-488",
+      "EE-491",
+      "EE-490",
+      "EE-489",
+      "EE-492",
+      "EE-493",
+      "AF-60",
+      "AF-61",
+      "AF-62",
+      "FR-2",
+      "FR-3",
+      "FR-4",
+      "FR-25",
+      "FR-26",
+      "FR-27"
+    ],
+    "why": "Precisar forma y, si existen, marcajes. Sin marcas legibles algunas seguirán sin año exacto; los duplicados pueden compartir modelo y diferir en fecha. Ya revisado en esta tanda: German 77mm Casing, German 88mm Casing, French 75mm Casing. Pendientes: 10.5cm Casing, 105mm Howitzer Casing, 122mm Casing, 152mm Casing, Russian 76mm Casing, 50x289R Casing, 50x420R Casing.",
+    "views": "Para empezar, una lateral de cada nombre. Después, sólo las bases que tengan marcas legibles en la textura.",
+    "priority": 3,
+    "reviewed": false
+  },
+  {
+    "id": "F20",
+    "title": "Otros cartuchos de cañón",
+    "names": [
+      "14.5x114mm API",
+      "20x99mmR ShVAK Cartridge"
+    ],
+    "refs": [
+      "EE-315",
+      "EE-317",
+      "EE-316",
+      "EE-323"
+    ],
+    "why": "El calibre/sistema ya figura en el guardado. La duda es el proyectil y acabado concretos, y si la textura aporta marcajes. Ya revisado en esta tanda: 30mm MK108, 37x149mmR French Cartridge, 37x94mmR French Cartridge, 25x194mmR French Hotchkiss Cartridge. Pendientes: 14.5x114mm API, 20x99mmR ShVAK Cartridge.",
+    "views": "Vista completa y detalle de la punta y de cualquier inscripción visible.",
+    "priority": 3,
+    "reviewed": false
+  },
+  {
+    "id": "F21",
+    "title": "Señales y cajas de munición",
+    "names": [
+      "ROP-30",
+      "ROP-40",
+      "MG-42 Ammo Can Gray",
+      "MG-42 Ammo Can Green",
+      "MG-42 Ammo Can Medical",
+      "DShK Ammo Box"
+    ],
+    "refs": [
+      "EE-556",
+      "EE-557",
+      "EE-634",
+      "EE-637",
+      "EE-472",
+      "EE-475",
+      "EE-485"
+    ],
+    "why": "Afinar el modelo de envase/equipo y comprobar si la apariencia aporta una época más precisa.",
+    "views": "Frente y lateral del envase; en las cajas, cierres y cualquier texto visible.",
+    "priority": 3,
+    "reviewed": false
+  },
+  {
+    "id": "F22",
+    "title": "Bayonetas genéricas y de variante",
+    "names": [
+      "Ersatz bayonet",
+      "Kar98K Dress bayonet",
+      "S98/05 bayonet",
+      "Blokadnik Bayonet"
+    ],
+    "refs": [
+      "EE-897",
+      "EE-898",
+      "EE-901",
+      "EE-932"
+    ],
+    "why": "Afinar el patrón de hoja, empuñadura y fijación de los nombres más amplios.",
+    "views": "Una de perfil completo por tipo y detalle de empuñadura/guarda. No hace falta repetir ejemplares iguales.",
+    "priority": 2,
+    "reviewed": false
+  },
+  {
+    "id": "F23",
+    "title": "Gorras y accesorios de campaña",
+    "names": [
+      "Obr.88 Khaki Cap",
+      "Soviet Esmarch",
+      "4-cell AK74 Magazine Pouch"
+    ],
+    "refs": [
+      "EE-495",
+      "EE-540",
+      "EE-589"
+    ],
+    "why": "Revisar variante, acabado e insignias. El año del patrón no fecha automáticamente tu objeto del juego.",
+    "views": "Una vista completa de cada uno; detalles de emblemas o marcas si se ven.",
+    "priority": 3,
+    "reviewed": false
+  },
+  {
+    "id": "F24",
+    "title": "Objetos regionales decorativos",
+    "names": [
+      "Persian Hookah",
+      "Ottoman Hookah"
+    ],
+    "refs": [
+      "AF-50",
+      "AF-51"
+    ],
+    "why": "Describir forma y decoración sin convertir la etiqueta comercial del juego en una atribución o fecha demostrada.",
+    "views": "Una vista completa y detalle de decoración y base.",
+    "priority": 3,
+    "reviewed": false
+  }
+]

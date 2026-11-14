@@ -1,0 +1,6 @@
+.work/
+.tools/
+.claude/
+__pycache__/
+*.pyc
+*.tmp
