@@ -11003,5 +11003,78 @@
     "slot": "None",
     "is_part": false,
     "name": "Shovel"
+  },
+  "538": {
+    "path": "BlueprintGeneratedClass /Game/Items/Parts/M1DScope.M1DScope_C",
+    "natural": {},
+    "id": 538,
+    "slot": "Scope",
+    "types": [
+      "0",
+      "2",
+      "4",
+      "9"
+    ],
+    "is_part": true,
+    "name": "M1D Scope"
+  },
+  "19": {
+    "path": "BlueprintGeneratedClass /Game/Items/UXO/M24.M24_C",
+    "natural": {},
+    "id": 19,
+    "slot": "None",
+    "types": [
+      "0",
+      "4",
+      "6"
+    ],
+    "is_part": false,
+    "name": "M24 Grenade"
+  },
+  "1056": {
+    "path": "BlueprintGeneratedClass /Game/Items/Crates/SmallDisplayCase.SmallDisplayCase_C",
+    "natural": {},
+    "id": 1056,
+    "slot": "None",
+    "types": [
+      "0"
+    ],
+    "is_part": false,
+    "name": "Display Case"
+  },
+  "363": {
+    "path": "BlueprintGeneratedClass /Game/Items/Junk/Lock.Lock_C",
+    "natural": {},
+    "id": 363,
+    "slot": "None",
+    "types": [
+      "0"
+    ],
+    "is_part": false,
+    "name": "Padlock"
+  },
+  "353": {
+    "path": "BlueprintGeneratedClass /Game/Items/Junk/TinCanOpenedDeformed.TinCanOpenedDeformed_C",
+    "natural": {},
+    "id": 353,
+    "slot": "None",
+    "types": [
+      "0"
+    ],
+    "is_part": false,
+    "name": "Tin Can"
+  },
+  "1154": {
+    "path": "BlueprintGeneratedClass /Game/Items/Parts/ThompsonStock.ThompsonStock_C",
+    "natural": {},
+    "id": 1154,
+    "slot": "Stock",
+    "types": [
+      "0",
+      "2",
+      "4"
+    ],
+    "is_part": true,
+    "name": "Early Thompson Stock"
   }
 }

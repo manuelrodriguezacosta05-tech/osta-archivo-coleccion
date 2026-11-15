@@ -16724,6 +16724,513 @@
       "missing_native": {},
       "original_error": "nil",
       "IsOrginal": true
+    },
+    "79:194": {
+      "slots": [
+        {
+          "has_mesh": false,
+          "tags": [
+            "Part1",
+            "Part",
+            "Required"
+          ],
+          "name": "Magazine"
+        },
+        {
+          "has_mesh": true,
+          "tags": [
+            "Part2",
+            "Part",
+            "Required"
+          ],
+          "name": "Grips"
+        },
+        {
+          "has_mesh": false,
+          "tags": [
+            "Part3",
+            "Part",
+            "Required"
+          ],
+          "name": "Slide"
+        }
+      ],
+      "key": "79:194",
+      "original_error": "nil",
+      "rejected": {},
+      "complete": false,
+      "attached": [
+        "BlueprintGeneratedClass /Game/Items/Parts/PPGrips.PPGrips_C"
+      ],
+      "IsOrginal": true,
+      "missing_native": {},
+      "original_check": true
+    },
+    "1059:564,567": {
+      "slots": [
+        {
+          "has_mesh": false,
+          "tags": [
+            "Part1",
+            "Part",
+            "Required"
+          ],
+          "name": "Magazine"
+        },
+        {
+          "has_mesh": true,
+          "tags": [
+            "Part2",
+            "Part",
+            "Required"
+          ],
+          "name": "Stock"
+        },
+        {
+          "has_mesh": true,
+          "tags": [
+            "Part3",
+            "Part",
+            "Required"
+          ],
+          "name": "Bolt"
+        },
+        {
+          "has_mesh": false,
+          "tags": [
+            "Bayonet",
+            "Part"
+          ],
+          "name": "Bayonet"
+        }
+      ],
+      "key": "1059:564,567",
+      "original_error": "nil",
+      "rejected": {},
+      "complete": false,
+      "attached": [
+        "BlueprintGeneratedClass /Game/Items/Parts/Gewehr98Stock.Gewehr98Stock_C",
+        "BlueprintGeneratedClass /Game/Items/Parts/Gewehr98Bolt.Gewehr98Bolt_C"
+      ],
+      "IsOrginal": true,
+      "missing_native": {},
+      "original_check": true
+    },
+    "93:235,236,305": {
+      "slots": [
+        {
+          "has_mesh": false,
+          "tags": [
+            "Barrel",
+            "Part",
+            "Required"
+          ],
+          "name": "Barrel"
+        },
+        {
+          "has_mesh": true,
+          "tags": [
+            "Handle",
+            "Part",
+            "Required"
+          ],
+          "name": "Handle"
+        },
+        {
+          "has_mesh": true,
+          "tags": [
+            "Stock",
+            "Part",
+            "Required"
+          ],
+          "name": "Stock"
+        },
+        {
+          "has_mesh": false,
+          "tags": [
+            "Grip",
+            "Part",
+            "Required"
+          ],
+          "name": "Grip"
+        },
+        {
+          "has_mesh": true,
+          "tags": [
+            "Bipod",
+            "Part",
+            "Required"
+          ],
+          "name": "Bipod"
+        }
+      ],
+      "key": "93:235,236,305",
+      "original_error": "nil",
+      "rejected": {},
+      "complete": false,
+      "attached": [
+        "BlueprintGeneratedClass /Game/Items/Parts/BakeliteMG42Stock.BakeliteMG42Stock_C",
+        "BlueprintGeneratedClass /Game/Items/Parts/MG42Bipod.MG42Bipod_C",
+        "BlueprintGeneratedClass /Game/Items/Parts/MG42ChargingHandle.MG42ChargingHandle_C"
+      ],
+      "IsOrginal": true,
+      "missing_native": {},
+      "original_check": true
+    },
+    "67:153,156": {
+      "slots": [
+        {
+          "has_mesh": false,
+          "tags": [
+            "Part1",
+            "Part",
+            "Required"
+          ],
+          "name": "Magazine"
+        },
+        {
+          "has_mesh": true,
+          "tags": [
+            "Part2",
+            "Part",
+            "Required"
+          ],
+          "name": "StockFront"
+        },
+        {
+          "has_mesh": true,
+          "tags": [
+            "Part3",
+            "Part",
+            "Required"
+          ],
+          "name": "Bolt"
+        },
+        {
+          "has_mesh": false,
+          "tags": [
+            "Part4",
+            "Part",
+            "Required"
+          ],
+          "name": "Stock"
+        },
+        {
+          "has_mesh": false,
+          "tags": [
+            "Bayonet",
+            "Part"
+          ],
+          "name": "Bayonet"
+        }
+      ],
+      "key": "67:153,156",
+      "original_error": "nil",
+      "rejected": {},
+      "complete": false,
+      "attached": [
+        "BlueprintGeneratedClass /Game/Items/Parts/SMLEStockFront.SMLEStockFront_C",
+        "BlueprintGeneratedClass /Game/Items/Parts/SMLEBolt.SMLEBolt_C"
+      ],
+      "IsOrginal": true,
+      "missing_native": {},
+      "original_check": true
+    },
+    "102:262": {
+      "slots": [
+        {
+          "has_mesh": false,
+          "tags": [
+            "Part1",
+            "Part",
+            "Required"
+          ],
+          "name": "Magazine"
+        },
+        {
+          "has_mesh": true,
+          "tags": [
+            "Part2",
+            "Part",
+            "Required"
+          ],
+          "name": "Stock"
+        },
+        {
+          "has_mesh": false,
+          "tags": [
+            "Part3",
+            "Part",
+            "Required"
+          ],
+          "name": "Bolt"
+        },
+        {
+          "has_mesh": false,
+          "tags": [
+            "RearScope",
+            "Part"
+          ],
+          "name": "RearScope"
+        },
+        {
+          "has_mesh": false,
+          "tags": [
+            "FrontScope",
+            "Part"
+          ],
+          "name": "FrontScope"
+        },
+        {
+          "has_mesh": false,
+          "tags": [
+            "Bayonet",
+            "Part"
+          ],
+          "name": "Bayonet"
+        }
+      ],
+      "key": "102:262",
+      "original_error": "nil",
+      "rejected": {},
+      "complete": false,
+      "attached": [
+        "BlueprintGeneratedClass /Game/Items/Parts/Kar98KStock.Kar98KStock_C"
+      ],
+      "IsOrginal": true,
+      "missing_native": {},
+      "original_check": true
+    },
+    "1044:": {
+      "slots": [
+        {
+          "has_mesh": false,
+          "tags": [
+            "Magazine",
+            "Part",
+            "Required"
+          ],
+          "name": "Magazine"
+        },
+        {
+          "has_mesh": false,
+          "tags": [
+            "Stock",
+            "Part",
+            "Required"
+          ],
+          "name": "Stock"
+        }
+      ],
+      "key": "1044:",
+      "original_error": "nil",
+      "rejected": {},
+      "complete": false,
+      "attached": {},
+      "IsOrginal": true,
+      "missing_native": {},
+      "original_check": true
+    },
+    "546:548": {
+      "slots": [
+        {
+          "has_mesh": false,
+          "tags": [
+            "Magazine",
+            "Part",
+            "Required"
+          ],
+          "name": "Magazine"
+        },
+        {
+          "has_mesh": true,
+          "tags": [
+            "Carryhandle",
+            "Part",
+            "Required"
+          ],
+          "name": "Carryhandle"
+        },
+        {
+          "has_mesh": false,
+          "tags": [
+            "Stock",
+            "Part",
+            "Required"
+          ],
+          "name": "Stock"
+        },
+        {
+          "has_mesh": false,
+          "tags": [
+            "Bipod",
+            "Part",
+            "Required"
+          ],
+          "name": "Bipod"
+        }
+      ],
+      "key": "546:548",
+      "original_error": "nil",
+      "rejected": [
+        548
+      ],
+      "complete": false,
+      "attached": [
+        "BlueprintGeneratedClass /Game/Items/Parts/BARCarryhandle.BARCarryhandle_C"
+      ],
+      "IsOrginal": true,
+      "missing_native": {},
+      "original_check": true
+    },
+    "398:": {
+      "slots": [
+        {
+          "has_mesh": false,
+          "tags": [
+            "Part",
+            "Part1",
+            "Required"
+          ],
+          "name": "Liner"
+        }
+      ],
+      "key": "398:",
+      "original_error": "nil",
+      "rejected": {},
+      "complete": false,
+      "attached": {},
+      "IsOrginal": true,
+      "missing_native": {},
+      "original_check": true
+    },
+    "102:263,264,826": {
+      "slots": [
+        {
+          "has_mesh": true,
+          "tags": [
+            "Part1",
+            "Part",
+            "Required"
+          ],
+          "name": "Magazine"
+        },
+        {
+          "has_mesh": false,
+          "tags": [
+            "Part2",
+            "Part",
+            "Required"
+          ],
+          "name": "Stock"
+        },
+        {
+          "has_mesh": true,
+          "tags": [
+            "Part3",
+            "Part",
+            "Required"
+          ],
+          "name": "Bolt"
+        },
+        {
+          "has_mesh": false,
+          "tags": [
+            "RearScope",
+            "Part"
+          ],
+          "name": "RearScope"
+        },
+        {
+          "has_mesh": false,
+          "tags": [
+            "FrontScope",
+            "Part"
+          ],
+          "name": "FrontScope"
+        },
+        {
+          "has_mesh": true,
+          "tags": [
+            "Bayonet",
+            "Part"
+          ],
+          "name": "Bayonet"
+        }
+      ],
+      "key": "102:263,264,826",
+      "original_error": "nil",
+      "rejected": {},
+      "complete": false,
+      "attached": [
+        "BlueprintGeneratedClass /Game/Items/Parts/Kar98KBolt.Kar98KBolt_C",
+        "BlueprintGeneratedClass /Game/Items/Parts/Kar98KBayonet.Kar98KBayonet_C",
+        "BlueprintGeneratedClass /Game/Items/Parts/Kar98KMagazine.Kar98KMagazine_C"
+      ],
+      "IsOrginal": true,
+      "missing_native": {},
+      "original_check": true
+    },
+    "19:": {
+      "slots": {},
+      "key": "19:",
+      "original_error": "nil",
+      "rejected": {},
+      "complete": true,
+      "attached": {},
+      "IsOrginal": true,
+      "missing_native": {},
+      "original_check": true
+    },
+    "91:224,225": {
+      "slots": [
+        {
+          "has_mesh": true,
+          "tags": [
+            "Magazine",
+            "Part",
+            "Required"
+          ],
+          "name": "Magazine"
+        },
+        {
+          "has_mesh": false,
+          "tags": [
+            "Bolt",
+            "Part",
+            "Required"
+          ],
+          "name": "Bolt"
+        },
+        {
+          "has_mesh": true,
+          "tags": [
+            "Lower",
+            "Part",
+            "Required"
+          ],
+          "name": "Lower"
+        },
+        {
+          "has_mesh": false,
+          "tags": [
+            "Muzzle",
+            "Part"
+          ],
+          "name": "Muzzle"
+        }
+      ],
+      "key": "91:224,225",
+      "original_error": "nil",
+      "rejected": {},
+      "complete": false,
+      "attached": [
+        "BlueprintGeneratedClass /Game/Items/Parts/MP40Magazine.MP40Magazine_C",
+        "BlueprintGeneratedClass /Game/Items/Parts/MP40Lower.MP40Lower_C"
+      ],
+      "IsOrginal": true,
+      "missing_native": {},
+      "original_check": true
     }
   },
   "templates": {
@@ -17218,99 +17725,99 @@
     "67": {
       "slots": [
         {
-          "name": "Magazine",
+          "has_mesh": false,
           "tags": [
             "Part1",
             "Part",
             "Required"
           ],
-          "has_mesh": true
+          "name": "Magazine"
         },
         {
-          "name": "StockFront",
+          "has_mesh": true,
           "tags": [
             "Part2",
             "Part",
             "Required"
           ],
-          "has_mesh": false
+          "name": "StockFront"
         },
         {
-          "name": "Bolt",
+          "has_mesh": true,
           "tags": [
             "Part3",
             "Part",
             "Required"
           ],
-          "has_mesh": false
+          "name": "Bolt"
         },
         {
-          "name": "Stock",
+          "has_mesh": false,
           "tags": [
             "Part4",
             "Part",
             "Required"
           ],
-          "has_mesh": true
+          "name": "Stock"
         },
         {
-          "name": "Bayonet",
+          "has_mesh": false,
           "tags": [
             "Bayonet",
             "Part"
           ],
-          "has_mesh": false
+          "name": "Bayonet"
         }
       ],
       "path": "BlueprintGeneratedClass /Game/Items/Receivers/SMLE.SMLE_C",
       "natural": [
         {
           "slot": "Part3",
-          "name": "SMLE Bolt",
+          "weight": 1000,
           "path": "BlueprintGeneratedClass /Game/Items/Parts/SMLEBolt.SMLEBolt_C",
-          "weight": 1000
+          "name": "SMLE Bolt"
         },
         {
           "slot": "Part1",
-          "name": "SMLE Magazine",
+          "weight": 700,
           "path": "BlueprintGeneratedClass /Game/Items/Parts/SMLEMagazine.SMLEMagazine_C",
-          "weight": 700
+          "name": "SMLE Magazine"
         },
         {
           "slot": "Part4",
-          "name": "SMLE Stock",
+          "weight": 200,
           "path": "BlueprintGeneratedClass /Game/Items/Parts/SMLEStock.SMLEStock_C",
-          "weight": 200
+          "name": "SMLE Stock"
         },
         {
           "slot": "Part2",
-          "name": "SMLE Stock Front Assembly",
+          "weight": 200,
           "path": "BlueprintGeneratedClass /Game/Items/Parts/SMLEStockFront.SMLEStockFront_C",
-          "weight": 200
+          "name": "SMLE Stock Front Assembly"
         },
         {
           "slot": "Bayonet",
-          "name": "P1903 SMLE Bayonet",
+          "weight": 10,
           "path": "BlueprintGeneratedClass /Game/Items/Parts/P1903SMLEBayonet.P1903SMLEBayonet_C",
-          "weight": 10
+          "name": "P1903 SMLE Bayonet"
         },
         {
           "slot": "Bayonet",
-          "name": "P1907 Hooked SMLE Bayonet",
+          "weight": 5,
           "path": "BlueprintGeneratedClass /Game/Items/Parts/P1907HookedSMLEBayonet.P1907HookedSMLEBayonet_C",
-          "weight": 5
+          "name": "P1907 Hooked SMLE Bayonet"
         },
         {
           "slot": "Bayonet",
-          "name": "P1907 MkII SMLE Bayonet",
+          "weight": 1,
           "path": "BlueprintGeneratedClass /Game/Items/Parts/P1907Mk2SMLEBayonet.P1907Mk2SMLEBayonet_C",
-          "weight": 1
+          "name": "P1907 MkII SMLE Bayonet"
         },
         {
           "slot": "Bayonet",
-          "name": "M1907 SMLE Bayonet",
+          "weight": 30,
           "path": "BlueprintGeneratedClass /Game/Items/Parts/P1907SMLEBayonet.P1907SMLEBayonet_C",
-          "weight": 30
+          "name": "M1907 SMLE Bayonet"
         }
       ]
     },
@@ -18326,52 +18833,52 @@
     "79": {
       "slots": [
         {
-          "has_mesh": true,
-          "name": "Magazine",
+          "has_mesh": false,
           "tags": [
             "Part1",
             "Part",
             "Required"
-          ]
+          ],
+          "name": "Magazine"
         },
         {
           "has_mesh": true,
-          "name": "Grips",
           "tags": [
             "Part2",
             "Part",
             "Required"
-          ]
+          ],
+          "name": "Grips"
         },
         {
-          "has_mesh": true,
-          "name": "Slide",
+          "has_mesh": false,
           "tags": [
             "Part3",
             "Part",
             "Required"
-          ]
+          ],
+          "name": "Slide"
         }
       ],
       "path": "BlueprintGeneratedClass /Game/Items/Receivers/PP.PP_C",
       "natural": [
         {
           "slot": "Part2",
-          "name": "PP grips",
+          "weight": 600,
           "path": "BlueprintGeneratedClass /Game/Items/Parts/PPGrips.PPGrips_C",
-          "weight": 600
+          "name": "PP grips"
         },
         {
           "slot": "Part1",
-          "name": "PP Magazine",
+          "weight": 800,
           "path": "BlueprintGeneratedClass /Game/Items/Parts/PPMagazine.PPMagazine_C",
-          "weight": 800
+          "name": "PP Magazine"
         },
         {
           "slot": "Part3",
-          "name": "PP slide",
+          "weight": 1000,
           "path": "BlueprintGeneratedClass /Game/Items/Parts/PPSlide.PPSlide_C",
-          "weight": 1000
+          "name": "PP slide"
         }
       ]
     },
@@ -18659,100 +19166,100 @@
       ]
     },
     "1059": {
-      "natural": [
-        {
-          "weight": 1000,
-          "name": "Gewehr 98 Magazine",
-          "slot": "Part1",
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/Gewehr98Magazine.Gewehr98Magazine_C"
-        },
-        {
-          "weight": 700,
-          "name": "Gewehr 98 Bolt",
-          "slot": "Part3",
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/Gewehr98Bolt.Gewehr98Bolt_C"
-        },
-        {
-          "weight": 500,
-          "name": "Gewehr 98 Stock",
-          "slot": "Part2",
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/Gewehr98Stock.Gewehr98Stock_C"
-        },
-        {
-          "weight": 0,
-          "name": "Karabiner 98 Magazine",
-          "slot": "Part1",
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/Kar98KMagazine.Kar98KMagazine_C"
-        },
-        {
-          "weight": 2,
-          "name": "G98 bayonet",
-          "slot": "Bayonet",
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/G98Bayonet.G98Bayonet_C"
-        },
-        {
-          "weight": 5,
-          "name": "S98 bayonet",
-          "slot": "Bayonet",
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/S98Bayonet.S98Bayonet_C"
-        },
-        {
-          "weight": 1,
-          "name": "S98 Dress Bayonet",
-          "slot": "Bayonet",
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/S98DressBayonet.S98DressBayonet_C"
-        },
-        {
-          "weight": 10,
-          "name": "S98/05 bayonet",
-          "slot": "Bayonet",
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/S9805Bayonet.S9805Bayonet_C"
-        },
-        {
-          "weight": 7,
-          "name": "Ersatz bayonet",
-          "slot": "Bayonet",
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/ErsatzBayonet.ErsatzBayonet_C"
-        }
-      ],
       "slots": [
         {
-          "name": "Magazine",
+          "has_mesh": false,
           "tags": [
             "Part1",
             "Part",
             "Required"
           ],
-          "has_mesh": true
+          "name": "Magazine"
         },
         {
-          "name": "Stock",
+          "has_mesh": true,
           "tags": [
             "Part2",
             "Part",
             "Required"
           ],
-          "has_mesh": true
+          "name": "Stock"
         },
         {
-          "name": "Bolt",
+          "has_mesh": true,
           "tags": [
             "Part3",
             "Part",
             "Required"
           ],
-          "has_mesh": false
+          "name": "Bolt"
         },
         {
-          "name": "Bayonet",
+          "has_mesh": false,
           "tags": [
             "Bayonet",
             "Part"
           ],
-          "has_mesh": false
+          "name": "Bayonet"
         }
       ],
-      "path": "BlueprintGeneratedClass /Game/Items/Receivers/Gewehr98.Gewehr98_C"
+      "path": "BlueprintGeneratedClass /Game/Items/Receivers/Gewehr98.Gewehr98_C",
+      "natural": [
+        {
+          "slot": "Part1",
+          "weight": 1000,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/Gewehr98Magazine.Gewehr98Magazine_C",
+          "name": "Gewehr 98 Magazine"
+        },
+        {
+          "slot": "Part3",
+          "weight": 700,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/Gewehr98Bolt.Gewehr98Bolt_C",
+          "name": "Gewehr 98 Bolt"
+        },
+        {
+          "slot": "Part2",
+          "weight": 500,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/Gewehr98Stock.Gewehr98Stock_C",
+          "name": "Gewehr 98 Stock"
+        },
+        {
+          "slot": "Part1",
+          "weight": 0,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/Kar98KMagazine.Kar98KMagazine_C",
+          "name": "Karabiner 98 Magazine"
+        },
+        {
+          "slot": "Bayonet",
+          "weight": 2,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/G98Bayonet.G98Bayonet_C",
+          "name": "G98 bayonet"
+        },
+        {
+          "slot": "Bayonet",
+          "weight": 5,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/S98Bayonet.S98Bayonet_C",
+          "name": "S98 bayonet"
+        },
+        {
+          "slot": "Bayonet",
+          "weight": 1,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/S98DressBayonet.S98DressBayonet_C",
+          "name": "S98 Dress Bayonet"
+        },
+        {
+          "slot": "Bayonet",
+          "weight": 10,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/S9805Bayonet.S9805Bayonet_C",
+          "name": "S98/05 bayonet"
+        },
+        {
+          "slot": "Bayonet",
+          "weight": 7,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/ErsatzBayonet.ErsatzBayonet_C",
+          "name": "Ersatz bayonet"
+        }
+      ]
     },
     "399": {
       "slots": [
@@ -19536,67 +20043,67 @@
     "546": {
       "slots": [
         {
-          "has_mesh": true,
-          "name": "Magazine",
+          "has_mesh": false,
           "tags": [
             "Magazine",
             "Part",
             "Required"
-          ]
+          ],
+          "name": "Magazine"
         },
         {
           "has_mesh": true,
-          "name": "Carryhandle",
           "tags": [
             "Carryhandle",
             "Part",
             "Required"
-          ]
+          ],
+          "name": "Carryhandle"
         },
         {
-          "has_mesh": true,
-          "name": "Stock",
+          "has_mesh": false,
           "tags": [
             "Stock",
             "Part",
             "Required"
-          ]
+          ],
+          "name": "Stock"
         },
         {
-          "has_mesh": true,
-          "name": "Bipod",
+          "has_mesh": false,
           "tags": [
             "Bipod",
             "Part",
             "Required"
-          ]
+          ],
+          "name": "Bipod"
         }
       ],
       "path": "BlueprintGeneratedClass /Game/Items/Receivers/BAR.BAR_C",
       "natural": [
         {
           "slot": "Carryhandle",
-          "name": "BAR Carryhandle",
+          "weight": 100,
           "path": "BlueprintGeneratedClass /Game/Items/Parts/BARCarryhandle.BARCarryhandle_C",
-          "weight": 100
+          "name": "BAR Carryhandle"
         },
         {
           "slot": "Bipod",
-          "name": "BAR Bipod",
+          "weight": 100,
           "path": "BlueprintGeneratedClass /Game/Items/Parts/BARBipod.BARBipod_C",
-          "weight": 100
+          "name": "BAR Bipod"
         },
         {
           "slot": "Stock",
-          "name": "BAR Stock",
+          "weight": 200,
           "path": "BlueprintGeneratedClass /Game/Items/Parts/BARStock.BARStock_C",
-          "weight": 200
+          "name": "BAR Stock"
         },
         {
           "slot": "Magazine",
-          "name": "BAR Magazine",
+          "weight": 200,
           "path": "BlueprintGeneratedClass /Game/Items/Parts/BARMagazine.BARMagazine_C",
-          "weight": 200
+          "name": "BAR Magazine"
         }
       ]
     },
@@ -20162,90 +20669,90 @@
       ]
     },
     "93": {
-      "natural": [
-        {
-          "name": "MG42 Barrel",
-          "weight": 90,
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/MG42Barrel.MG42Barrel_C",
-          "slot": "Barrel"
-        },
-        {
-          "name": "MG42 Bipod",
-          "weight": 50,
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/MG42Bipod.MG42Bipod_C",
-          "slot": "Bipod"
-        },
-        {
-          "name": "MG42 Charging Handle",
-          "weight": 50,
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/MG42ChargingHandle.MG42ChargingHandle_C",
-          "slot": "Handle"
-        },
-        {
-          "name": "MG42 Pistol Grip",
-          "weight": 100,
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/MG42PistolGrip.MG42PistolGrip_C",
-          "slot": "Grip"
-        },
-        {
-          "name": "MG42 Wood Stock",
-          "weight": 30,
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/MG42Stock.MG42Stock_C",
-          "slot": "Stock"
-        },
-        {
-          "name": "MG42 Stock",
-          "weight": 10,
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/BakeliteMG42Stock.BakeliteMG42Stock_C",
-          "slot": "Stock"
-        }
-      ],
-      "path": "BlueprintGeneratedClass /Game/Items/Receivers/MG42.MG42_C",
       "slots": [
         {
-          "name": "Barrel",
           "has_mesh": false,
           "tags": [
             "Barrel",
             "Part",
             "Required"
-          ]
+          ],
+          "name": "Barrel"
         },
         {
-          "name": "Handle",
-          "has_mesh": false,
+          "has_mesh": true,
           "tags": [
             "Handle",
             "Part",
             "Required"
-          ]
+          ],
+          "name": "Handle"
         },
         {
-          "name": "Stock",
           "has_mesh": true,
           "tags": [
             "Stock",
             "Part",
             "Required"
-          ]
+          ],
+          "name": "Stock"
         },
         {
-          "name": "Grip",
           "has_mesh": false,
           "tags": [
             "Grip",
             "Part",
             "Required"
-          ]
+          ],
+          "name": "Grip"
         },
         {
-          "name": "Bipod",
-          "has_mesh": false,
+          "has_mesh": true,
           "tags": [
             "Bipod",
             "Part",
             "Required"
-          ]
+          ],
+          "name": "Bipod"
+        }
+      ],
+      "path": "BlueprintGeneratedClass /Game/Items/Receivers/MG42.MG42_C",
+      "natural": [
+        {
+          "slot": "Barrel",
+          "weight": 90,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/MG42Barrel.MG42Barrel_C",
+          "name": "MG42 Barrel"
+        },
+        {
+          "slot": "Bipod",
+          "weight": 50,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/MG42Bipod.MG42Bipod_C",
+          "name": "MG42 Bipod"
+        },
+        {
+          "slot": "Handle",
+          "weight": 50,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/MG42ChargingHandle.MG42ChargingHandle_C",
+          "name": "MG42 Charging Handle"
+        },
+        {
+          "slot": "Grip",
+          "weight": 100,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/MG42PistolGrip.MG42PistolGrip_C",
+          "name": "MG42 Pistol Grip"
+        },
+        {
+          "slot": "Stock",
+          "weight": 30,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/MG42Stock.MG42Stock_C",
+          "name": "MG42 Wood Stock"
+        },
+        {
+          "slot": "Stock",
+          "weight": 10,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/BakeliteMG42Stock.BakeliteMG42Stock_C",
+          "name": "MG42 Stock"
         }
       ]
     },
@@ -20257,22 +20764,22 @@
     "398": {
       "slots": [
         {
-          "has_mesh": true,
-          "name": "Liner",
+          "has_mesh": false,
           "tags": [
             "Part",
             "Part1",
             "Required"
-          ]
+          ],
+          "name": "Liner"
         }
       ],
       "path": "BlueprintGeneratedClass /Game/Items/Helmets/M42Polizei.M42Polizei_C",
       "natural": [
         {
           "slot": "Part1",
-          "name": "M35 Liner",
+          "weight": 0,
           "path": "BlueprintGeneratedClass /Game/Items/Parts/M35Liner.M35Liner_C",
-          "weight": 0
+          "name": "M35 Liner"
         }
       ]
     },
@@ -21178,114 +21685,114 @@
       ]
     },
     "102": {
-      "natural": [
-        {
-          "name": "Karabiner 98 Magazine",
-          "weight": 1000,
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/Kar98KMagazine.Kar98KMagazine_C",
-          "slot": "Part1"
-        },
-        {
-          "name": "Karabiner 98 Kurz Bolt",
-          "weight": 700,
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/Kar98KBolt.Kar98KBolt_C",
-          "slot": "Part3"
-        },
-        {
-          "name": "Karabiner 98 Kurz Stock",
-          "weight": 500,
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/Kar98KStock.Kar98KStock_C",
-          "slot": "Part2"
-        },
-        {
-          "name": "ZF39 Scope",
-          "weight": 1,
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/ZF39Scope.ZF39Scope_C",
-          "slot": "RearScope"
-        },
-        {
-          "name": "ZF41 Scope",
-          "weight": 5,
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/ZF41Scope.ZF41Scope_C",
-          "slot": "FrontScope"
-        },
-        {
-          "name": "Gewehr 98 Magazine",
-          "weight": 0,
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/Gewehr98Magazine.Gewehr98Magazine_C",
-          "slot": "Part1"
-        },
-        {
-          "name": "G98 bayonet",
-          "weight": 10,
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/G98Bayonet.G98Bayonet_C",
-          "slot": "Bayonet"
-        },
-        {
-          "name": "Kar98K bayonet",
-          "weight": 20,
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/Kar98KBayonet.Kar98KBayonet_C",
-          "slot": "Bayonet"
-        },
-        {
-          "name": "Kar98K Dress bayonet",
-          "weight": 0,
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/Kar98KParadeBayonet.Kar98KParadeBayonet_C",
-          "slot": "Bayonet"
-        }
-      ],
-      "path": "BlueprintGeneratedClass /Game/Items/Receivers/Kar98K.Kar98K_C",
       "slots": [
         {
-          "name": "Magazine",
-          "has_mesh": false,
+          "has_mesh": true,
           "tags": [
             "Part1",
             "Part",
             "Required"
-          ]
+          ],
+          "name": "Magazine"
         },
         {
-          "name": "Stock",
           "has_mesh": false,
           "tags": [
             "Part2",
             "Part",
             "Required"
-          ]
+          ],
+          "name": "Stock"
         },
         {
-          "name": "Bolt",
           "has_mesh": true,
           "tags": [
             "Part3",
             "Part",
             "Required"
-          ]
+          ],
+          "name": "Bolt"
         },
         {
-          "name": "RearScope",
           "has_mesh": false,
           "tags": [
             "RearScope",
             "Part"
-          ]
+          ],
+          "name": "RearScope"
         },
         {
-          "name": "FrontScope",
           "has_mesh": false,
           "tags": [
             "FrontScope",
             "Part"
-          ]
+          ],
+          "name": "FrontScope"
         },
         {
-          "name": "Bayonet",
           "has_mesh": true,
           "tags": [
             "Bayonet",
             "Part"
-          ]
+          ],
+          "name": "Bayonet"
+        }
+      ],
+      "path": "BlueprintGeneratedClass /Game/Items/Receivers/Kar98K.Kar98K_C",
+      "natural": [
+        {
+          "slot": "Part1",
+          "weight": 1000,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/Kar98KMagazine.Kar98KMagazine_C",
+          "name": "Karabiner 98 Magazine"
+        },
+        {
+          "slot": "Part3",
+          "weight": 700,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/Kar98KBolt.Kar98KBolt_C",
+          "name": "Karabiner 98 Kurz Bolt"
+        },
+        {
+          "slot": "Part2",
+          "weight": 500,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/Kar98KStock.Kar98KStock_C",
+          "name": "Karabiner 98 Kurz Stock"
+        },
+        {
+          "slot": "RearScope",
+          "weight": 1,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/ZF39Scope.ZF39Scope_C",
+          "name": "ZF39 Scope"
+        },
+        {
+          "slot": "FrontScope",
+          "weight": 5,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/ZF41Scope.ZF41Scope_C",
+          "name": "ZF41 Scope"
+        },
+        {
+          "slot": "Part1",
+          "weight": 0,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/Gewehr98Magazine.Gewehr98Magazine_C",
+          "name": "Gewehr 98 Magazine"
+        },
+        {
+          "slot": "Bayonet",
+          "weight": 10,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/G98Bayonet.G98Bayonet_C",
+          "name": "G98 bayonet"
+        },
+        {
+          "slot": "Bayonet",
+          "weight": 20,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/Kar98KBayonet.Kar98KBayonet_C",
+          "name": "Kar98K bayonet"
+        },
+        {
+          "slot": "Bayonet",
+          "weight": 0,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/Kar98KParadeBayonet.Kar98KParadeBayonet_C",
+          "name": "Kar98K Dress bayonet"
         }
       ]
     },
@@ -22512,37 +23019,37 @@
     "1044": {
       "slots": [
         {
-          "name": "Magazine",
-          "has_mesh": true,
+          "has_mesh": false,
           "tags": [
             "Magazine",
             "Part",
             "Required"
-          ]
+          ],
+          "name": "Magazine"
         },
         {
-          "name": "Stock",
-          "has_mesh": true,
+          "has_mesh": false,
           "tags": [
             "Stock",
             "Part",
             "Required"
-          ]
+          ],
+          "name": "Stock"
         }
       ],
       "path": "BlueprintGeneratedClass /Game/Items/Receivers/LanchesterMk1.LanchesterMk1_C",
       "natural": [
         {
-          "name": "Lanchester Mk.1 Magazine",
+          "slot": "Magazine",
           "weight": 500,
           "path": "BlueprintGeneratedClass /Game/Items/Parts/LanchesterMagazine.LanchesterMagazine_C",
-          "slot": "Magazine"
+          "name": "Lanchester Mk.1 Magazine"
         },
         {
-          "name": "Lanchester Mk.1 Stock",
+          "slot": "Stock",
           "weight": 500,
           "path": "BlueprintGeneratedClass /Game/Items/Parts/LanchesterStock.LanchesterStock_C",
-          "slot": "Stock"
+          "name": "Lanchester Mk.1 Stock"
         }
       ]
     },
@@ -23147,68 +23654,68 @@
       ]
     },
     "91": {
-      "natural": [
-        {
-          "name": "MP38 Bolt",
-          "weight": 1000,
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/MP38Bolt.MP38Bolt_C",
-          "slot": "Bolt"
-        },
-        {
-          "name": "MP40 Lower Receiver",
-          "weight": 800,
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/MP40Lower.MP40Lower_C",
-          "slot": "Lower"
-        },
-        {
-          "name": "MP40 Magazine",
-          "weight": 700,
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/MP40Magazine.MP40Magazine_C",
-          "slot": "Magazine"
-        },
-        {
-          "name": "MP40 Suppressor",
-          "weight": 1,
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/MP40Suppressor.MP40Suppressor_C",
-          "slot": "Muzzle"
-        }
-      ],
-      "path": "BlueprintGeneratedClass /Game/Items/Receivers/MP38.MP38_C",
       "slots": [
         {
-          "name": "Magazine",
           "has_mesh": true,
           "tags": [
             "Magazine",
             "Part",
             "Required"
-          ]
+          ],
+          "name": "Magazine"
         },
         {
-          "name": "Bolt",
           "has_mesh": false,
           "tags": [
             "Bolt",
             "Part",
             "Required"
-          ]
+          ],
+          "name": "Bolt"
         },
         {
-          "name": "Lower",
-          "has_mesh": false,
+          "has_mesh": true,
           "tags": [
             "Lower",
             "Part",
             "Required"
-          ]
+          ],
+          "name": "Lower"
         },
         {
-          "name": "Muzzle",
           "has_mesh": false,
           "tags": [
             "Muzzle",
             "Part"
-          ]
+          ],
+          "name": "Muzzle"
+        }
+      ],
+      "path": "BlueprintGeneratedClass /Game/Items/Receivers/MP38.MP38_C",
+      "natural": [
+        {
+          "slot": "Bolt",
+          "weight": 1000,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/MP38Bolt.MP38Bolt_C",
+          "name": "MP38 Bolt"
+        },
+        {
+          "slot": "Lower",
+          "weight": 800,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/MP40Lower.MP40Lower_C",
+          "name": "MP40 Lower Receiver"
+        },
+        {
+          "slot": "Magazine",
+          "weight": 700,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/MP40Magazine.MP40Magazine_C",
+          "name": "MP40 Magazine"
+        },
+        {
+          "slot": "Muzzle",
+          "weight": 1,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/MP40Suppressor.MP40Suppressor_C",
+          "name": "MP40 Suppressor"
         }
       ]
     },
@@ -26472,6 +26979,11 @@
         }
       ],
       "path": "BlueprintGeneratedClass /Game/Items/Helmets/M35SS.M35SS_C"
+    },
+    "19": {
+      "slots": {},
+      "path": "BlueprintGeneratedClass /Game/Items/UXO/M24.M24_C",
+      "natural": {}
     }
   }
 }
