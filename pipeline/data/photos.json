@@ -267,7 +267,8 @@
       "M56 81mm"
     ],
     "refs": [
-      "EE-48"
+      "EE-48",
+      "FR-72"
     ],
     "why": "Confirmar la representación y variante. La fecha de un ejemplar no sale sólo de su designación. Ya revisado en esta tanda: M43 81mm, M49A2 60mm. Pendientes: M56 81mm.",
     "views": "Foto completa de un ejemplar de cada tipo y detalle de las marcas, si existen en la textura.",
@@ -318,12 +319,14 @@
       "AF-60",
       "AF-61",
       "AF-62",
-      "FR-2",
       "FR-3",
+      "FR-2",
       "FR-4",
       "FR-25",
       "FR-26",
-      "FR-27"
+      "FR-27",
+      "FR-90",
+      "FR-92"
     ],
     "why": "Precisar forma y, si existen, marcajes. Sin marcas legibles algunas seguirán sin año exacto; los duplicados pueden compartir modelo y diferir en fecha. Ya revisado en esta tanda: German 77mm Casing, German 88mm Casing, French 75mm Casing. Pendientes: 10.5cm Casing, 105mm Howitzer Casing, 122mm Casing, 152mm Casing, Russian 76mm Casing, 50x289R Casing, 50x420R Casing.",
     "views": "Para empezar, una lateral de cada nombre. Después, sólo las bases que tengan marcas legibles en la textura.",
@@ -339,7 +342,8 @@
     ],
     "refs": [
       "EE-315",
-      "EE-323"
+      "EE-323",
+      "FR-88"
     ],
     "why": "El calibre/sistema ya figura en el guardado. La duda es el proyectil y acabado concretos, y si la textura aporta marcajes. Ya revisado en esta tanda: 30mm MK108, 37x149mmR French Cartridge, 37x94mmR French Cartridge, 25x194mmR French Hotchkiss Cartridge. Pendientes: 14.5x114mm API, 20x99mmR ShVAK Cartridge.",
     "views": "Vista completa y detalle de la punta y de cualquier inscripción visible.",
