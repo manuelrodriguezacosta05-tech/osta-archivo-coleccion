@@ -670,5 +670,31 @@
     ],
     "source_title": "Australian War Memorial · Model 1924 Stick Hand Grenade",
     "source_url": "https://www.awm.gov.au/collection/C302032"
+  },
+  "EE-1071": {
+    "identification": "Browning Automatic Rifle · configuración M1918A2 probable",
+    "family": "Estados Unidos · Browning Automatic Rifle (BAR)",
+    "piece_type": "Ametralladora / fusil automático",
+    "year": 1938,
+    "end": null,
+    "date": "ca. 1938 · patrón M1918A2 probable",
+    "precision": "Inferencia visual; no fecha de fabricación",
+    "date_basis": "1938 es la adopción del patrón M1918A2, no el año de fabricación del ejemplar",
+    "date_note": "La foto lateral muestra rasgos del M1918A2 y no del M1918 original: apoyo abatible en la cantonera, enganche bajo la culata, bípode plegado junto a la bocacha y asa de transporte, que sólo llevaban ejemplares tardíos. Se recoloca de 1918 a ca. 1938.",
+    "confirmed_details": "El guardado registra BAR Carryhandle, BAR Bipod, BAR Magazine y BAR Stock montados. La captura muestra el bípode adelantado junto a la bocacha y la cantonera con apoyo abatible.",
+    "uncertain_details": "Una sola vista lateral a contraluz: no se ven de cerca el asa ni el bípode. No se atribuye fabricante ni año del ejemplar.",
+    "historical_origin": "Estados Unidos · origen de diseño/familia; fabricación del ejemplar sin confirmar",
+    "historical_status": "Patrón M1918A2 probable por fotografía",
+    "national_family": "Estados Unidos",
+    "display_house": "Francia",
+    "section": "Aliados · Estados Unidos",
+    "classification_basis": "Piezas montadas en el guardado + fotografía lateral del usuario + National Army Museum (BAR M1918A2)",
+    "photo_review": "Fotografía lateral en la pared de Francia. Basta para situarlo como M1918A2; un acercamiento de asa y bípode lo confirmaría del todo.",
+    "photo_representative_ref": "EE-1071",
+    "photo_numbers": [
+      1
+    ],
+    "source_title": "National Army Museum · BAR M1918A2",
+    "source_url": "https://collection.nam.ac.uk/detail.php?acc=1996-08-239-1"
   }
 }

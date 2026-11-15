@@ -8,10 +8,10 @@
     "refs": [
       "EE-1071"
     ],
-    "why": "Confirmar si el modelo visual representa un M1918A2 u otra configuración. Esto cambia su posición respecto a la fecha genérica de 1918.",
-    "views": "Vista lateral completa, más un acercamiento de culata, bípode y asa.",
+    "why": "Revisado: rasgos de M1918A2 (apoyo abatible en la cantonera, bípode junto a la bocacha y asa de transporte). Recolocado de 1918 a ca. 1938.",
+    "views": "Vista lateral recibida. Opcional: acercamiento de asa y bípode para confirmarlo del todo.",
     "priority": 1,
-    "reviewed": false
+    "reviewed": true
   },
   {
     "id": "F02",
@@ -267,8 +267,7 @@
       "M56 81mm"
     ],
     "refs": [
-      "EE-48",
-      "FR-72"
+      "EE-48"
     ],
     "why": "Confirmar la representación y variante. La fecha de un ejemplar no sale sólo de su designación. Ya revisado en esta tanda: M43 81mm, M49A2 60mm. Pendientes: M56 81mm.",
     "views": "Foto completa de un ejemplar de cada tipo y detalle de las marcas, si existen en la textura.",
@@ -342,8 +341,7 @@
     ],
     "refs": [
       "EE-315",
-      "EE-323",
-      "FR-88"
+      "EE-323"
     ],
     "why": "El calibre/sistema ya figura en el guardado. La duda es el proyectil y acabado concretos, y si la textura aporta marcajes. Ya revisado en esta tanda: 30mm MK108, 37x149mmR French Cartridge, 37x94mmR French Cartridge, 25x194mmR French Hotchkiss Cartridge. Pendientes: 14.5x114mm API, 20x99mmR ShVAK Cartridge.",
     "views": "Vista completa y detalle de la punta y de cualquier inscripción visible.",
