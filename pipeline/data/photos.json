@@ -245,7 +245,6 @@
       "5cm Mortar Shell",
       "8cm Mortar Shell",
       "10cm Mortar Shell",
-      "12cm Mortar Shell",
       "82mm Mortar Shell"
     ],
     "refs": [
@@ -255,7 +254,7 @@
       "EE-483",
       "EE-501"
     ],
-    "why": "No atribuir modelo y país únicamente por el calibre que muestra el juego.",
+    "why": "No atribuir modelo y país únicamente por el calibre que muestra el juego. Ya revisado: 12cm Mortar Shell (familia soviética OF-843 probable).",
     "views": "Un ejemplar de cada nombre, de perfil y con aletas y punta visibles. No hace falta fotografiar todos los duplicados.",
     "priority": 2,
     "reviewed": false

@@ -34,7 +34,8 @@ const REVIEWED = [
   ['french-25x194r', '25×194R · Hotchkiss anticarro', 'Francia. Referencia 1934 del sistema anticarro; año del cartucho y fabricante sin confirmar.', 'EE-1080'],
   ['us-m49a2-60mm', 'M49A2 · mortero de 60 mm', 'Estados Unidos · Segunda Guerra Mundial. Documentado en octubre de 1944; adopción y fabricación del ejemplar sin confirmar.', 'EE-34'],
   ['us-m43-81mm', 'M43 · mortero de 81 mm', 'Estados Unidos · Segunda Guerra Mundial. Documentado en abril de 1943; subvariante exacta y fabricación sin confirmar.', 'EE-45'],
-  ['bar-m1918a2', 'BAR · M1918A2 probable', 'Estados Unidos. Apoyo abatible en la cantonera, bípode junto a la bocacha y asa: patrón de 1938, no el M1918 original.', 'EE-1071']];
+  ['bar-m1918a2', 'BAR · M1918A2 probable', 'Estados Unidos. Apoyo abatible en la cantonera, bípode junto a la bocacha y asa: patrón de 1938, no el M1918 original.', 'EE-1071'],
+  ['soviet-120mm', '120 mm · familia OF-843 probable', 'URSS · mortero 120-PM-38. Cuerpo en lágrima con ranuras y cola larga de aletas; variante y fabricación sin confirmar.', 'EE-483']];
 const REPO_URL = 'https://github.com/manuelrodriguezacosta05-tech/osta-archivo-coleccion';
 const PAGE_SIZE = 30;
 

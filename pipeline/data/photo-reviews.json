@@ -696,5 +696,42 @@
     ],
     "source_title": "National Army Museum · BAR M1918A2",
     "source_url": "https://collection.nam.ac.uk/detail.php?acc=1996-08-239-1"
+  },
+  "EE-483": {
+    "identification": "Granada de mortero de 120 mm de patrón soviético · familia OF-843 probable",
+    "family": "URSS · munición del mortero regimental de 120 mm (PM-38 / PM-43)",
+    "piece_type": "Granada de mortero",
+    "national_family": "Rusia / URSS",
+    "display_house": "Estonia",
+    "section": "URSS y Rusia",
+    "year": 1938,
+    "end": null,
+    "date": "1938 · familia del mortero 120-PM-38",
+    "precision": "Año de la familia del arma; no fecha de fabricación",
+    "date_basis": "1938 es la adopción del mortero 120-PM-38, no el año de la granada concreta",
+    "date_note": "Las fotos muestran cuerpo en lágrima, ranuras de centrado en la zona más ancha, tubo de cola largo con corona de aletas y espoleta de punta, en verde oliva: rasgos de la familia soviética OF-843. Alemania copió el mortero como 12 cm Gr.W. 42 y usó munición capturada, por eso el origen queda como probable.",
+    "confirmed_details": "El juego la llama 12cm Mortar Shell y la da por completa. La silueta (cuerpo ojival, ranuras, cola larga con muchas aletas) coincide con la granada soviética OF-843 del mortero de 120 mm.",
+    "uncertain_details": "No se ven marcajes. No se distingue entre OF-843, OF-843A u otras variantes, ni se descarta un ejemplar de uso alemán. Fabricante y año sin confirmar.",
+    "historical_origin": "URSS · origen de diseño/familia; fabricación del ejemplar sin confirmar",
+    "historical_status": "Familia soviética probable por fotografía",
+    "classification_basis": "Nombre del juego + dos fotografías del usuario + documentación de la munición OF-843",
+    "historical_sources": [
+      {
+        "title": "Bulletpicker · 120mm HE OF-843",
+        "url": "https://bulletpicker.com/projectile_-120mm-he_-of-843.html"
+      },
+      {
+        "title": "Wikipedia · 120-PM-38 (M1938 mortar)",
+        "url": "https://en.wikipedia.org/wiki/M1938_mortar"
+      }
+    ],
+    "source_title": "Bulletpicker · 120mm HE OF-843",
+    "source_url": "https://bulletpicker.com/projectile_-120mm-he_-of-843.html",
+    "photo_review": "Dos fotografías de perfil en la mesa (aletas y punta visibles). Bastan para la familia; el modelo exacto necesitaría marcajes que el juego no muestra.",
+    "photo_representative_ref": "EE-483",
+    "photo_numbers": [
+      1,
+      2
+    ]
   }
 }
