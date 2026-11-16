@@ -54,6 +54,7 @@ const slotName = s => SLOTS[s] || s;
 const doubts = () => (D.meta.doubts || []);
 const ICON = {arrow: '<svg class="i" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg>',
   down: '<svg class="i" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 4v12M6 11l6 6 6-6M5 20h14"/></svg>',
+  check: '<svg class="i" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg>',
   ext: '<svg class="i" viewBox="0 0 24 24" aria-hidden="true" style="width:14px;height:14px"><path d="M14 5h5v5M19 5l-8 8M18 14v5H5V6h5"/></svg>'};
 
 function toast(t) { const el = $('toast'); el.textContent = t; el.style.display = 'block'; clearTimeout(toast.t); toast.t = setTimeout(() => el.style.display = 'none', 4500); }
@@ -171,7 +172,8 @@ function renderList() {
     : view === 'collection' ? '<label class="check"><input id="exhibit" type="checkbox"' + (filters.exhibit ? ' checked' : '') + '> Sólo selección para exposición</label>' : '';
   $('main').innerHTML = heading(texts[0], texts[1], '<button class="btn" id="export">' + ICON.down + 'Exportar esta lista</button>') +
     (view === 'workshop' ? '<div class="chips"><button class="chip ' + (workshop === 'repair' ? 'active' : '') + '" data-workshop="repair">Irrecuperables / pendientes de reparar · ' + num(D.meta.repair_count) + '</button><button class="chip ' + (workshop === 'incomplete' ? 'active' : '') + '" data-workshop="incomplete">Incompletos · ' + num(D.meta.incomplete_count) + '</button></div><p class="note">Si está dañado e incompleto, aparece sólo en pendientes de reparar. La ficha conserva todos sus faltantes.</p>' : '') +
-    (isObjectives() ? '<div class="callout"><b>Objetivos de montaje.</b> Se comprueba cada opción dentro de un conjunto completo. Por defecto se muestran las piezas originales del juego; los montajes compatibles no originales se pueden incluir aparte.</div>' : '') +
+    (view === 'missing' ? '<div class="callout"><b>Una fila por modelo.</b> Cada pieza (cargador, culata, cerrojo…) muestra sus opciones: <span class="opt complete">' + ICON.check + 'ya la tienes montada</span> <span class="opt buildable">puedes montarla</span> <span class="opt missing">te falta</span>. Pulsa una opción para ver la ficha. Por defecto, sólo piezas originales del juego.</div>'
+      : isObjectives() ? '<div class="callout"><b>Objetivos de montaje.</b> Se comprueba cada opción dentro de un conjunto completo. Por defecto se muestran las piezas originales del juego; los montajes compatibles no originales se pueden incluir aparte.</div>' : '') +
     f + '<div class="filter-extras"><span id="result-count" aria-live="polite"></span><div>' + extras + '<button class="btn" id="reset-filters">Limpiar filtros</button></div></div>' +
     '<div class="table-wrap"><table><thead id="table-head"></thead><tbody id="table-body"></tbody></table></div>' +
     '<div class="pager"><span id="page-info"></span><div><button class="btn" id="prev">Anterior</button><button class="btn" id="next">Siguiente</button></div></div>' +
@@ -217,7 +219,35 @@ function healthMark(r) {
 }
 // País y sección dicen lo mismo («Rusia imperial» / «Rusia imperial», «Reino Unido / Commonwealth» / «Reino Unido y Commonwealth»).
 const sameAs = (nation, section) => { const a = N(nation).split('/')[0].trim(); return !a || N(section).startsWith(a); };
+// «Me falta» agrupa los objetivos por modelo: una fila por arma o casco, con sus ranuras y opciones.
+const modelKey = v => v.id.split('|')[0];
+const optionLabel = v => v.title.startsWith(v.name + ' · ') ? v.title.slice(v.name.length + 3) : v.axis === 'Montaje completo' ? 'El modelo completo' : v.title;
+const OPTION_TAG = {complete: '', buildable: 'blue', incomplete: 'amber', repair: 'red', missing: 'gray'};
+let allByModel = null;
+function drawGroups() {
+  if (!allByModel) { allByModel = new Map(); for (const v of D.variants) { const k = modelKey(v); if (!allByModel.has(k)) allByModel.set(k, []); allByModel.get(k).push(v); } }
+  const groups = new Map();
+  for (const r of rows) { const k = modelKey(r); if (!groups.has(k)) groups.set(k, new Set()); groups.get(k).add(r.id); }
+  const list = [...groups], pages = Math.max(1, Math.ceil(list.length / PAGE_SIZE)); page = Math.min(Math.max(page, 1), pages);
+  $('result-count').textContent = num(list.length) + ' modelos · ' + num(rows.length) + (filters.completed ? ' objetivos' : ' objetivos pendientes');
+  $('page-info').textContent = 'Página ' + page + ' de ' + pages + ' · ' + (list.length ? ((page - 1) * PAGE_SIZE + 1) + '–' + Math.min(page * PAGE_SIZE, list.length) : '0') + ' de ' + num(list.length) + ' modelos';
+  $('prev').disabled = page === 1; $('next').disabled = page === pages;
+  $('table-head').innerHTML = '<tr><th>MODELO</th><th>CASA Y SALA</th><th>OPCIONES POR PIEZA</th><th>ESTADO</th></tr>';
+  $('table-body').innerHTML = list.slice((page - 1) * PAGE_SIZE, page * PAGE_SIZE).map(([k, ids]) => {
+    // Las opciones ya completas se enseñan como contexto aunque el filtro las oculte; las del filtro mandan.
+    const all = allByModel.get(k).filter(v => ids.has(v.id) || (v.state === 'complete' && (!filters.original || v.original_option !== false)));
+    const r = all.find(v => ids.has(v.id)), slots = new Map();
+    for (const v of all) { const s = slotName(v.axis); if (!slots.has(s)) slots.set(s, []); slots.get(s).push(v); }
+    const done = all.filter(v => v.state === 'complete').length, best = ['buildable', 'incomplete', 'repair', 'missing'].find(s => all.some(v => ids.has(v.id) && v.state === s)) || 'complete';
+    const content = '<dl class="slots">' + [...slots].map(([s, vs]) => '<div><dt>' + E(s) + '</dt><dd>' + vs.map(v =>
+      '<button class="opt ' + v.state + '" data-detail="variant" data-key="' + E(v.id) + '" title="' + E(STATES[v.state] + (v.original_option === false ? ' · compatible, no original' : '')) + '">' +
+      (v.state === 'complete' ? ICON.check : '') + E(optionLabel(v)) + (v.original_option === false ? '<i>no orig.</i>' : '') + '</button>').join('') + '</dd></div>').join('') + '</dl>';
+    return '<tr class="model-row"><td><strong class="model-name">' + E(r.name) + '</strong><div class="ref">' + num(done) + ' de ' + num(all.length) + ' conseguidas</div></td>' +
+      '<td><div class="house-cell">' + house(r.display_house) + '<small>' + E(r.section) + '</small>' + (sameAs(r.nation, r.section) ? '' : '<small>' + E(r.nation) + '</small>') + '</div></td><td>' + content + '</td><td>' + badge(best) + '</td></tr>';
+  }).join('') || '<tr><td colspan="4" class="empty">No hay resultados con estos filtros. Prueba a limpiar la búsqueda.</td></tr>';
+}
 function drawRows() {
+  if (view === 'missing') return drawGroups();
   const pages = Math.max(1, Math.ceil(rows.length / PAGE_SIZE)); page = Math.min(Math.max(page, 1), pages);
   const kind = isObjectives() ? 'variant' : view === 'catalogue' ? 'catalogue' : 'inventory';
   $('result-count').textContent = num(rows.length) + (view === 'buildable' ? ' montajes disponibles' : isObjectives() ? (filters.completed ? ' objetivos de colección' : ' objetivos pendientes') : kind === 'catalogue' ? ' modelos del catálogo' : ' objetos');
@@ -348,7 +378,7 @@ async function loadData(manual = false) {
     if (!res.ok) throw Error(res.status);
     const next = await res.json();
     if (!Array.isArray(next.inventory) || !Array.isArray(next.variants)) throw Error('Formato inválido');
-    const old = D; D = next; byRef = new Map(D.inventory.map(r => [r.ref, r]));
+    const old = D; D = next; allByModel = null; byRef = new Map(D.inventory.map(r => [r.ref, r]));
     if (!old) { const v = location.hash.slice(1); view = VIEWS[v] ? v : 'overview'; render(); }
     else if (old.meta.revision !== D.meta.revision || old.meta.dataset_hash !== D.meta.dataset_hash) { render(); toast('Nueva revisión cargada: ' + D.meta.revision); }
     else if (manual) toast('Ya tienes la última revisión publicada');
