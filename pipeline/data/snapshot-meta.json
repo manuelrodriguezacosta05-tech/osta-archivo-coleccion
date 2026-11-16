@@ -1,5 +1,5 @@
 {
-  "revision": "2026-11-16 16:08 · al abrir el juego",
+  "revision": "2026-11-16 17:03 · al cerrar el juego",
   "build": "25932299",
   "snapshot_dates": {
     "Estonia": "2026-11-14",
@@ -10,6 +10,6 @@
   "update_method": "Se actualiza sola al abrir y al cerrar Osta en cualquiera de los dos ordenadores: lee las partidas guardadas y publica una revisión nueva si los datos cambian. No necesita ChatGPT ni Claude. Los cambios sin guardar todavía no aparecen.",
   "autosync": {
     "trigger": "Al abrir y al cerrar el juego",
-    "last_scan": "2026-11-16T16:08:49+01:00"
+    "last_scan": "2026-11-16T17:03:34+01:00"
   }
 }

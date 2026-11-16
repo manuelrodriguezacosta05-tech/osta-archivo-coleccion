@@ -17231,6 +17231,59 @@
       "IsOrginal": true,
       "missing_native": {},
       "original_check": true
+    },
+    "579:534,538": {
+      "key": "579:534,538",
+      "original_check": true,
+      "attached": [
+        "BlueprintGeneratedClass /Game/Items/Parts/M1DScope.M1DScope_C",
+        "BlueprintGeneratedClass /Game/Items/Parts/M1GarandBolt.M1GarandBolt_C"
+      ],
+      "missing_native": {},
+      "IsOrginal": true,
+      "rejected": [
+        538,
+        534
+      ],
+      "original_error": "nil",
+      "complete": false,
+      "slots": [
+        {
+          "name": "Scope",
+          "has_mesh": true,
+          "tags": [
+            "Scope",
+            "Part",
+            "Required"
+          ]
+        },
+        {
+          "name": "Bolt",
+          "has_mesh": true,
+          "tags": [
+            "Bolt",
+            "Part",
+            "Required"
+          ]
+        },
+        {
+          "name": "Stock",
+          "has_mesh": false,
+          "tags": [
+            "Stock",
+            "Part",
+            "Required"
+          ]
+        },
+        {
+          "name": "Bayonet",
+          "has_mesh": false,
+          "tags": [
+            "Bayonet",
+            "Part"
+          ]
+        }
+      ]
     }
   },
   "templates": {
@@ -21406,10 +21459,11 @@
       ]
     },
     "579": {
+      "path": "BlueprintGeneratedClass /Game/Items/Receivers/M1DGarand.M1DGarand_C",
       "slots": [
         {
-          "has_mesh": false,
           "name": "Scope",
+          "has_mesh": true,
           "tags": [
             "Scope",
             "Part",
@@ -21417,8 +21471,8 @@
           ]
         },
         {
-          "has_mesh": false,
           "name": "Bolt",
+          "has_mesh": true,
           "tags": [
             "Bolt",
             "Part",
@@ -21426,8 +21480,8 @@
           ]
         },
         {
-          "has_mesh": true,
           "name": "Stock",
+          "has_mesh": false,
           "tags": [
             "Stock",
             "Part",
@@ -21435,75 +21489,74 @@
           ]
         },
         {
-          "has_mesh": false,
           "name": "Bayonet",
+          "has_mesh": false,
           "tags": [
             "Bayonet",
             "Part"
           ]
         }
       ],
-      "path": "BlueprintGeneratedClass /Game/Items/Receivers/M1DGarand.M1DGarand_C",
       "natural": [
         {
-          "slot": "Bolt",
-          "name": "M1 Garand Bolt",
           "path": "BlueprintGeneratedClass /Game/Items/Parts/M1GarandBolt.M1GarandBolt_C",
-          "weight": 1000
+          "weight": 1000,
+          "slot": "Bolt",
+          "name": "M1 Garand Bolt"
         },
         {
-          "slot": "Stock",
-          "name": "M1 Garand Stock",
           "path": "BlueprintGeneratedClass /Game/Items/Parts/M1GarandStock.M1GarandStock_C",
-          "weight": 200
+          "weight": 200,
+          "slot": "Stock",
+          "name": "M1 Garand Stock"
         },
         {
-          "slot": "Bayonet",
-          "name": "M1D Garand Flashhider",
           "path": "BlueprintGeneratedClass /Game/Items/Parts/M1DFlashHider.M1DFlashHider_C",
-          "weight": 100
+          "weight": 100,
+          "slot": "Bayonet",
+          "name": "M1D Garand Flashhider"
         },
         {
-          "slot": "Scope",
-          "name": "M1D Scope",
           "path": "BlueprintGeneratedClass /Game/Items/Parts/M1DScope.M1DScope_C",
-          "weight": 200
+          "weight": 200,
+          "slot": "Scope",
+          "name": "M1D Scope"
         },
         {
-          "slot": "Bayonet",
-          "name": "M1905 Bayonet",
           "path": "BlueprintGeneratedClass /Game/Items/Parts/M1905Bayonet.M1905Bayonet_C",
-          "weight": 1
+          "weight": 1,
+          "slot": "Bayonet",
+          "name": "M1905 Bayonet"
         },
         {
-          "slot": "Bayonet",
-          "name": "M1905E1 Chisel Point Bayonet",
           "path": "BlueprintGeneratedClass /Game/Items/Parts/M1905E1ChiselPointBayonet.M1905E1ChiselPointBayonet_C",
-          "weight": 1
+          "weight": 1,
+          "slot": "Bayonet",
+          "name": "M1905E1 Chisel Point Bayonet"
         },
         {
-          "slot": "Bayonet",
-          "name": "M1905E1 Spear Point Bayonet",
           "path": "BlueprintGeneratedClass /Game/Items/Parts/M1905E1SpearPointBayonet.M1905E1SpearPointBayonet_C",
-          "weight": 1
+          "weight": 1,
+          "slot": "Bayonet",
+          "name": "M1905E1 Spear Point Bayonet"
         },
         {
-          "slot": "Bayonet",
-          "name": "M1 Plastic Grips Bayonet",
           "path": "BlueprintGeneratedClass /Game/Items/Parts/M1PlasticGripsBayonet.M1PlasticGripsBayonet_C",
-          "weight": 1
+          "weight": 1,
+          "slot": "Bayonet",
+          "name": "M1 Plastic Grips Bayonet"
         },
         {
-          "slot": "Bayonet",
-          "name": "M1 Wood Grips Bayonet",
           "path": "BlueprintGeneratedClass /Game/Items/Parts/M1WoodGripsBayonet.M1WoodGripsBayonet_C",
-          "weight": 1
+          "weight": 1,
+          "slot": "Bayonet",
+          "name": "M1 Wood Grips Bayonet"
         },
         {
-          "slot": "Bayonet",
-          "name": "M1905 Chromed Parade Bayonet",
           "path": "BlueprintGeneratedClass /Game/Items/Parts/M1905ParadeBayonet.M1905ParadeBayonet_C",
-          "weight": 0
+          "weight": 0,
+          "slot": "Bayonet",
+          "name": "M1905 Chromed Parade Bayonet"
         }
       ]
     },
