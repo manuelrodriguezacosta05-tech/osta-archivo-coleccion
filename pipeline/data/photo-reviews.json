@@ -733,5 +733,43 @@
       1,
       2
     ]
+  },
+  "EE-138": {
+    "identification": "Brown Bess · Land Pattern con baqueta de acero; Short Land probable",
+    "family": "Brown Bess · mosquete británico Land Pattern",
+    "piece_type": "Fusil / carabina",
+    "national_family": "Reino Unido / Commonwealth",
+    "display_house": "Francia",
+    "section": "Reino Unido y Commonwealth",
+    "year": 1768,
+    "end": null,
+    "date": "ca. 1768 · Short Land Pattern probable",
+    "precision": "Patrón probable por fotografía; no fecha de fabricación",
+    "date_basis": "1768 es la adopción general del Short Land Pattern, no el año del ejemplar",
+    "date_note": "Las fotos muestran baqueta de acero, guarniciones de latón y lo que parecen cuatro abrazaderas de baqueta, más contraplatina de latón recortada. El India Pattern (1797) llevaba tres abrazaderas y guarniciones más simples, así que se descarta con reservas. No se distingue con seguridad del Long Land tardío; antes figuraba como ca. 1720-1730.",
+    "confirmed_details": "Mosquete de chispa completo: llave de pedernal, guarniciones de latón (cantonera, guardamonte, contraplatina, abrazaderas y remate), baqueta de acero y anilla portafusil.",
+    "uncertain_details": "El modelado simplificado no permite medir el cañón (46, 42 o 39 pulgadas) ni ver marcajes de la llave. Long Land tardío y Short Land quedan abiertos.",
+    "historical_origin": "Reino Unido · origen de diseño/familia; fabricación del ejemplar sin confirmar",
+    "historical_status": "Familia Land Pattern por fotografía; variante probable",
+    "classification_basis": "Nombre del juego + tres fotografías del usuario + diferencias documentadas entre patrones",
+    "historical_sources": [
+      {
+        "title": "History of War · Brown Bess (Long Land, Short Land, India Pattern)",
+        "url": "https://www.historyofwar.org/articles/weapons_brown_bess.html"
+      },
+      {
+        "title": "The Field · diferencias entre Short Land e India Pattern",
+        "url": "https://www.thefield.co.uk/?p=28421"
+      }
+    ],
+    "source_title": "History of War · Brown Bess (Long Land, Short Land, India Pattern)",
+    "source_url": "https://www.historyofwar.org/articles/weapons_brown_bess.html",
+    "photo_review": "Tres fotografías: lado de la llave, lado de la contraplatina y vista inferior. Bastan para descartar el India Pattern con reservas; marcajes de la llave confirmarían el patrón.",
+    "photo_representative_ref": "EE-138",
+    "photo_numbers": [
+      1,
+      2,
+      3
+    ]
   }
 }

@@ -56902,14 +56902,14 @@
       "health_label": "Irrecuperables / pendientes de reparar"
     },
     {
-      "year": 1720,
-      "end": 1730,
-      "date": "ca. 1720-1730",
-      "precision": "Familia",
-      "date_note": "Patrón británico del siglo XVIII; el juego no concreta la variante.",
+      "year": 1768,
+      "end": null,
+      "date": "ca. 1768 · Short Land Pattern probable",
+      "precision": "Patrón probable por fotografía; no fecha de fabricación",
+      "date_note": "Las fotos muestran baqueta de acero, guarniciones de latón y lo que parecen cuatro abrazaderas de baqueta, más contraplatina de latón recortada. El India Pattern (1797) llevaba tres abrazaderas y guarniciones más simples, así que se descarta con reservas. No se distingue con seguridad del Long Land tardío; antes figuraba como ca. 1720-1730.",
       "source": "bess",
-      "source_title": "National Army Museum · Brown Bess, patrón 1727",
-      "source_url": "https://collection.nam.ac.uk/detail.php?acc=1990-02-55-1",
+      "source_title": "History of War · Brown Bess (Long Land, Short Land, India Pattern)",
+      "source_url": "https://www.historyofwar.org/articles/weapons_brown_bess.html",
       "ref": "EE-138",
       "name": "Brown Bess",
       "class": "BlueprintGeneratedClass /Game/Items/Receivers/BrownBess.BrownBess_C",
@@ -56934,13 +56934,36 @@
       "display_house": "Francia",
       "section": "Reino Unido y Commonwealth",
       "national_family": "Reino Unido / Commonwealth",
-      "family": "Brown Bess",
+      "family": "Brown Bess · mosquete británico Land Pattern",
       "piece_type": "Fusil / carabina",
       "display_role": "Exponer",
       "era": "Siglo XVIII o anterior",
-      "classification_basis": "Modelo identificado en el juego",
+      "classification_basis": "Nombre del juego + tres fotografías del usuario + diferencias documentadas entre patrones",
       "health_group": "good",
-      "health_label": "En buen estado"
+      "health_label": "En buen estado",
+      "identification": "Brown Bess · Land Pattern con baqueta de acero; Short Land probable",
+      "date_basis": "1768 es la adopción general del Short Land Pattern, no el año del ejemplar",
+      "confirmed_details": "Mosquete de chispa completo: llave de pedernal, guarniciones de latón (cantonera, guardamonte, contraplatina, abrazaderas y remate), baqueta de acero y anilla portafusil.",
+      "uncertain_details": "El modelado simplificado no permite medir el cañón (46, 42 o 39 pulgadas) ni ver marcajes de la llave. Long Land tardío y Short Land quedan abiertos.",
+      "historical_origin": "Reino Unido · origen de diseño/familia; fabricación del ejemplar sin confirmar",
+      "historical_status": "Familia Land Pattern por fotografía; variante probable",
+      "historical_sources": [
+        {
+          "title": "History of War · Brown Bess (Long Land, Short Land, India Pattern)",
+          "url": "https://www.historyofwar.org/articles/weapons_brown_bess.html"
+        },
+        {
+          "title": "The Field · diferencias entre Short Land e India Pattern",
+          "url": "https://www.thefield.co.uk/?p=28421"
+        }
+      ],
+      "photo_review": "Tres fotografías: lado de la llave, lado de la contraplatina y vista inferior. Bastan para descartar el India Pattern con reservas; marcajes de la llave confirmarían el patrón.",
+      "photo_representative_ref": "EE-138",
+      "photo_numbers": [
+        1,
+        2,
+        3
+      ]
     },
     {
       "year": null,
