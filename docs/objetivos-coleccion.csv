@@ -1117,14 +1117,14 @@ M1 Carbine · M1 Carbine Stock;complete;Estados Unidos;Armas y lanzadores;Franci
 M1 Carbine · M1A1 Carbine Stock;complete;Estados Unidos;Armas y lanzadores;Francia;EE-779;
 M1 Carbine · M1 Carbine Magazine [M1CarbineMagazine];complete;Estados Unidos;Armas y lanzadores;Francia;EE-779, EE-778;
 M1 Carbine · M1 Carbine Magazine [M2CarbineMagazine];missing;Estados Unidos;Armas y lanzadores;Francia;;Magazine: M1 Carbine Magazine
-M1D Garand · M1 Garand Stock;repair;Estados Unidos;Armas y lanzadores;Francia;;"Base: M1D Garand; Stock: M1 Garand Stock"
-M1D Garand · M1D Garand Flashhider;missing;Estados Unidos;Armas y lanzadores;Francia;;"Base: M1D Garand; Bayonet: M1D Garand Flashhider; Stock: M1 Garand Stock"
-M1D Garand · M1905 Bayonet;missing;Estados Unidos;Armas y lanzadores;Francia;;"Base: M1D Garand; Bayonet: M1905 Bayonet; Stock: M1 Garand Stock"
-M1D Garand · M1905E1 Chisel Point Bayonet;missing;Estados Unidos;Armas y lanzadores;Francia;;"Base: M1D Garand; Bayonet: M1905E1 Chisel Point Bayonet; Stock: M1 Garand Stock"
-M1D Garand · M1905E1 Spear Point Bayonet;missing;Estados Unidos;Armas y lanzadores;Francia;;"Base: M1D Garand; Bayonet: M1905E1 Spear Point Bayonet; Stock: M1 Garand Stock"
-M1D Garand · M1 Plastic Grips Bayonet;missing;Estados Unidos;Armas y lanzadores;Francia;;"Base: M1D Garand; Bayonet: M1 Plastic Grips Bayonet; Stock: M1 Garand Stock"
-M1D Garand · M1 Wood Grips Bayonet;missing;Estados Unidos;Armas y lanzadores;Francia;;"Base: M1D Garand; Stock: M1 Garand Stock"
-M1D Garand · M1905 Chromed Parade Bayonet;missing;Estados Unidos;Armas y lanzadores;Francia;;"Base: M1D Garand; Bayonet: M1905 Chromed Parade Bayonet; Stock: M1 Garand Stock"
+M1D Garand · M1 Garand Stock;repair;Estados Unidos;Armas y lanzadores;Francia;;Stock: M1 Garand Stock
+M1D Garand · M1D Garand Flashhider;missing;Estados Unidos;Armas y lanzadores;Francia;;"Bayonet: M1D Garand Flashhider; Stock: M1 Garand Stock"
+M1D Garand · M1905 Bayonet;missing;Estados Unidos;Armas y lanzadores;Francia;;"Bayonet: M1905 Bayonet; Stock: M1 Garand Stock"
+M1D Garand · M1905E1 Chisel Point Bayonet;missing;Estados Unidos;Armas y lanzadores;Francia;;"Bayonet: M1905E1 Chisel Point Bayonet; Stock: M1 Garand Stock"
+M1D Garand · M1905E1 Spear Point Bayonet;missing;Estados Unidos;Armas y lanzadores;Francia;;"Bayonet: M1905E1 Spear Point Bayonet; Stock: M1 Garand Stock"
+M1D Garand · M1 Plastic Grips Bayonet;missing;Estados Unidos;Armas y lanzadores;Francia;;"Bayonet: M1 Plastic Grips Bayonet; Stock: M1 Garand Stock"
+M1D Garand · M1 Wood Grips Bayonet;missing;Estados Unidos;Armas y lanzadores;Francia;;Stock: M1 Garand Stock
+M1D Garand · M1905 Chromed Parade Bayonet;missing;Estados Unidos;Armas y lanzadores;Francia;;"Bayonet: M1905 Chromed Parade Bayonet; Stock: M1 Garand Stock"
 M1 Garand · M1 Garand Stock;complete;Estados Unidos;Armas y lanzadores;Francia;EE-851;
 M1 Garand · M1 Garand Handguard;complete;Estados Unidos;Armas y lanzadores;Francia;EE-851;
 M1 Garand · M1 Plastic Grips Bayonet;missing;Estados Unidos;Armas y lanzadores;Francia;;Bayonet: M1 Plastic Grips Bayonet

@@ -1,15 +1,15 @@
 {
-  "revision": "2026-11-15 22:55 · al cerrar el juego",
+  "revision": "2026-11-16 16:08 · al cerrar el juego",
   "build": "25932299",
   "snapshot_dates": {
     "Estonia": "2026-11-14",
     "Afganistán": "2026-10-19",
-    "Francia": "2026-11-15"
+    "Francia": "2026-11-16"
   },
   "scope": "Inventarios guardados de Estonia, Francia y Afganistán. Casa recomendada indica la propuesta de exposición; ubicación guardada indica dónde está el objeto.",
   "update_method": "Se actualiza sola al abrir y al cerrar Osta en cualquiera de los dos ordenadores: lee las partidas guardadas y publica una revisión nueva si los datos cambian. No necesita ChatGPT ni Claude. Los cambios sin guardar todavía no aparecen.",
   "autosync": {
     "trigger": "Al abrir y al cerrar el juego",
-    "last_scan": "2026-11-15T22:55:37+01:00"
+    "last_scan": "2026-11-16T16:08:19+01:00"
   }
 }
