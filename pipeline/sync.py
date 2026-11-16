@@ -2,6 +2,7 @@
 import datetime
 import hashlib
 import json
+import re
 import time
 
 import build as builder
@@ -105,6 +106,16 @@ def write_outputs(payload, files, hashes):
     dump(DATA / 'save-hashes.json', hashes)
     dump(DOCS / 'data.json', payload, compact=True)
     builder.write_csv(payload, DOCS / 'objetivos-coleccion.csv')
+    stamp_assets()
+
+
+def stamp_assets(index=DOCS / 'index.html'):
+    """Pone ?v=<hash> a app.js y style.css para que el navegador no use una copia vieja."""
+    html = index.read_text(encoding='utf-8')
+    for name in ('app.js', 'style.css'):
+        v = hashlib.sha256((DOCS / name).read_bytes()).hexdigest()[:10]
+        html = re.sub(r'"' + re.escape(name) + r'(\?v=\w+)?"', f'"{name}?v={v}"', html)
+    index.write_text(html, encoding='utf-8', newline='')
 
 
 def current_build_status():
