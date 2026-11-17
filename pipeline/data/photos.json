@@ -128,9 +128,14 @@
     "refs": [
       "EE-59",
       "EE-68",
+      "EE-1450",
       "EE-70",
       "EE-71",
-      "EE-72"
+      "EE-1451",
+      "EE-1452",
+      "EE-72",
+      "EE-1453",
+      "EE-1454"
     ],
     "why": "Distinguir los emblemas y acabados yugoslavos/serbios posteriores del origen del casco base.",
     "views": "Una frontal de cada variante, con el emblema visible. Puedes ponerlas juntas y señalar el orden.",
@@ -250,9 +255,12 @@
     ],
     "refs": [
       "EE-409",
+      "EE-1487",
       "EE-473",
       "EE-476",
-      "EE-501"
+      "EE-501",
+      "EE-1494",
+      "EE-1495"
     ],
     "why": "No atribuir modelo y país únicamente por el calibre que muestra el juego. Ya revisado: 12cm Mortar Shell (familia soviética OF-843 probable).",
     "views": "Un ejemplar de cada nombre, de perfil y con aletas y punta visibles. No hace falta fotografiar todos los duplicados.",
@@ -266,7 +274,8 @@
       "M56 81mm"
     ],
     "refs": [
-      "EE-48"
+      "EE-48",
+      "EE-1436"
     ],
     "why": "Confirmar la representación y variante. La fecha de un ejemplar no sale sólo de su designación. Ya revisado en esta tanda: M43 81mm, M49A2 60mm. Pendientes: M56 81mm.",
     "views": "Foto completa de un ejemplar de cada tipo y detalle de las marcas, si existen en la textura.",
@@ -300,9 +309,11 @@
       "50x420R Casing"
     ],
     "refs": [
+      "EE-1434",
       "EE-258",
       "EE-1368",
       "EE-324",
+      "EE-1475",
       "EE-347",
       "EE-348",
       "EE-401",
@@ -342,6 +353,7 @@
     ],
     "refs": [
       "EE-315",
+      "EE-1474",
       "EE-323"
     ],
     "why": "El calibre/sistema ya figura en el guardado. La duda es el proyectil y acabado concretos, y si la textura aporta marcajes. Ya revisado en esta tanda: 30mm MK108, 37x149mmR French Cartridge, 37x94mmR French Cartridge, 25x194mmR French Hotchkiss Cartridge. Pendientes: 14.5x114mm API, 20x99mmR ShVAK Cartridge.",
@@ -365,6 +377,7 @@
       "EE-557",
       "EE-634",
       "EE-637",
+      "EE-1529",
       "EE-472",
       "EE-475",
       "EE-485"

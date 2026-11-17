@@ -17284,6 +17284,445 @@
           ]
         }
       ]
+    },
+    "729:730,732,733,734,735,736": {
+      "original_error": "nil",
+      "original_check": true,
+      "missing_native": {},
+      "slots": [
+        {
+          "has_mesh": true,
+          "tags": [
+            "Handguard",
+            "Part",
+            "Required"
+          ],
+          "name": "Handguard"
+        },
+        {
+          "has_mesh": true,
+          "tags": [
+            "Stock",
+            "Part",
+            "Required"
+          ],
+          "name": "Stock"
+        },
+        {
+          "has_mesh": false,
+          "tags": [
+            "DustCover",
+            "Part",
+            "Required"
+          ],
+          "name": "DustCover"
+        },
+        {
+          "has_mesh": true,
+          "tags": [
+            "Grip",
+            "Part",
+            "Required"
+          ],
+          "name": "PistolGrip"
+        },
+        {
+          "has_mesh": true,
+          "tags": [
+            "Magazine",
+            "Part",
+            "Required"
+          ],
+          "name": "Magazine"
+        },
+        {
+          "has_mesh": true,
+          "tags": [
+            "UpperHandguard",
+            "Part",
+            "Required"
+          ],
+          "name": "UpperHandguard"
+        },
+        {
+          "has_mesh": true,
+          "tags": [
+            "Bolt",
+            "Part",
+            "Required"
+          ],
+          "name": "Bolt"
+        },
+        {
+          "has_mesh": false,
+          "tags": [
+            "Bayonet",
+            "Part"
+          ],
+          "name": "Bayonet"
+        }
+      ],
+      "complete": false,
+      "IsOrginal": true,
+      "key": "729:730,732,733,734,735,736",
+      "attached": [
+        "BlueprintGeneratedClass /Game/Items/Parts/VZ58PistolGrip.VZ58PistolGrip_C",
+        "BlueprintGeneratedClass /Game/Items/Parts/VZ58Stock.VZ58Stock_C",
+        "BlueprintGeneratedClass /Game/Items/Parts/VZ58Magazine.VZ58Magazine_C",
+        "BlueprintGeneratedClass /Game/Items/Parts/VZ58UpperHandguard.VZ58UpperHandguard_C",
+        "BlueprintGeneratedClass /Game/Items/Parts/VZ58Bolt.VZ58Bolt_C",
+        "BlueprintGeneratedClass /Game/Items/Parts/VZ58Handguard.VZ58Handguard_C"
+      ],
+      "rejected": {}
+    },
+    "1371:1079": {
+      "original_error": "nil",
+      "original_check": true,
+      "missing_native": {},
+      "slots": [
+        {
+          "has_mesh": true,
+          "tags": [
+            "Part1",
+            "Part",
+            "Required"
+          ],
+          "name": "Handguard"
+        },
+        {
+          "has_mesh": false,
+          "tags": [
+            "Part2",
+            "Part",
+            "Required"
+          ],
+          "name": "Stock"
+        },
+        {
+          "has_mesh": false,
+          "tags": [
+            "Part3",
+            "Part",
+            "Required"
+          ],
+          "name": "DustCover"
+        },
+        {
+          "has_mesh": false,
+          "tags": [
+            "Part4",
+            "Part",
+            "Required"
+          ],
+          "name": "PistolGrip"
+        },
+        {
+          "has_mesh": false,
+          "tags": [
+            "Part6",
+            "Part"
+          ],
+          "name": "Magazine"
+        },
+        {
+          "has_mesh": false,
+          "tags": [
+            "Part7",
+            "Part"
+          ],
+          "name": "Underbarrel"
+        },
+        {
+          "has_mesh": false,
+          "tags": [
+            "Bayonet",
+            "Part"
+          ],
+          "name": "Bayonet"
+        }
+      ],
+      "complete": false,
+      "IsOrginal": true,
+      "key": "1371:1079",
+      "attached": [
+        "BlueprintGeneratedClass /Game/Items/Parts/RomanianDongHandguard.RomanianDongHandguard_C"
+      ],
+      "rejected": {}
+    },
+    "816:": {
+      "original_error": "nil",
+      "original_check": true,
+      "missing_native": {},
+      "slots": [
+        {
+          "has_mesh": false,
+          "tags": [
+            "Part",
+            "Scabbard",
+            "Required"
+          ],
+          "name": "Scabbard"
+        }
+      ],
+      "complete": false,
+      "IsOrginal": true,
+      "key": "816:",
+      "attached": {},
+      "rejected": {}
+    },
+    "904:905": {
+      "original_error": "nil",
+      "original_check": true,
+      "missing_native": {},
+      "slots": [
+        {
+          "has_mesh": true,
+          "tags": [
+            "Part1",
+            "Part",
+            "Required"
+          ],
+          "name": "Barrel"
+        },
+        {
+          "has_mesh": false,
+          "tags": [
+            "Part2",
+            "Part",
+            "Required"
+          ],
+          "name": "Stock"
+        },
+        {
+          "has_mesh": false,
+          "tags": [
+            "Part3",
+            "Part",
+            "Required"
+          ],
+          "name": "DustCover"
+        },
+        {
+          "has_mesh": false,
+          "tags": [
+            "Part4",
+            "Part",
+            "Required"
+          ],
+          "name": "Bolt"
+        },
+        {
+          "has_mesh": false,
+          "tags": [
+            "Part5",
+            "Part",
+            "Required"
+          ],
+          "name": "Bipod"
+        },
+        {
+          "has_mesh": false,
+          "tags": [
+            "Part6",
+            "Part"
+          ],
+          "name": "Magazine"
+        },
+        {
+          "has_mesh": false,
+          "tags": [
+            "AKRail",
+            "Part"
+          ],
+          "name": "Scope"
+        }
+      ],
+      "complete": false,
+      "IsOrginal": true,
+      "key": "904:905",
+      "attached": [
+        "BlueprintGeneratedClass /Game/Items/Parts/ZastavaM84Barrel.ZastavaM84Barrel_C"
+      ],
+      "rejected": {}
+    },
+    "916:917,918,922,923": {
+      "original_error": "nil",
+      "original_check": true,
+      "missing_native": {},
+      "slots": [
+        {
+          "has_mesh": true,
+          "tags": [
+            "Part1",
+            "Part",
+            "Required"
+          ],
+          "name": "Handguard"
+        },
+        {
+          "has_mesh": true,
+          "tags": [
+            "Part2",
+            "Part",
+            "Required"
+          ],
+          "name": "Stock"
+        },
+        {
+          "has_mesh": true,
+          "tags": [
+            "Part4",
+            "Part",
+            "Required"
+          ],
+          "name": "PistolGrip"
+        },
+        {
+          "has_mesh": true,
+          "tags": [
+            "Part6",
+            "Part"
+          ],
+          "name": "Magazine"
+        }
+      ],
+      "complete": true,
+      "IsOrginal": true,
+      "key": "916:917,918,922,923",
+      "attached": [
+        "BlueprintGeneratedClass /Game/Items/Parts/ZastavaM92Handguard.ZastavaM92Handguard_C",
+        "BlueprintGeneratedClass /Game/Items/Parts/ZastavaAKMagazine.ZastavaAKMagazine_C",
+        "BlueprintGeneratedClass /Game/Items/Parts/ZastavaM92PistolGrip.ZastavaM92PistolGrip_C",
+        "BlueprintGeneratedClass /Game/Items/Parts/ZastavaFoldingAKStock.ZastavaFoldingAKStock_C"
+      ],
+      "rejected": {}
+    },
+    "1371:145,324,329,1079": {
+      "original_error": "nil",
+      "original_check": true,
+      "missing_native": {},
+      "slots": [
+        {
+          "has_mesh": true,
+          "tags": [
+            "Part1",
+            "Part",
+            "Required"
+          ],
+          "name": "Handguard"
+        },
+        {
+          "has_mesh": true,
+          "tags": [
+            "Part2",
+            "Part",
+            "Required"
+          ],
+          "name": "Stock"
+        },
+        {
+          "has_mesh": false,
+          "tags": [
+            "Part3",
+            "Part",
+            "Required"
+          ],
+          "name": "DustCover"
+        },
+        {
+          "has_mesh": true,
+          "tags": [
+            "Part4",
+            "Part",
+            "Required"
+          ],
+          "name": "PistolGrip"
+        },
+        {
+          "has_mesh": true,
+          "tags": [
+            "Part6",
+            "Part"
+          ],
+          "name": "Magazine"
+        },
+        {
+          "has_mesh": false,
+          "tags": [
+            "Part7",
+            "Part"
+          ],
+          "name": "Underbarrel"
+        },
+        {
+          "has_mesh": false,
+          "tags": [
+            "Bayonet",
+            "Part"
+          ],
+          "name": "Bayonet"
+        }
+      ],
+      "complete": false,
+      "IsOrginal": true,
+      "key": "1371:145,324,329,1079",
+      "attached": [
+        "BlueprintGeneratedClass /Game/Items/Parts/AKMStock.AKMStock_C",
+        "BlueprintGeneratedClass /Game/Items/Parts/RomanianDongHandguard.RomanianDongHandguard_C",
+        "BlueprintGeneratedClass /Game/Items/Parts/SteelAKMagazine.SteelAKMagazine_C",
+        "BlueprintGeneratedClass /Game/Items/Parts/AKBakelitePistolGrip.AKBakelitePistolGrip_C"
+      ],
+      "rejected": {}
+    },
+    "872:874,877": {
+      "original_error": "nil",
+      "original_check": true,
+      "missing_native": {},
+      "slots": [
+        {
+          "has_mesh": false,
+          "tags": [
+            "DustCover",
+            "Part",
+            "Required"
+          ],
+          "name": "DustCover"
+        },
+        {
+          "has_mesh": true,
+          "tags": [
+            "Stock",
+            "Part",
+            "Required"
+          ],
+          "name": "Stock"
+        },
+        {
+          "has_mesh": false,
+          "tags": [
+            "AKRail",
+            "Part"
+          ],
+          "name": "Scope"
+        },
+        {
+          "has_mesh": true,
+          "tags": [
+            "Magazine",
+            "Part",
+            "Required"
+          ],
+          "name": "Magazine"
+        }
+      ],
+      "complete": false,
+      "IsOrginal": true,
+      "key": "872:874,877",
+      "attached": [
+        "BlueprintGeneratedClass /Game/Items/Parts/VPO101Stock.VPO101Stock_C",
+        "BlueprintGeneratedClass /Game/Items/Parts/VPO1015roundMagazine.VPO1015roundMagazine_C"
+      ],
+      "rejected": {}
     }
   },
   "templates": {
@@ -17330,128 +17769,128 @@
       "natural": {}
     },
     "729": {
+      "natural": [
+        {
+          "slot": "Bolt",
+          "weight": 1000,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/VZ58Bolt.VZ58Bolt_C",
+          "name": "VZ-58 Bolt"
+        },
+        {
+          "slot": "DustCover",
+          "weight": 1000,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/VZ58DustCover.VZ58DustCover_C",
+          "name": "VZ-58 Dust Cover"
+        },
+        {
+          "slot": "Magazine",
+          "weight": 200,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/VZ58Magazine.VZ58Magazine_C",
+          "name": "VZ-58 Magazine"
+        },
+        {
+          "slot": "Grip",
+          "weight": 600,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/VZ58PistolGrip.VZ58PistolGrip_C",
+          "name": "VZ-58 Pistol Grip"
+        },
+        {
+          "slot": "Stock",
+          "weight": 600,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/VZ58Stock.VZ58Stock_C",
+          "name": "VZ-58 Stock"
+        },
+        {
+          "slot": "UpperHandguard",
+          "weight": 800,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/VZ58UpperHandguard.VZ58UpperHandguard_C",
+          "name": "VZ-58 Upper handguard"
+        },
+        {
+          "slot": "Handguard",
+          "weight": 700,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/VZ58Handguard.VZ58Handguard_C",
+          "name": "VZ-58 Handguard"
+        },
+        {
+          "slot": "Bayonet",
+          "weight": 30,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/VZ58Bayonet.VZ58Bayonet_C",
+          "name": "VZ-58 Bayonet"
+        }
+      ],
+      "path": "BlueprintGeneratedClass /Game/Items/Receivers/VZ58.VZ58_C",
       "slots": [
         {
           "has_mesh": true,
-          "name": "Handguard",
           "tags": [
             "Handguard",
             "Part",
             "Required"
-          ]
+          ],
+          "name": "Handguard"
         },
         {
           "has_mesh": true,
-          "name": "Stock",
           "tags": [
             "Stock",
             "Part",
             "Required"
-          ]
+          ],
+          "name": "Stock"
         },
         {
-          "has_mesh": true,
-          "name": "DustCover",
+          "has_mesh": false,
           "tags": [
             "DustCover",
             "Part",
             "Required"
-          ]
+          ],
+          "name": "DustCover"
         },
         {
           "has_mesh": true,
-          "name": "PistolGrip",
           "tags": [
             "Grip",
             "Part",
             "Required"
-          ]
+          ],
+          "name": "PistolGrip"
         },
         {
           "has_mesh": true,
-          "name": "Magazine",
           "tags": [
             "Magazine",
             "Part",
             "Required"
-          ]
+          ],
+          "name": "Magazine"
         },
         {
           "has_mesh": true,
-          "name": "UpperHandguard",
           "tags": [
             "UpperHandguard",
             "Part",
             "Required"
-          ]
+          ],
+          "name": "UpperHandguard"
         },
         {
           "has_mesh": true,
-          "name": "Bolt",
           "tags": [
             "Bolt",
             "Part",
             "Required"
-          ]
+          ],
+          "name": "Bolt"
         },
         {
           "has_mesh": false,
-          "name": "Bayonet",
           "tags": [
             "Bayonet",
             "Part"
-          ]
-        }
-      ],
-      "path": "BlueprintGeneratedClass /Game/Items/Receivers/VZ58.VZ58_C",
-      "natural": [
-        {
-          "slot": "Bolt",
-          "name": "VZ-58 Bolt",
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/VZ58Bolt.VZ58Bolt_C",
-          "weight": 1000
-        },
-        {
-          "slot": "DustCover",
-          "name": "VZ-58 Dust Cover",
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/VZ58DustCover.VZ58DustCover_C",
-          "weight": 1000
-        },
-        {
-          "slot": "Magazine",
-          "name": "VZ-58 Magazine",
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/VZ58Magazine.VZ58Magazine_C",
-          "weight": 200
-        },
-        {
-          "slot": "Grip",
-          "name": "VZ-58 Pistol Grip",
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/VZ58PistolGrip.VZ58PistolGrip_C",
-          "weight": 600
-        },
-        {
-          "slot": "Stock",
-          "name": "VZ-58 Stock",
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/VZ58Stock.VZ58Stock_C",
-          "weight": 600
-        },
-        {
-          "slot": "UpperHandguard",
-          "name": "VZ-58 Upper handguard",
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/VZ58UpperHandguard.VZ58UpperHandguard_C",
-          "weight": 800
-        },
-        {
-          "slot": "Handguard",
-          "name": "VZ-58 Handguard",
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/VZ58Handguard.VZ58Handguard_C",
-          "weight": 700
-        },
-        {
-          "slot": "Bayonet",
-          "name": "VZ-58 Bayonet",
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/VZ58Bayonet.VZ58Bayonet_C",
-          "weight": 30
+          ],
+          "name": "Bayonet"
         }
       ]
     },
@@ -22603,112 +23042,112 @@
       ]
     },
     "904": {
+      "natural": [
+        {
+          "slot": "Part1",
+          "weight": 1000,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/ZastavaM84Barrel.ZastavaM84Barrel_C",
+          "name": "Zastava M84 Barrel"
+        },
+        {
+          "slot": "Part2",
+          "weight": 300,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/ZastavaM84Stock.ZastavaM84Stock_C",
+          "name": "Zastava M84 Stock"
+        },
+        {
+          "slot": "Part3",
+          "weight": 500,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/PKMDustCover.PKMDustCover_C",
+          "name": "PKM Dust Cover"
+        },
+        {
+          "slot": "Part4",
+          "weight": 1000,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/PKBolt.PKBolt_C",
+          "name": "PK Bolt"
+        },
+        {
+          "slot": "Part5",
+          "weight": 1000,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/PKBipod.PKBipod_C",
+          "name": "PK Bipod"
+        },
+        {
+          "slot": "Part6",
+          "weight": 100,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/PKBox.PKBox_C",
+          "name": "PK Ammo Box"
+        },
+        {
+          "slot": "Part3",
+          "weight": 0,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/PKDustCover.PKDustCover_C",
+          "name": "PK Dust Cover"
+        }
+      ],
+      "path": "BlueprintGeneratedClass /Game/Items/Receivers/ZastavaM84.ZastavaM84_C",
       "slots": [
         {
           "has_mesh": true,
-          "name": "Barrel",
           "tags": [
             "Part1",
             "Part",
             "Required"
-          ]
+          ],
+          "name": "Barrel"
         },
         {
-          "has_mesh": true,
-          "name": "Stock",
+          "has_mesh": false,
           "tags": [
             "Part2",
             "Part",
             "Required"
-          ]
+          ],
+          "name": "Stock"
         },
         {
-          "has_mesh": true,
-          "name": "DustCover",
+          "has_mesh": false,
           "tags": [
             "Part3",
             "Part",
             "Required"
-          ]
+          ],
+          "name": "DustCover"
         },
         {
-          "has_mesh": true,
-          "name": "Bolt",
+          "has_mesh": false,
           "tags": [
             "Part4",
             "Part",
             "Required"
-          ]
+          ],
+          "name": "Bolt"
         },
         {
-          "has_mesh": true,
-          "name": "Bipod",
+          "has_mesh": false,
           "tags": [
             "Part5",
             "Part",
             "Required"
-          ]
-        },
-        {
-          "has_mesh": true,
-          "name": "Magazine",
-          "tags": [
-            "Part6",
-            "Part"
-          ]
+          ],
+          "name": "Bipod"
         },
         {
           "has_mesh": false,
-          "name": "Scope",
+          "tags": [
+            "Part6",
+            "Part"
+          ],
+          "name": "Magazine"
+        },
+        {
+          "has_mesh": false,
           "tags": [
             "AKRail",
             "Part"
-          ]
-        }
-      ],
-      "path": "BlueprintGeneratedClass /Game/Items/Receivers/ZastavaM84.ZastavaM84_C",
-      "natural": [
-        {
-          "slot": "Part1",
-          "name": "Zastava M84 Barrel",
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/ZastavaM84Barrel.ZastavaM84Barrel_C",
-          "weight": 1000
-        },
-        {
-          "slot": "Part2",
-          "name": "Zastava M84 Stock",
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/ZastavaM84Stock.ZastavaM84Stock_C",
-          "weight": 300
-        },
-        {
-          "slot": "Part3",
-          "name": "PKM Dust Cover",
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/PKMDustCover.PKMDustCover_C",
-          "weight": 500
-        },
-        {
-          "slot": "Part4",
-          "name": "PK Bolt",
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/PKBolt.PKBolt_C",
-          "weight": 1000
-        },
-        {
-          "slot": "Part5",
-          "name": "PK Bipod",
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/PKBipod.PKBipod_C",
-          "weight": 1000
-        },
-        {
-          "slot": "Part6",
-          "name": "PK Ammo Box",
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/PKBox.PKBox_C",
-          "weight": 100
-        },
-        {
-          "slot": "Part3",
-          "name": "PK Dust Cover",
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/PKDustCover.PKDustCover_C",
-          "weight": 0
+          ],
+          "name": "Scope"
         }
       ]
     },
@@ -23827,92 +24266,92 @@
       "natural": {}
     },
     "916": {
+      "natural": [
+        {
+          "slot": "Part1",
+          "weight": 300,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/ZastavaM92Handguard.ZastavaM92Handguard_C",
+          "name": "Zastava M92 Handguard"
+        },
+        {
+          "slot": "Part2",
+          "weight": 300,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/ZastavaFoldingAKStock.ZastavaFoldingAKStock_C",
+          "name": "Zastava Underfolding Stock"
+        },
+        {
+          "slot": "Part4",
+          "weight": 0,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/ZastavaM70PistolGrip.ZastavaM70PistolGrip_C",
+          "name": "Zastava M70 Pistol Grip"
+        },
+        {
+          "slot": "Part6",
+          "weight": 30,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/ZastavaAKMagazine.ZastavaAKMagazine_C",
+          "name": "Zastava AK magazine"
+        },
+        {
+          "slot": "Part6",
+          "weight": 3,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/BosnianSingleRibAKMagazine.BosnianSingleRibAKMagazine_C",
+          "name": "Bosnian Single Rib AK Magazine"
+        },
+        {
+          "slot": "Part6",
+          "weight": 3,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/DoubleRibAKMagazine.DoubleRibAKMagazine_C",
+          "name": "Bosnian Two Rib AK Magazine"
+        },
+        {
+          "slot": "Part6",
+          "weight": 3,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/DoubleRibLilyAKMagazine.DoubleRibLilyAKMagazine_C",
+          "name": "Bosnian Lily AK Magazine"
+        },
+        {
+          "slot": "Part4",
+          "weight": 300,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/ZastavaM92PistolGrip.ZastavaM92PistolGrip_C",
+          "name": "Zastava M92 Pistol Grip"
+        }
+      ],
+      "path": "BlueprintGeneratedClass /Game/Items/Receivers/ZastavaM92.ZastavaM92_C",
       "slots": [
         {
           "has_mesh": true,
-          "name": "Handguard",
           "tags": [
             "Part1",
             "Part",
             "Required"
-          ]
+          ],
+          "name": "Handguard"
         },
         {
-          "has_mesh": false,
-          "name": "Stock",
+          "has_mesh": true,
           "tags": [
             "Part2",
             "Part",
             "Required"
-          ]
+          ],
+          "name": "Stock"
         },
         {
           "has_mesh": true,
-          "name": "PistolGrip",
           "tags": [
             "Part4",
             "Part",
             "Required"
-          ]
+          ],
+          "name": "PistolGrip"
         },
         {
           "has_mesh": true,
-          "name": "Magazine",
           "tags": [
             "Part6",
             "Part"
-          ]
-        }
-      ],
-      "path": "BlueprintGeneratedClass /Game/Items/Receivers/ZastavaM92.ZastavaM92_C",
-      "natural": [
-        {
-          "slot": "Part1",
-          "name": "Zastava M92 Handguard",
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/ZastavaM92Handguard.ZastavaM92Handguard_C",
-          "weight": 300
-        },
-        {
-          "slot": "Part2",
-          "name": "Zastava Underfolding Stock",
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/ZastavaFoldingAKStock.ZastavaFoldingAKStock_C",
-          "weight": 300
-        },
-        {
-          "slot": "Part4",
-          "name": "Zastava M70 Pistol Grip",
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/ZastavaM70PistolGrip.ZastavaM70PistolGrip_C",
-          "weight": 0
-        },
-        {
-          "slot": "Part6",
-          "name": "Zastava AK magazine",
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/ZastavaAKMagazine.ZastavaAKMagazine_C",
-          "weight": 30
-        },
-        {
-          "slot": "Part6",
-          "name": "Bosnian Single Rib AK Magazine",
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/BosnianSingleRibAKMagazine.BosnianSingleRibAKMagazine_C",
-          "weight": 3
-        },
-        {
-          "slot": "Part6",
-          "name": "Bosnian Two Rib AK Magazine",
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/DoubleRibAKMagazine.DoubleRibAKMagazine_C",
-          "weight": 3
-        },
-        {
-          "slot": "Part6",
-          "name": "Bosnian Lily AK Magazine",
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/DoubleRibLilyAKMagazine.DoubleRibLilyAKMagazine_C",
-          "weight": 3
-        },
-        {
-          "slot": "Part4",
-          "name": "Zastava M92 Pistol Grip",
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/ZastavaM92PistolGrip.ZastavaM92PistolGrip_C",
-          "weight": 300
+          ],
+          "name": "Magazine"
         }
       ]
     },
@@ -26906,110 +27345,110 @@
     "872": {
       "natural": [
         {
-          "weight": 500,
-          "name": "VPO-101 Dust Cover",
           "slot": "DustCover",
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/VPO101DustCover.VPO101DustCover_C"
+          "weight": 500,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/VPO101DustCover.VPO101DustCover_C",
+          "name": "VPO-101 Dust Cover"
         },
         {
-          "weight": 300,
-          "name": "VPO-101 Stock",
           "slot": "Stock",
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/VPO101Stock.VPO101Stock_C"
+          "weight": 300,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/VPO101Stock.VPO101Stock_C",
+          "name": "VPO-101 Stock"
         },
         {
-          "weight": 50,
-          "name": "Molot 10 Round .308 Magazine",
           "slot": "Magazine",
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/VPO10110roundMagazine.VPO10110roundMagazine_C"
-        },
-        {
-          "weight": 10,
-          "name": "PSO-1 scope",
-          "slot": "AKRail",
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/PSO1.PSO1_C"
-        },
-        {
           "weight": 50,
-          "name": "Molot 5 Round .308 Magazine",
-          "slot": "Magazine",
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/VPO1015roundMagazine.VPO1015roundMagazine_C"
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/VPO10110roundMagazine.VPO10110roundMagazine_C",
+          "name": "Molot 10 Round .308 Magazine"
         },
         {
+          "slot": "AKRail",
           "weight": 10,
-          "name": "East German PSO-1",
-          "slot": "AKRail",
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/EastGermanPSO1.EastGermanPSO1_C"
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/PSO1.PSO1_C",
+          "name": "PSO-1 scope"
         },
         {
+          "slot": "Magazine",
+          "weight": 50,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/VPO1015roundMagazine.VPO1015roundMagazine_C",
+          "name": "Molot 5 Round .308 Magazine"
+        },
+        {
+          "slot": "AKRail",
+          "weight": 10,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/EastGermanPSO1.EastGermanPSO1_C",
+          "name": "East German PSO-1"
+        },
+        {
+          "slot": "AKRail",
           "weight": 1,
-          "name": "OKP-7",
-          "slot": "AKRail",
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/OKP7.OKP7_C"
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/OKP7.OKP7_C",
+          "name": "OKP-7"
         },
         {
+          "slot": "AKRail",
           "weight": 1,
-          "name": "1P29",
-          "slot": "AKRail",
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/1P29.1P29_C"
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/1P29.1P29_C",
+          "name": "1P29"
         },
         {
+          "slot": "AKRail",
           "weight": 1,
-          "name": "1P63",
-          "slot": "AKRail",
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/1P63.1P63_C"
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/1P63.1P63_C",
+          "name": "1P63"
         },
         {
+          "slot": "Magazine",
           "weight": 3,
-          "name": "AK-308 Magazine",
-          "slot": "Magazine",
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/AK308Magazine.AK308Magazine_C"
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/AK308Magazine.AK308Magazine_C",
+          "name": "AK-308 Magazine"
         },
         {
-          "weight": 10,
-          "name": "LPS-2 scope",
           "slot": "AKRail",
-          "path": "BlueprintGeneratedClass /Game/Items/Parts/LPS2.LPS2_C"
+          "weight": 10,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/LPS2.LPS2_C",
+          "name": "LPS-2 scope"
         }
       ],
+      "path": "BlueprintGeneratedClass /Game/Items/Receivers/VPO101.VPO101_C",
       "slots": [
         {
-          "name": "DustCover",
+          "has_mesh": false,
           "tags": [
             "DustCover",
             "Part",
             "Required"
           ],
-          "has_mesh": false
+          "name": "DustCover"
         },
         {
-          "name": "Stock",
+          "has_mesh": true,
           "tags": [
             "Stock",
             "Part",
             "Required"
           ],
-          "has_mesh": false
+          "name": "Stock"
         },
         {
-          "name": "Scope",
+          "has_mesh": false,
           "tags": [
             "AKRail",
             "Part"
           ],
-          "has_mesh": false
+          "name": "Scope"
         },
         {
-          "name": "Magazine",
+          "has_mesh": true,
           "tags": [
             "Magazine",
             "Part",
             "Required"
           ],
-          "has_mesh": false
+          "name": "Magazine"
         }
-      ],
-      "path": "BlueprintGeneratedClass /Game/Items/Receivers/VPO101.VPO101_C"
+      ]
     },
     "402": {
       "natural": [
@@ -27037,6 +27476,131 @@
       "slots": {},
       "path": "BlueprintGeneratedClass /Game/Items/UXO/M24.M24_C",
       "natural": {}
+    },
+    "816": {
+      "natural": [
+        {
+          "slot": "Scabbard",
+          "weight": 1,
+          "path": "BlueprintGeneratedClass /Game/Items/Misc/NSFKKnifeScabbard.NSFKKnifeScabbard_C",
+          "name": "NSFK Knife Scabbard"
+        }
+      ],
+      "path": "BlueprintGeneratedClass /Game/Items/Misc/NSFKKnife.NSFKKnife_C",
+      "slots": [
+        {
+          "has_mesh": false,
+          "tags": [
+            "Part",
+            "Scabbard",
+            "Required"
+          ],
+          "name": "Scabbard"
+        }
+      ]
+    },
+    "1371": {
+      "natural": [
+        {
+          "slot": "Part1",
+          "weight": 300,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/RomanianDongHandguard.RomanianDongHandguard_C",
+          "name": "Romanian Dong AK Handguard"
+        },
+        {
+          "slot": "Part2",
+          "weight": 300,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/AKMStock.AKMStock_C",
+          "name": "AKM stock"
+        },
+        {
+          "slot": "Part3",
+          "weight": 500,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/AKRibbedDustCover.AKRibbedDustCover_C",
+          "name": "Ribbed AK dust cover"
+        },
+        {
+          "slot": "Part4",
+          "weight": 300,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/AKBakelitePistolGrip.AKBakelitePistolGrip_C",
+          "name": "AK Pistol Grip"
+        },
+        {
+          "slot": "Part6",
+          "weight": 30,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/SteelAKMagazine.SteelAKMagazine_C",
+          "name": "Steel AK magazine"
+        },
+        {
+          "slot": "Part2",
+          "weight": 100,
+          "path": "BlueprintGeneratedClass /Game/Items/Parts/RomanianWireStock.RomanianWireStock_C",
+          "name": "Romanian AK Wire Stock"
+        }
+      ],
+      "path": "BlueprintGeneratedClass /Game/Items/Receivers/PMmd63.PMmd63_C",
+      "slots": [
+        {
+          "has_mesh": true,
+          "tags": [
+            "Part1",
+            "Part",
+            "Required"
+          ],
+          "name": "Handguard"
+        },
+        {
+          "has_mesh": false,
+          "tags": [
+            "Part2",
+            "Part",
+            "Required"
+          ],
+          "name": "Stock"
+        },
+        {
+          "has_mesh": false,
+          "tags": [
+            "Part3",
+            "Part",
+            "Required"
+          ],
+          "name": "DustCover"
+        },
+        {
+          "has_mesh": false,
+          "tags": [
+            "Part4",
+            "Part",
+            "Required"
+          ],
+          "name": "PistolGrip"
+        },
+        {
+          "has_mesh": false,
+          "tags": [
+            "Part6",
+            "Part"
+          ],
+          "name": "Magazine"
+        },
+        {
+          "has_mesh": false,
+          "tags": [
+            "Part7",
+            "Part"
+          ],
+          "name": "Underbarrel"
+        },
+        {
+          "has_mesh": false,
+          "tags": [
+            "Bayonet",
+            "Part"
+          ],
+          "name": "Bayonet"
+        }
+      ]
     }
   }
 }

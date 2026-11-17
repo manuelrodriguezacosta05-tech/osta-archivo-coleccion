@@ -11076,5 +11076,145 @@
     ],
     "is_part": true,
     "name": "Early Thompson Stock"
+  },
+  "372": {
+    "path": "BlueprintGeneratedClass /Game/Items/Junk/Axe.Axe_C",
+    "natural": {},
+    "name": "ItemParent",
+    "is_part": false,
+    "slot": "None",
+    "types": [
+      "0"
+    ],
+    "id": 372
+  },
+  "1371": {
+    "path": "BlueprintGeneratedClass /Game/Items/Receivers/PMmd63.PMmd63_C",
+    "natural": [
+      {
+        "path": "BlueprintGeneratedClass /Game/Items/Parts/RomanianDongHandguard.RomanianDongHandguard_C",
+        "weight": 300
+      },
+      {
+        "path": "BlueprintGeneratedClass /Game/Items/Parts/AKMStock.AKMStock_C",
+        "weight": 300
+      },
+      {
+        "path": "BlueprintGeneratedClass /Game/Items/Parts/AKRibbedDustCover.AKRibbedDustCover_C",
+        "weight": 500
+      },
+      {
+        "path": "BlueprintGeneratedClass /Game/Items/Parts/AKBakelitePistolGrip.AKBakelitePistolGrip_C",
+        "weight": 300
+      },
+      {
+        "path": "BlueprintGeneratedClass /Game/Items/Parts/SteelAKMagazine.SteelAKMagazine_C",
+        "weight": 30
+      },
+      {
+        "path": "BlueprintGeneratedClass /Game/Items/Parts/RomanianWireStock.RomanianWireStock_C",
+        "weight": 100
+      }
+    ],
+    "name": "PM md. 63",
+    "is_part": false,
+    "slot": "None",
+    "types": [
+      "0",
+      "2",
+      "4",
+      "7"
+    ],
+    "id": 1371
+  },
+  "366": {
+    "path": "BlueprintGeneratedClass /Game/Items/Junk/Hammer2.Hammer2_C",
+    "natural": {},
+    "name": "Hammer",
+    "is_part": false,
+    "slot": "None",
+    "types": [
+      "0"
+    ],
+    "id": 366
+  },
+  "1462": {
+    "path": "BlueprintGeneratedClass /Game/Items/Parts/AlbanianSKSGasTube.AlbanianSKSGasTube_C",
+    "natural": {},
+    "name": "Albanian SKS gas tube",
+    "is_part": true,
+    "slot": "GasTube",
+    "types": [
+      "0",
+      "2",
+      "4",
+      "7"
+    ],
+    "id": 1462
+  },
+  "1360": {
+    "path": "BlueprintGeneratedClass /Game/Items/Parts/AMD63Handguard.AMD63Handguard_C",
+    "natural": {},
+    "name": "AMD63 handguard",
+    "is_part": true,
+    "slot": "Part1",
+    "types": [
+      "0",
+      "2",
+      "4",
+      "7"
+    ],
+    "id": 1360
+  },
+  "816": {
+    "path": "BlueprintGeneratedClass /Game/Items/Misc/NSFKKnife.NSFKKnife_C",
+    "natural": [
+      {
+        "path": "BlueprintGeneratedClass /Game/Items/Misc/NSFKKnifeScabbard.NSFKKnifeScabbard_C",
+        "weight": 1
+      }
+    ],
+    "name": "NSFK flyer's knife",
+    "is_part": false,
+    "slot": "None",
+    "types": [
+      "0",
+      "13",
+      "4"
+    ],
+    "id": 816
+  },
+  "352": {
+    "path": "BlueprintGeneratedClass /Game/Items/Junk/TinCanSmall.TinCanSmall_C",
+    "natural": {},
+    "name": "Tin Can",
+    "is_part": false,
+    "slot": "None",
+    "types": [
+      "0"
+    ],
+    "id": 352
+  },
+  "354": {
+    "path": "BlueprintGeneratedClass /Game/Items/Junk/TinCanOpened.TinCanOpened_C",
+    "natural": {},
+    "name": "Tin Can",
+    "is_part": false,
+    "slot": "None",
+    "types": [
+      "0"
+    ],
+    "id": 354
+  },
+  "371": {
+    "path": "BlueprintGeneratedClass /Game/Items/Junk/BowieKnife.BowieKnife_C",
+    "natural": {},
+    "name": "Bowie Knife",
+    "is_part": true,
+    "slot": "None",
+    "types": [
+      "0"
+    ],
+    "id": 371
   }
 }
